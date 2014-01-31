@@ -1,0 +1,15 @@
+Host sunny
+ForwardX11Trusted yes
+User marijn
+
+Host siren
+ForwardX11Trusted yes
+User marijn
+
+Host drsnuggles
+ForwardX11Trusted no
+User rodin
+
+Host tun
+LocalForward 9000 10.35.5.187:22
+User tunnel4marc

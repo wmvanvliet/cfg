@@ -1,0 +1,47 @@
+own_window yes
+own_window_type override
+#own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+#own_window_class Conky
+own_window_transparent no
+own_window_colour 101010
+
+double_buffer yes
+use_xft yes
+update_interval 1.0
+draw_shades no
+
+alignment bottom_left
+gap_x 1920
+gap_y 0
+minimum_size 1900 20
+
+font Consolas:size=10
+
+color1 e0e0e0
+color2 00aa00
+color3 aa0000
+
+short_units yes
+use_spacer right
+pad_percents 2
+
+TEXT
+${color1} CPUs: ${cpugraph cpu0 20,25 ff0000 ffffff -l} \
+${cpugraph cpu1 20,25 ff0000 ffffff} \
+${cpugraph cpu2 20,25 ff0000 ffffff} \
+${cpugraph cpu3 20,25 ff0000 ffffff} \
+${cpugraph cpu4 20,25 ff0000 ffffff} \
+${cpugraph cpu5 20,25 ff0000 ffffff} \
+${cpugraph cpu6 20,25 ff0000 ffffff} \
+${cpugraph cpu7 20,25 ff0000 ffffff} \
+MEM: ${membar 20,30} ${swapbar 20,30} \
+${goto 500} \
+NET: ${downspeed em0} ${upspeed em0} \
+${goto 700} \
+DISK: ${diskio} \
+${goto 900} \
+Top CPU: ${top name 1} \
+${goto 1200} \
+Top MEM: ${top_mem name 1} \
+${alignr} \
+${time %a %d %b %H:%M}

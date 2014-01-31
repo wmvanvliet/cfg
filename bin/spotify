@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Spotify
+Exec=env WINEPREFIX="/usr/home/marijn/.local/share/wineprefixes/spotify" wine 'C:\users\marijn\Application Data\Spotify\Spotify.exe'
+Type=Application
+StartupNotify=true
+Path=/usr/home/marijn/.local/share/wineprefixes/spotify/dosdevices/c:/users/marijn/Application Data/Spotify
+Icon=D0D3_Spotify.0

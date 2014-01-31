@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Steam
+Exec=env WINEPREFIX="/usr/home/marijn/.local/share/wineprefixes/steam" wine 'C:\windows\command\start.exe /Unix /usr/home/marijn/.local/share/wineprefixes/steam/dosdevices/c:/users/Public/Desktop/Steam.lnk
+Type=Application
+StartupNotify=true
+Comment=Steam Client
+Path=/usr/home/marijn/.local/share/wineprefixes/steam/dosdevices/c:/Program Files/Steam
+Icon=BAC4_steam.0

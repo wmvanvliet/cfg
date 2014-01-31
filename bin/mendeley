@@ -1,0 +1,3 @@
+#!/bin/sh
+export WINEPREFIX="/usr/home/marijn/.wine"
+wine '/usr/home/marijn/.wine/drive_c/Program Files/Mendeley Desktop/MendeleyDesktop.exe' &
