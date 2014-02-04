@@ -23,3 +23,10 @@ ln -s ~/cfg/compton.conf ~/.compton.conf
 
 rm -f ~/.conkyrc
 ln -s ~/cfg/conkyrc ~/.conkyrc
+
+mkdir ~/bin
+cp ~/cfg/bin/* ~/bin
+
+sudo cp ~/cfg/etc/hosts /etc/hosts
+sudo cp ~/cfg/etc/make.conf /etc/make.conf
+sudo cp ~/cfg/etc/rc.conf /etc/rc.conf
