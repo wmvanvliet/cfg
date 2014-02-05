@@ -448,3 +448,4 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 awful.util.spawn_with_shell("xscreensaver -no-splash")
 awful.util.spawn_with_shell("conky")
 awful.util.spawn_with_shell("compton --config ~/.config/compton.conf")
+awful.util.spawn_with_shell("xbindkeys")

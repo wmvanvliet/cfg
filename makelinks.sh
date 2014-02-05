@@ -24,6 +24,9 @@ ln -s ~/cfg/compton.conf ~/.compton.conf
 rm -f ~/.conkyrc
 ln -s ~/cfg/conkyrc ~/.conkyrc
 
+rm -f ~/.xbindkeysrc
+ln -s ~/cfg/xbindkeysrc ~/.xbindkeysrc
+
 mkdir ~/bin
 cp ~/cfg/bin/* ~/bin
 
