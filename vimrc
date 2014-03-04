@@ -54,7 +54,7 @@ map Q gq
 if &t_Co > 2 || has("gui_running")
   syntax on
   set hlsearch
-  "set guifont=Consolas
+  set guifont=Inconsolata\ 9
 endif
 
 " Only do this part when compiled with support for autocommands.
@@ -112,6 +112,8 @@ if has("gui_running")
 	set guioptions-=T
 endif
 
+" Leader key is ,
+let mapleader = ","
 
 " Make
 map <C-B> :make<CR>
@@ -161,25 +163,17 @@ if has("autocmd")
 	autocmd FileType tex setlocal ts=4 sts=4 sw=4 expandtab wrap linebreak nolist
 	autocmd FileType python setlocal ts=4 sts=4 sw=4 expandtab colorcolumn=80 omnifunc=pythoncomplete#Complete
 	autocmd FileType matlab setlocal ts=4 sts=4 sw=4 expandtab colorcolumn=80
+	autocmd FileType markdown setlocal ts=8 sts=8 sw=8 noexpandtab wrap linebreak nolist
 endif
 
 command! -nargs=* Wrap set wrap linebreak nolist
 
 " Only use pyflakes, not pep8
 let g:syntastic_python_checkers=['pyflakes']
+let g:ipy_completefunc=['none']
 
 " Gundo
 map <leader>g :GundoToggle<CR>
-let g:SuperTabDefaultCompletionType = "context"
-
-" CtrlP
-let g:ctrlp_map = '<leader>t'
-let g:ctrlp_match_window_bottom = 0
-let g:ctrlp_match_window_reversed = 0
-let g:ctrlp_custom_ignore = '\v\~$|\.(o|swp|pyc|wav|mp3|ogg|blend)$|(^|[/\\])\.(hg|git|bzr)($|[/\\])|__init__\.py'
-let g:ctrlp_working_path_mode = 0
-let g:ctrlp_dotfiles = 0
-let g:ctrlp_switch_buffer = 0
 
 " NERD Tree
 nmap <leader>e :NERDTreeToggle<CR>

@@ -10,10 +10,9 @@ use_xft yes
 update_interval 1.0
 draw_shades no
 
-alignment bottom_left
-gap_x 1920
-gap_y 0
-minimum_size 1900 20
+alignment bottom_right
+gap_y = 0
+minimum_size 1910 25
 
 font Consolas:size=10
 
@@ -26,15 +25,15 @@ use_spacer right
 pad_percents 2
 
 TEXT
-${color1} CPUs: ${cpugraph cpu0 20,25 ff0000 ffffff -l} \
-${cpugraph cpu1 20,25 ff0000 ffffff} \
-${cpugraph cpu2 20,25 ff0000 ffffff} \
-${cpugraph cpu3 20,25 ff0000 ffffff} \
-${cpugraph cpu4 20,25 ff0000 ffffff} \
-${cpugraph cpu5 20,25 ff0000 ffffff} \
-${cpugraph cpu6 20,25 ff0000 ffffff} \
-${cpugraph cpu7 20,25 ff0000 ffffff} \
-MEM: ${membar 20,30} ${swapbar 20,30} \
+${color1} CPUs: ${cpugraph cpu0 15,25 ff0000 ffffff} \
+${cpugraph cpu1 15,25 ff0000 ffffff} \
+${cpugraph cpu2 15,25 ff0000 ffffff} \
+${cpugraph cpu3 15,25 ff0000 ffffff} \
+${cpugraph cpu4 15,25 ff0000 ffffff} \
+${cpugraph cpu5 15,25 ff0000 ffffff} \
+${cpugraph cpu6 15,25 ff0000 ffffff} \
+${cpugraph cpu7 15,25 ff0000 ffffff} \
+MEM: ${membar 15,25} ${swapbar 15,25} \
 ${goto 500} \
 NET: ${downspeed em0} ${upspeed em0} \
 ${goto 700} \

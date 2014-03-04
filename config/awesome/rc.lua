@@ -85,7 +85,7 @@ end
 -- Define a tag table which hold all screen tags.
 tags = {}
 for s = 1, screen.count() do
-    tags[s] = awful.tag({ "term", "www", "python", "figures", 5, 6, 7, 8, 9 }, s, 
+    tags[s] = awful.tag({ "term", "www", "python", "figures", "wine", 6, 7, 8, 9 }, s, 
                         {layouts[2], layouts[2], layouts[2], layouts[1], layouts[2], layouts[2], layouts[2], layouts[2], layouts[2]})
 end
 -- }}}
@@ -355,9 +355,11 @@ awful.rules.rules = {
                      keys = clientkeys,
                      buttons = clientbuttons } },
     { rule = { class = "Opera" },
-	  properties = { tag=tags[2][2], floating = false } },
+	  properties = { tag=tags[screen.count()][2], floating = false } },
+    { rule = { class = "Midori" },
+	  properties = { tag=tags[screen.count()][2], floating = false } },
     { rule = { class = "Wine" },
-	  properties = { tag=tags[2][5], floating = true } },
+	  properties = { tag=tags[screen.count()][5], floating = true } },
     { rule = { class = "MPlayer" },
       properties = { floating = true } },
     { rule = { class = "-c" }, -- python figures
@@ -449,3 +451,4 @@ awful.util.spawn_with_shell("xscreensaver -no-splash")
 awful.util.spawn_with_shell("conky")
 awful.util.spawn_with_shell("compton --config ~/.config/compton.conf")
 awful.util.spawn_with_shell("xbindkeys")
+awful.util.spawn_with_shell("xrdb ~/.Xresources")

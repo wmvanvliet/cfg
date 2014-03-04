@@ -24,6 +24,7 @@ setenv	PAGER	more
 setenv	BLOCKSIZE	K
 setenv	BROWSER opera
 setenv	PYTHONPATH "$HOME/bciserver:$HOME/psychic:$HOME/golem:$HOME/toolboxes/python"
+setenv  MOZ_PLUGIN_PATH "/usr/local/lib/browser_plugins"
 
 alias cpv "rsync -avr --progress -e ssh"
 alias cpa "rsync -avr --append --progress -e ssh"
