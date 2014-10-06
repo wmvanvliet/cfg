@@ -1,0 +1,80 @@
+(dp1
+Vplt.plot(avg[:,2], '-b', linewidth=4)
+p2
+I3291
+sVpsychic.plot_timeseries( d3.ndX.reshape(8,-1).T )
+p3
+I4734
+sVeegplot.plot_erp(d2[11:], 100)
+p4
+I4574
+sVeegplot.plot_erp(d3[2], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+p5
+I6344
+sVd = training + test
+p6
+I5447
+sVchange_ids[np.nonzerp(events)]
+p7
+I3912
+sV30/9.0
+p8
+I1990
+sVmdict = {1:'bla'}
+p9
+I6543
+sVd.cl_lab = numpy.linspace(6,25,10)
+p10
+I1395
+sVnumpy.logical_not(bla[:,0])
+p11
+I1427
+sVeegplot.plot_erp( erp.erp(block3, (0,200)), 1000 )
+p12
+I4291
+sVd4.ids.shape
+p13
+I3530
+sVlo+pass = 45
+p14
+I3240
+sVplot.plot(performance)
+p15
+I6421
+sVs.start()
+p16
+I5458
+sVeegplot.plot_eeg(d2, 1000, vspace=10, spec_channel=3)
+p17
+I3303
+sVdropped
+p18
+I6024
+sV(a(idx) + a(idx2)) / 2
+p19
+I1676
+sVplot(d2.nd_xs[2,:,:])
+p20
+I4006
+sVidx2 = numpy.floor( numpy.linspace(0, len(a)-1, len(a)*7.5/10.0) )
+p21
+I1674
+sVtile(markers[0,1], markers[0,2]*d.samplerate)
+p22
+I143
+sVresult.X
+p23
+I6442
+sVx.repeat(2)
+p24
+I1592
+sVfor a in m.group(2).split(':')[1:]:
+p25
+I6534
+sVtrain =  d3[d3.ys[:30,0]] + d3[d3.ys[30:,1]]
+p26
+I4468
+sVeegplot.plot_erp(d2[5:], 100)
+p27
+I4572
+s.

@@ -1,0 +1,98 @@
+(dp1
+Vw.digital_min = w.digital_min[:5]
+p2
+I2452
+sVW = jadeR.jadeR( training.ndX.T.reshape(8,-1) )
+p3
+I5304
+sVvalues = {'local_subject_id':'Marijn van Vliet'}
+p4
+I1741
+sVeegplot.plot_erp(d4[:-3], 100)
+p5
+I6629
+sVclassification_window = (30, 50)
+p6
+I4913
+sVr = bdf.BDFReader('../data/marijn-14-IMECBE.bdf')
+p7
+I4158
+sVd = pre.apply(d)
+p8
+I4213
+sVclasses[off_indices[0]:on_indices[0]][1] = True
+p9
+I637
+sVreal_points.repeat(2, axis=0)
+p10
+I2139
+sVmax(d.xs)
+p11
+I1197
+sVnonzero( diff( np.hstack( ([False], ps[:,3] < 0.05, [False]) ) ) )
+p12
+I4380
+sV%run determine_categories.py
+p13
+I6647
+sV2340-2048
+p14
+I1830
+sVnumpy.nonzero( d.ys == 1 )[0][-1]
+p15
+I2340
+sVimport IPython.Debugger.Pdb as pdb
+p16
+I2804
+sVlen(numpy.nonzero(d4.ys[:,0] == d3.ys[:,0])[0]
+p17
+I2065
+sVnumpy.argmax( numpy.abs(slic_node.meanDifference) )
+p18
+I1196
+sVplt.specgram(d.xs[:,0], Fs=128, NFFT=10, noverlap=0)
+p19
+I985
+sVf = open('ssvep.dat', 'rb')
+p20
+I286
+sVtrial_erp = erp.erp(trial2)
+p21
+I6153
+sVplot.legend(list(classifiers), loc='best')
+p22
+I6481
+sVimport scipy.stats.norm
+p23
+I166
+sVd4 = golem.DataSet(Y= vstack(( hstack((zeros(1, 10), ones(1,10))), hstack((ones(1,10), zeros(1,10))) )), default=d3)
+p24
+I6170
+sV(1,2) + 3
+p25
+I5696
+sVscipy.stats.binom_test?
+p26
+I2967
+sVxlim(1,10)
+p27
+I6425
+sVsvm = golem.nodes.SVM(C=0)
+p28
+I3954
+sVpsychic.plot_timeseries(X2[:,100:200].T)
+p29
+I5366
+sVd2.xs.shape
+p30
+I127
+sV(abs(d3.ndX) > 100, axis=2)
+p31
+I6584
+sVnp.max(d.Y)
+p32
+I4767
+sVys[130698:145716] = 2
+p33
+I2783
+s.

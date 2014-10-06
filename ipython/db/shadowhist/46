@@ -1,0 +1,74 @@
+(dp1
+Vtraining.ndX.T.reshape(8, -1)
+p2
+I5416
+sVtrial = d[240246:241196]
+p3
+I6151
+sV(lo+hi)/2
+p4
+I1695
+sVpycuda.autoinit
+p5
+I6706
+sVpca.Wt.shape
+p6
+I1107
+sVgolem.perf.accuracy(perf[0])
+p7
+I3975
+sVtime.time()
+p8
+I1244
+sVeegplot.plot_erp(d2[10:40], 100)
+p9
+I4566
+sVfeat_lab = ['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3']
+p10
+I3776
+sVimport logging
+p11
+I36
+sVeegplot.plot_erp(d3[:2], 100 )
+p12
+I4254
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[[1,2,3,4,5,6,8,9,10,11,12,14,15,16,17,18,19,20],:,:], axis=0) )
+p13
+I4620
+sVax = fig.add_subplot(111)
+p14
+I779
+sVr = bdfreader.BDFReader( open('test.bdf') )
+p15
+I1795
+sVimport this
+p16
+I1017
+sVa = [2,3,4]
+p17
+I602
+sVPVM?
+p18
+I4489
+sVplt.figure(figsize=(5,4))
+p19
+I2177
+sVw.transducer_type
+p20
+I2432
+sVtype([1,2,3])
+p21
+I4055
+sVerp.erp(training[block_labels == block], classes=[3])
+p22
+I5635
+sVr = bdf.BDFReader('../data/fre-p300-full-5.bdf')
+p23
+I5060
+sVplot( mean(d2.nd_xs, axis=0) )
+p24
+I3684
+sVmultiply?
+p25
+I4741
+s.

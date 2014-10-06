@@ -1,0 +1,8 @@
+{
+  "stdin_port": 56207, 
+  "ip": "127.0.0.1", 
+  "hb_port": 56208, 
+  "key": "ecff1d3c-f614-4014-98c3-1a4aa5b15339", 
+  "shell_port": 56205, 
+  "iopub_port": 56206
+}

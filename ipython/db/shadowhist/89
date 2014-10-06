@@ -1,0 +1,62 @@
+(dp1
+Vdel block3
+p2
+I4301
+sVimec.shape
+p3
+I2848
+sV%run experiment4.py
+p4
+I6220
+sVys[15485:25492] = 2
+p5
+I2378
+sVd.ids[np.nonzero(d.ys)[0][0]]
+p6
+I3604
+sVys = numpy.nonzero(d.ys == 1)[0]
+p7
+I2495
+sVfor idx,freq in enumerate(a): print idx,freq
+p8
+I1373
+sVd[1] = 5
+p9
+I5135
+sVeegplot.plot_erp(d4.get_class(0), 100)
+p10
+I5816
+sVeegplot.plot_erp( erp.erp(d2, (0,20), classes=range(1,7)), 1000 )
+p11
+I4337
+sVr = bdf.BDFReader('../data/do-p300-01.bdf')
+p12
+I4834
+sVfolds
+p13
+I5828
+sVbp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0/(s/2.0), 100/(s/2.0)]) )
+p14
+I6330
+sVpsychic.plot_timeseries(d2.nd_xs[1,:,:])
+p15
+I4588
+sVys = psychic.resample_markers(d.ys.flatten(), 0.1,1)
+p16
+I4327
+sVdatetime.datetime.now().strftime('%d.%m.%y')
+p17
+I1248
+sVplot.plot(d2.ids[7000:8000], d2.xs[7000:8000,1])
+p18
+I1961
+sVmean(d3.nd_xs)
+p19
+I4668
+sVpsychic.plot_timeseries(X3[0.:,:])
+p20
+I5378
+sVplot.plot(d2[:,0])
+p21
+I1798
+s.

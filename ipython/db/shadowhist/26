@@ -1,0 +1,74 @@
+(dp1
+Vplt.plot(d3.ys)
+p2
+I4656
+sVrare.nd_xs[0,:,1]
+p3
+I5018
+sVpreprocessing.train()
+p4
+I743
+sVd4 = window_node.apply(d3)
+p5
+I909
+sVval
+p6
+I391
+sVb.reshape(2,3)
+p7
+I1806
+sVch.setLevel(logging.DEBUG)
+p8
+I487
+sVplot.plot( d.xs[128:256,0] )
+p9
+I2645
+sVreload(erp)
+p10
+I4160
+sVX2 = np.rollaxis(X.reshape(8, 74, 100), -1)
+p11
+I5333
+sVinterp?
+p12
+I3194
+sVpos = round(events[:,0] * 100).astype(int)
+p13
+I4117
+sV16*128
+p14
+I1890
+sVnumpy.linspace(0,4)
+p15
+I1686
+sVsubsets[0].nfeatur
+p16
+I5552
+sVimport collections
+p17
+I5130
+sVlogging.basicConfig(level='debug')
+p18
+I34
+sVreject_trials.reject_trials(d4, 1000, d2.feat_lab)
+p19
+I6269
+sVb.loans
+p20
+I1217
+sVf.keys
+p21
+I1277
+sVgolem.perf.accuracy( cl.apply(d2) )
+p22
+I4797
+sVpsychic.plot_timeseries(nontargets, offset=5, color='b')
+p23
+I3510
+sVreduce?
+p24
+I5678
+sVplt.plot(window_sizes, acc_array[epoc,:].T)
+p25
+I2859
+s.

@@ -1,0 +1,71 @@
+(dp1
+V%run -p main.py
+p2
+I122
+sVthres2
+p3
+I226
+sVmatches.groups(1)
+p4
+I5974
+sVd2[1]
+p5
+I181
+sVnumpy.nonzero( (d.ys == 1)[0] )
+p6
+I2215
+sVslice_node.train(test)
+p7
+I255
+sVeegplot.plot_erp(d2, 100, vspace=5)
+p8
+I4007
+sVp = [perf[:18]]
+p9
+I2081
+sVblock.ys[ flatnonzero(block.ys) ]
+p10
+I4187
+sVeegplot.plot_erp(d2[:15]+d2[52], 100)
+p11
+I4580
+sVscipy.stats.paired?
+p12
+I3004
+sVnumpy.atleast_2d(signal).repeat(10, axis=1)
+p13
+I1943
+sVd.Y[0,block_onsets]
+p14
+I4765
+sVa = np.rollaxis(training.ndX.T,-1).reshape(8,-1).T
+p15
+I5262
+sVd.save('../Data/Subject8-IMEC.bdf')
+p16
+I3105
+sVa = [1,2,3,4,5]
+p17
+I5144
+sVrank
+p18
+I2959
+sVd5 = window_node.apply(d4)
+p19
+I1473
+sVblock_onsets = np.flatnonzero(d.Y > 100)
+p20
+I4762
+sVd2.Y.shape
+p21
+I5045
+sVbuffer = dev.read(0x0, 32)
+p22
+I859
+sVplt.errorbar(window_sizes, np.mean(acc_array[epoc,:], axis=0), yerr=np.var(acc_array[epoc,:], axis=0))
+p23
+I2862
+sVa.repeat(12, axis=1).shape
+p24
+I1332
+s.

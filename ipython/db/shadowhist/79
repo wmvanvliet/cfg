@@ -1,0 +1,76 @@
+(dp1
+Vd4 = golem.DataSet(Y= vstack(( hstack((zeros((1, 10)), ones((1,10)))), hstack((ones((1,10)), zeros((1,10)))) )), cl_lab=['congruent', 'incongruent'], default=d3)
+p2
+I6173
+sVfriedman_test.sign_test(data)
+p3
+I2969
+sVnp.apply_over_axis?
+p4
+I5724
+sVblock = d[8744:12048]
+p5
+I4245
+sVd2.ys[:,0].shape
+p6
+I1408
+sVlogging.basicConfig(level='debug', stream=0)
+p7
+I44
+sVnumpy.sin(31)
+p8
+I1071
+sVd.Y[0,:]
+p9
+I5645
+sVscipy.signal.iirfilt?
+p10
+I1089
+sVplot(d.ids)
+p11
+I2727
+sVeegplot.plot_eeg(d[-3000:-120])
+p12
+I4544
+sVd2 = golem.DataSet(ys=ys, default=d)
+p13
+I2765
+sVd2 = resample_node.apply(d)
+p14
+I4330
+sVeegplot.plot_eeg(d4, 1000, spec_channel=6)
+p15
+I3228
+sVlda = golem.nodes.LDA(cov_f= (lambda x: x.dot(x.T)))
+p16
+I6093
+sVa = array([ [[1,2,3,4], [5,6,7,8]], [[9,10,11,12], [13,14,15,16]] ])
+p17
+I5412
+sVx
+I1569
+sVtraining.cl_lab.index('block')
+p18
+I5623
+sVd = cl.preprocessing.apply(cl.data)
+p19
+I4993
+sVnonzero(d.ys == 41)[0].size
+p20
+I3078
+sVda = a[1:0] - a[0:-1]
+p21
+I1542
+sVnp.stddev
+p22
+I134
+sVplt.plot(d2.nd_xs[35,:,:,1].T, '-k')
+p23
+I66
+sVuints.shape
+p24
+I1781
+sVmu1, sigma1 = scipy.stats.norm.fit(d2.xs[ np.any([d2.ys == 2, d2.ys == 5,:], axis=0) ])
+p25
+I208
+s.

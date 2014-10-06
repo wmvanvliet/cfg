@@ -1,0 +1,59 @@
+(dp1
+Vnp.mean(d2.xs[d2.ys[:,0],1])
+p2
+I339
+sVdir(pdb)
+p3
+I568
+sVplot.plot(differences, '-x')
+p4
+I6658
+sVaxvline?
+p5
+I3857
+sVmean_corrs = slic_node.slic(d)
+p6
+I2225
+sVgolem.DataSet.load?
+p7
+I5911
+sVplt.plot(acc_array[imec,:].T)
+p8
+I2856
+sVslic_node.best_channels
+p9
+I1192
+sVd2 = psychic.load_bdf('../Data/Subject1-IMEC.bdf')
+p10
+I2398
+sVtrial_erp2 = erp.erp(d2)
+p11
+I6155
+sVround(12.8*3)+1
+p12
+I2028
+sVdx = numpy.append(dx, numpy.zeros([1/0.5, x.shape[1]]), axis=0)
+p13
+I1574
+sVyi
+p14
+I1729
+sVscipy.stats.binom_test([2,5], 7)
+p15
+I2974
+sVbin
+p16
+I1809
+sVplt.plot(window_sizes, fp_rate, '-^', label='False positive rate')
+p17
+I2267
+sVeegplot.plot_erp(d2, 1000, vspace=5, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'], start=0.1, baseline_period=(-0.1, 0))
+p18
+I3876
+sVd = psychic.load_bdf('../Data/Dominique1.bdf')
+p19
+I2207
+sVnumpy.hstack( [0, splits, d.ninstances-1] )
+p20
+I2674
+s.

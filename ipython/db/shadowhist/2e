@@ -1,0 +1,89 @@
+(dp1
+Vplt.savefig('EPOC.pdf', format='pdf')
+p2
+I1310
+sVtraining.ndX
+p3
+I5288
+sVnp.mean(d2.xs[d.ys[:,3],1])
+p4
+I337
+sVeegplot.plot_eeg(d2[-10000:-170])
+p5
+I4551
+sVimport(erp)
+p6
+I4347
+sVbytes("\u005c\u005cx20")
+p7
+I6063
+sVgolem.perf.mean_std(golem.perf.accuracy, golem.cv.cross_validate(golem.cv.seq_splits(targets+nontargets[:60],6), svm) )
+p8
+I4485
+sVd3.cl_lab = ['on', 'off'];
+p9
+I1434
+sVvalues = r.read_header()
+p10
+I3548
+sVa = numpy.arange(0, 128.0, 12.8)
+p11
+I1632
+sVxlabel('Number of repetitions')
+p12
+I6485
+sVyinterp = np.interp(xvals, x, y)
+p13
+I1715
+sVnonzero(d.ys==2)
+p14
+I3749
+sVeegplot.plot_eeg(d[20000:300000],1000)
+p15
+I3440
+sVpsychic.plot_timeseries(training.X.T.reshape(-1,8))
+p16
+I5351
+sVw.n_channels
+p17
+I2420
+sVdel d
+p18
+I3464
+sV3.8 + -0.2 + (1/2) * 0 + (1/6) * -0.6 + (1/24) * -1.2 + (1/120) * -.3
+p19
+I530
+sVeegplot.plot_erp(d3[:30], 1000)
+p20
+I6215
+sVplot.plot(d2.xs[128:256,13])
+p21
+I2598
+sVlda_node = golem.nodes.LDA()
+p22
+I6408
+sVeegplot.plot_erp(d2, 100, classes=[1,2], vspace=5 )
+p23
+I4229
+sVeegplot.plot_erp(d2, 100, classes=[1,2] )
+p24
+I4227
+sVlogger.addHandler(ch)
+p25
+I490
+sVb.accounts
+p26
+I1214
+sV%run offpine_p300
+p27
+I6091
+sVfreqs = numpy.fft.fftfreq(len(w))
+p28
+I1979
+sVtrainind.ndX.shape
+p29
+I5209
+sVeegplot.plot_eeg(d2[1:1000])
+p30
+I4553
+s.

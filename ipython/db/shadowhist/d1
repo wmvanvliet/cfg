@@ -1,0 +1,86 @@
+(dp1
+Vpca.Y.shape
+p2
+I1110
+sVeegplot.plot_erp(d2, 1000, 100, baseline_period=(0, 2000))
+p3
+I3634
+sVeegplot.plot_erp( erp.erp(d2, (0,200)), 1000 )
+p4
+I4261
+sVd.ys[1:100]
+p5
+I3690
+sVa+da
+p6
+I1552
+sVoff_indices.shape
+p7
+I625
+sVplot.axvline(-2.0, color='r')
+p8
+I6582
+sVd2 = psychic.slice(d, mdict, (-2000, -1900))
+p9
+I4087
+sVbdf.int24_to_le( numpy.array([d2.xs[128,:]]) )
+p10
+I2631
+sVnp.nonzero(d.ys[:,2])
+p11
+I3108
+sVplot.plot(d5.nd_xs[90:110,:,5].T, '-k')
+p12
+I1496
+sVmatches.group(0)
+p13
+I708
+sVbdfreader.int24_to_le(d.xs[0:128,:])
+p14
+I1777
+sVd3 = psychic.utils.slice(block, mdict, (0, 100))
+p15
+I4218
+sVflatnonzero(training.Y[1,:])
+p16
+I5195
+sVnp.std?
+p17
+I4716
+sVd2.ys[:,9]
+p18
+I1410
+sVnp.rollaxis(b,-1).reshape(-1,2)
+p19
+I5274
+sVeegplot.plot_eeg(d3[19000:25000])
+p20
+I3697
+sVtest[26+27*27:26+38*27]
+p21
+I453
+sVeegplot.plot_erp(d2[:-10], 1000, feat_lab=d.feat_lab, pval=0.05, vspace=10, cl_lab=[], start=0)
+p22
+I6296
+sVplt.plot(periods[3,:,:], '-k')
+p23
+I3294
+sVeegplot.plot_eeg(d[-3000:-2800])
+p24
+I4534
+sVfft_node.train(d)
+p25
+I3789
+sVmdict = {1:'target', 2:'nontarget')
+p26
+I4643
+sVeegplot.plot_eeg(d[0:1000], 128, spectogram=False)
+p27
+I2552
+sVplot.plot( np.mean(d2.nd_xs[199:200,:,:], axis=0) )
+p28
+I4134
+sVprint '%8d' % 1
+p29
+I1758
+s.

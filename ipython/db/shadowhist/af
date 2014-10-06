@@ -1,0 +1,47 @@
+(dp1
+Vnonzero(d.ys == 41)[0]
+p2
+I3075
+sVclasses[0][2]
+p3
+I632
+sVd4.ys && d3.ys
+p4
+I2254
+sV[(x,i) for x,i in enumerate(string[::-1])]
+p5
+I5958
+sVimport usb.core
+p6
+I832
+sVeegplot.plot_eeg(d[-3000:-140])
+p7
+I4543
+sVnumpy.append(numpy.atleast_2d(a), numpy.atleast_2d(a+da), axis=0)
+p8
+I1558
+sVd.ys == 2
+p9
+I2201
+sVmatches = re.match(r'.*?(\u005cd+)$', '43bla3043')
+p10
+I5983
+sVplot.plot(frames[:,14] & 0xf)
+p11
+I2559
+sVf = open('../Data/Subject4-EPOC.bdf')
+p12
+I2684
+sVeegplot.plot_eeg(d3[d3.ys[:,0]], 200)
+p13
+I1456
+sVplt.plot(d3.xs)
+p14
+I229
+sVnp.mean( d2.xs[d2.ys == 2,:] )
+p15
+I185
+sVnumpy.tile?
+p16
+I942
+s.

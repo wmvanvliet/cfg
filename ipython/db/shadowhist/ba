@@ -1,0 +1,80 @@
+(dp1
+Vlogging.basicConfig(level='debug', stream=1)
+p2
+I43
+sVnumpy.atleast_2d(real_points).repeat(2, axis=0).reshape(4,2)
+p3
+I2164
+sVprint re.match('1:2', '1:2')
+p4
+I692
+sVX3 = X2.copy()
+p5
+I5720
+sVdir(cat1)
+p6
+I6671
+sVflip_array[0,:]
+p7
+I2882
+sVd4 = erp.Blowup(200).apply(d3)
+p8
+I5808
+sVnumpy.atleast_2d(real_points).repeat(2, axis=0).reshape(2,4)
+p9
+I2156
+sVplt.savefig('../Paper/stat_tests.pdf')
+p10
+I3048
+sVpca.fracs[0:5].sum()
+p11
+I1104
+sVidx = np.array( np.round(np.linspace(0, d.ninstances-1, d.ninstances*new_samplerate/old_samplerate)), dtype=np.int)
+p12
+I1665
+sVplot.plot([0.5, .75, .9, 1], mean(differences, axis=1), linewidth=4)
+p13
+I6666
+sVplot_eeg(d, 1000, baseline=False, spec_channel=1)
+p14
+I1299
+sVa = array([[[1,2,3,4],[5,6,7,8]],[[9,10,11,12],[13,14,15,16]]])
+p15
+I5386
+sVlen(flatnonzero(d2.Y[3,:]))
+p16
+I5579
+sVeegplot.plot_eeg(d4)
+p17
+I1414
+sVX3 = np.rollaxis(X2, 2)
+p18
+I5727
+sVnumpy.nonzero(d.ys[:,0])[0].astype(numpy.int)[1:] - numpy.nonzero(d.ys[:,0])[0].astype(numpy.int)[:-1]
+p19
+I2364
+sVnumpy.nonzero( (d.ys == 2) )
+p20
+I2217
+sVnp.nan(1)
+p21
+I6424
+sVnumpy.append(numpy.atleast_2d(a), a+da, axis=0)
+p22
+I1557
+sVplot( mean(nontargets[:60].nd_xs, axis=0) )
+p23
+I3843
+sVeegplot.plot_erp(d2, 1000, vspace=10, baseline_period=(0, 0.1), feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p24
+I3850
+sVb = numpy.arange(12)
+p25
+I1644
+sVpred[pred.ys[:,0]].ids
+p26
+I4211
+sVd3 = psychic.slice(d2[10000:-10000], mdict, (-1000, 1000))
+p27
+I6212
+s.

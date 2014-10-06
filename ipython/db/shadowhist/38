@@ -1,0 +1,110 @@
+(dp1
+VX2
+p2
+I5316
+sVnumpy.atleast_3d(x).reshape(3,2)
+p3
+I1585
+sV(16036-6030) / 1000
+p4
+I576
+sVplt.plot(window_sizes, numpy.mean(perfs_array[imec,:], axis=0), '-x')
+p5
+I2104
+sV(10/128.0) * 12
+p6
+I1902
+sV256+360
+p7
+I2605
+sVnp.any(d2.Y[training_pairs,:], axis=0)
+p8
+I5178
+sVw = bdf.BDFWriter('../Data/Subject4-EPOC-BEST.bdf', values=values)
+p9
+I2686
+sVys = psychic.resample_markers(d.ys.flatten(), 0.1)
+p10
+I4326
+sVdel r
+p11
+I2391
+sVd4 = bdf.load_bdf('../data/dominique-1-channels-resampled.bdf')
+p12
+I4814
+sVA = atleast_2d( array([1,2,3]) )
+p13
+I3490
+sVclasses[off_indices[0]:on_indices[0]][0] = True
+p14
+I641
+sVx = numpy.array([[2,5,3], [3,6,4]]).T
+p15
+I1572
+sVtraining.nd_xs
+p16
+I5227
+sVa = np.array(a)
+p17
+I2963
+sVa > 2
+p18
+I4170
+sV[word for word in cat1.readlines()]
+p19
+I6674
+sVrandom_imec[127,:]
+p20
+I2906
+sV60/7
+p21
+I104
+sVnonzero(d.ys == 2)
+p22
+I3640
+sVch.serLevel(logging.DEBUG)
+p23
+I486
+sVtrials.Y
+p24
+I4976
+sVeegplot.plot_eeg(d2[idx], 128, spectrogram=False)
+p25
+I2538
+sVmix = golem.DataSet(Y=Y, default=random)
+p26
+I6645
+sVflatnonzero(d.Y)
+p27
+I6134
+sVvalues = {'local_recording_id':'Test recording', 'local_subject_id':'Marijn van Vliet', 'num_channels':8, 'start_date':'03.02.11', 'start_time':'11.20.50', 'n_samples_per_record':[128,128,128,128,128,128,128,128]}
+p28
+I1761
+sVtargets = interp(np.arange(0,xs.shape[0]/1000.0,0.001), stimulation['Timing'][0][0][0], ys)
+p29
+I3204
+sV40 % 40
+p30
+I5078
+sVplot.plot(freqs[:500], numpy.abs(w[:500]) )
+p31
+I1984
+sVclassifier0.train(d3)
+p32
+I4902
+sVcPickle?
+p33
+I354
+sVdiff( flatnonzero(d.ys) )[:10]
+p34
+I4751
+sVtraining.get_class(0).X.shape
+p35
+I5495
+sVeegplot.plot_erp(d2, 1000, 10, (0, 2000))
+p36
+I3616
+sV%run main.py emulator p300
+p37
+I5120
+s.

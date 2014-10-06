@@ -1,0 +1,76 @@
+(dp1
+Vnp.hstack(c).shape
+p2
+I322
+sVplot(drift_default[:,0], drift_default[:,3])
+p3
+I6042
+sVeegplot.plot_eeg(d[0:10000])
+p4
+I3715
+sVys = d.ys[:]
+p5
+I2759
+sVfrom reject_trials impor reject_trials
+p6
+I6606
+sVnp.rollaxis(np.tile(a.T, [3,1,1]), 2)
+p7
+I5241
+sV1/d.ids[1] - d.ids[0]
+p8
+I1682
+sV%run anim.py ../N400/data/marijn-present_words-1-imecbe.bdf
+p9
+I6307
+sVacc_array[np.array(imec),:].T.shape
+p10
+I2295
+sVunique(d2.Y)
+p11
+I6609
+sVnumpy.mean( d2.xs[d2.ys[:,2],0] )
+p12
+I2223
+sV0.78125 * 128
+p13
+I1900
+sVreload(thres)
+p14
+I221
+sVw = bdf.BDFWriter('../Data/Subject1-EPOC.bdf', values=values)
+p15
+I2470
+sVd2 = cl._extract_trials(d)
+p16
+I4994
+sVd.nfeat
+p17
+I5733
+sVmax(d2.ids)[0]
+p18
+I345
+sVf
+I385
+sVnp.any(np.any(np.abs(di3.ndX) < 100, axis=0), axis=0)
+p19
+I6597
+sVd.Y.shape
+p20
+I3412
+sVd = bdf.load_bdf('imecbe-oddball-20.bdf')
+p21
+I6077
+sVthres_node_20.lo
+p22
+I332
+sVimport selectserver
+p23
+I2791
+sVimport gmpy
+p24
+I362
+sV'43bla3043'[matches.span(1)[0]:]
+p25
+I5989
+s.

@@ -1,0 +1,68 @@
+(dp1
+Vd4 = d3.get_class(0) + d3.get_class(1)
+p2
+I6580
+sVcfg = dev.get_active_configuration()
+p3
+I862
+sVlen(e)
+p4
+I4177
+sVeegplot.plot_eeg(d2[20000:300000],1000)
+p5
+I3458
+sVa = np.array([[3,2,5,4,6,3,5,4], [8,2,3,2,4,9,8,9]])
+p6
+I3067
+sVplot.plot(d.xs[0:128,0])
+p7
+I1823
+sVplot.ylabel('mean difference in 300-400ms period')
+p8
+I6668
+sVnp.diff(d.ys)
+p9
+I3890
+sVd3 = psychic.slice(block1, mdict, (0, 1000))
+p10
+I4430
+sVplt.ylim([0.4, 1])
+p11
+I1875
+sVeegplot.plot_eeg(d4, 1000, spec_chan=6)
+p12
+I3227
+sV800/250
+p13
+I3727
+sVd3 = resample_node.apply(d2)
+p14
+I1444
+sVnumpy.linspace(0.2, 2.0, 19)
+p15
+I2175
+sV60/8
+p16
+I105
+sVframe = cPickle.load( open('test2.dat', 'rb') )
+p17
+I380
+sVdev.bcdDevice
+p18
+I855
+sVa = array([[1,2,3],[4,5,6]])
+p19
+I5007
+sVeegplot.plot_erp(d2, 1000, 10, (0, 0.10))
+p20
+I3772
+sVlegend(['within category', 'between category'], pos='best')
+p21
+I6280
+sVblock.Ys
+p22
+I4973
+sVica_node.train(training)
+p23
+I5453
+s.

@@ -1,0 +1,71 @@
+(dp1
+Vnp.max(d3.X - d3.ndX.reshape(-1,d3.ninstances))
+p2
+I4675
+sVeegplot.plot_erp(d2[:400], target_samplerate, enforce_equal_n=True, feat_lab=d.feat_lab, baseline_period=(10,20))
+p3
+I4867
+sVreal_points = real_points.reshape(2, len(real_points)/2);
+p4
+I2134
+sVeegplot.plot_erp(d2[:200], 100, baseline_period=(0.5,1.0), vspace=10)
+p5
+I4153
+sVnumpy.arange(2,4,0.1mdtype=numpy.float64)
+p6
+I1341
+sVx.repeat(2, axis=0)
+p7
+I1593
+sVmatches.groups(0)
+p8
+I5973
+sVprint platform.python_version()
+p9
+I1274
+sVblock = d[54410:87440]
+p10
+I4262
+sVnp.nonzero( window_sizes == 1.0 )
+p11
+I2870
+sVnumpy.zeros( (2,3) )
+p12
+I1183
+sVd2 = bp_node.train_apply(d,d)
+p13
+I6125
+sVa = numpy.arange(128.0, 12.8)
+p14
+I1631
+sVselectserver.SERVER.__sname
+p15
+I2795
+sVeegplot.plot_eeg(d4, 1000, vspace=10, spec_channel=5)
+p16
+I3229
+sVplot(d.Y[0,:])
+p17
+I5915
+sVtest.Y < 50
+p18
+I5205
+sVd2 = psychic.slice(d, {1:'target', 2:'nontarget'}, (0, 700))
+p19
+I3769
+sVeegplot.plot_eeg(d3[0:4000])
+p20
+I3695
+sVa.repeat(12, axis=1)
+p21
+I1331
+sVnum_blocks-num_train_blocks
+p22
+I6476
+sVslice_node = psychic.nodes.Slice({1:'left', 2:'right', 3:'left', 4:'right'}, [-1, 1])
+p23
+I254
+sVplt.axhline(0.05, ls='--y')
+p24
+I3044
+s.

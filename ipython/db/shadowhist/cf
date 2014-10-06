@@ -1,0 +1,83 @@
+(dp1
+Vcongruent_pairs[congruent_ind==4]
+p2
+I5471
+sVnp.atleast_2d(a[:,1])
+p3
+I6551
+sVd3 = bp_node.apply(d)
+p4
+I3655
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[15:,:,:], axis=0) )
+p5
+I4596
+sVimport classifier
+p6
+I563
+sVprint a.append('STATUS')
+p7
+I2008
+sVd2 = slice_node.apply(d)
+p8
+I262
+sVplot.plot(matlab['stimulation']['Intensity'])
+p9
+I3151
+sVlen(lda.means)
+p10
+I4875
+sVvar(d3.ndX[d3.ys[:,2],:,:])
+p11
+I4679
+sVflatnonzero(d.ys>100)
+p12
+I4427
+sVprint str(e.message)
+p13
+I5545
+sVthres_node.lo
+p14
+I223
+sVys = targets
+p15
+I3207
+sVbdf.int24_to_le( numpy.array([d2.xs[120,0]]) )
+p16
+I2613
+sVa = array([ [[1,5], [9,13]], [[2,6], [10,14]], [[3,7], [11,15]], [[4,8], [12,16]] ])
+p17
+I5395
+sV%edit compare_devices.py
+p18
+I3317
+sVd = psychic.load_bdf('../Data/Dominique6.bdf')
+p19
+I2483
+sVplot.legend(['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AFz'])
+p20
+I6659
+sVd2 = psychic.utils.slice(block, mdict, (0, 50))
+p21
+I4228
+sVY.shape
+p22
+I5093
+sVa ** 2
+p23
+I2962
+sVplt.plot(winodw_sizes, acc_array)
+p24
+I2286
+sVnp.nonzero(d.ys[:,0])
+p25
+I3278
+sVclassifier0.nodes[0].const
+p26
+I4901
+sVw = bdf.BDFWriter('test.bdf', samplerate=128, num_channels=6)
+p27
+I1869
+sVnp.argmax(np.max( np.mean( d2.nd_xs[60,:,:,:], axis=0 ), axis=0))
+p28
+I90
+s.

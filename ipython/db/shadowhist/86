@@ -1,0 +1,80 @@
+(dp1
+VX4 = np.rollaxis(X3.T, 1, 2)
+p2
+I5427
+sVepoc_results
+p3
+I3002
+sVMvV is supported by  the Belgian Fund for
+p4
+I3945
+sVys:1935:3215] = 2
+p5
+I2404
+sV(d.ys == 0).astype(numpy.int)[1:] - (d.ys == 0).astype(numpy.int)[:-1]
+p6
+I2664
+sVclassifier0.alpha
+p7
+I5107
+sVnp.log(0.0)
+p8
+I5504
+sVys[:845] = 2
+p9
+I2541
+sVfor i in xrange(10):
+p10
+I5594
+sVeegplot.plot_erp(d3, 1000, (0, 100), feat_lab=d.feat_lab, cl_lab=d3.cl_lab)
+p11
+I4431
+sVplt.specgram(d.xs)
+p12
+I976
+sVX2 = X.reshape(X.shape[:-2] + [-1])
+p13
+I5716
+sVw = bdfreader.BDFWriter('test.bdf')
+p14
+I1737
+sVtest[26+26*27:26+27*27]
+p15
+I456
+sVblock1
+p16
+I5616
+sVimport scipy,numpy,golem,psychic,fft,ica,slic,thres,eegplot,resample,bdfreader,matplotlib.pyplot as plot
+p17
+I1735
+sVfig_size =  [fig_width,fig_height]
+p18
+I2316
+sVimport sys
+p19
+I47
+sV1326/60
+p20
+I2531
+sVw.samples_left_in_record
+p21
+I1827
+sVeegplot.plot_eeg(block)
+p22
+I4280
+sV(a2 == 6).shape
+p23
+I1378
+sVd2 = psychic.utils.slice(block3, mdict, (0, 500))
+p24
+I4290
+sVcd Temp/daeken-Emokit-881f0a8/
+p25
+I870
+sVa = range(0,10,1.5)
+p26
+I1907
+sVnp.atleast_3d(a)
+p27
+I6553
+s.

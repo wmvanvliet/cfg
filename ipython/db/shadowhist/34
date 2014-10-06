@@ -1,0 +1,80 @@
+(dp1
+Vplot.plot(numpy.mean(d5.nd_xs[110:120,:,5], axis=0), '-b', linewidth=4)
+p2
+I1512
+sVeegplot.plot_eeg(d[62000:63000], vspace=50)
+p3
+I4147
+sVframes[14222:15222,14].astype(numpy.int) & 0xffff
+p4
+I2562
+sVclasslab[0,:] = (a2 == freq)
+p5
+I1382
+sVwindow_node.train(d5)
+p6
+I3114
+sVa = numpy.array([1,2,3,4,5]);
+p7
+I1685
+sVnp.max(np.abs(a))
+p8
+I3433
+sV(1+4+3) / 3.0
+p9
+I4507
+sVw.label
+p10
+I1844
+sVplot.plot(mean(differences, axis=1), linewidth=4)
+p11
+I6662
+sVplt.specgram(d.xs[:,2], Fs=128, NFFT=128, noverlap=0)
+p12
+I1000
+sVa = numpy.arange(6.0,25.0,20.9/10.0)
+p13
+I1343
+sVeegdevices.Emulator?
+p14
+I6243
+sVscipy.stats.norm.fit([1,2,3,4,5,4,3,2,3,4,3,2,3,])
+p15
+I135
+sVfig = plot.figure()
+p16
+I2112
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[40:50,:,:], axis=0) )
+p17
+I4622
+sVpsychic.plot_timeseries( X2[:,:,0] )
+p18
+I5315
+sVplot( diff(m[:,1]) )
+p19
+I5886
+sVd4 = erp.Blowup(200).spply(d3)
+p20
+I5807
+sVimport scipy,numpy,golem,psychic,fft,ica,slic,thres,eegplot
+p21
+I933
+sVplot.plot(numpy.mean(d5.nd_xs[130:140,:,5], axis=0), '-b', linewidth=4)
+p22
+I1516
+sVtarget.shspae
+p23
+I3835
+sVd3 = chain.apply(d2)
+p24
+I5756
+sVd2 = fft_node.train_apply(d)
+p25
+I6104
+sVcandidates
+p26
+I6461
+sVdict
+p27
+I5484
+s.

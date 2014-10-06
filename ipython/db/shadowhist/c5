@@ -1,0 +1,86 @@
+(dp1
+Vnp.zeros([7,1])
+p2
+I2877
+sVplt.plot(window_sizes, acc_array)
+p3
+I2287
+sVtrial = d[240896-50:241196+150]
+p4
+I6144
+sVmean(training.get_class(0).X)
+p5
+I5524
+sVplot.plot(np.nonzero(d.ys)[0])
+p6
+I3597
+sVd = golem.DataSet(feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4'], default=d)
+p7
+I4317
+sVvar(d3.ndX[d3.ys[:,1],1,:])
+p8
+I4692
+sVtest.samplerate = psychic.utils.get_samplerate(test)
+p9
+I238
+sVimport pylab
+p10
+I3179
+sVplt.plot(window_sizes, numpy.mean(perfs_array[epoc,:], axis=0), '-x')
+p11
+I2105
+sVmatches = re.match('\u005c\u005cd$', 'bla3')
+p12
+I5968
+sVnumpy.nonzero(d2.ids>177)
+p13
+I2526
+sVpreprocessing.train(d)
+p14
+I12
+sVnp.mean(corrs)
+p15
+I121
+sVreload bdf
+p16
+I1861
+sVd3 = golem.DataSet(feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AFz'], default=d3)
+p17
+I6614
+sVnp.unique(test.ys).shape
+p18
+I253
+sVthres_node.hi
+p19
+I224
+sV10/4.0 == 2.4999999999999999
+p20
+I5614
+sVplot.plot(ys2)
+p21
+I2505
+sVerp.erp(training[block_labels == block], classes=[3,4], enforce_equal_n=True)
+p22
+I5638
+sVgolem.nodes.AUCFilter?
+p23
+I4931
+sVjjllllllllllllljj
+p24
+I5665
+sVplt.plot(acc_array[random_imec[0,:], :])
+p25
+I2918
+sVnp.flatnonzero(d4.ninstances_per_class)
+p26
+I6340
+sVd2.ys[:,:2]
+p27
+I4652
+sVlen(dev)
+p28
+I843
+sVidx = numpy.array( numpy.round(numpy.linspace(0, len(a)-1, len(a)*7.5/10.0)))
+p29
+I1671
+s.

@@ -1,0 +1,89 @@
+(dp1
+Vprint re.match('\u005cd+:\u005cd+\u005c.?\u005cd*', '123:2.343')
+p2
+I703
+sVplot(d2.xs[:100,0])
+p3
+I2579
+sVvalues['n_channels'] = 7
+p4
+I2424
+sVbp_node = fft.FFTFilter(4,45)
+p5
+I734
+sVd = d[17045:50077]
+p6
+I3849
+sVtest = d3[200:]
+p7
+I4441
+sVcov1 = training.get_class(1).X.dot(training.get_class(1).X.T)
+p8
+I5527
+sVframes.shape
+p9
+I2557
+sVplt.plot(d2[:,0])
+p10
+I1799
+sVplt.plot(cb.T)
+p11
+I2939
+sVplot.xlabel('')
+p12
+I1965
+sVtype((1,2)) == tuple
+p13
+I4826
+sVeegplot.plot_eeg( d6[10000:35000])
+p14
+I4312
+sVgrid()
+p15
+I6496
+sVclasses = numpy.zeros([self.data.ninstances, 2]) == 0
+p16
+I614
+sVgolem.helpers.hard_max?
+p17
+I6459
+sVw = bdf.BDFWriter('../data/fre-p300-full-5-resampled.bdf', values=values)
+p18
+I5066
+sVplt.draw()
+p19
+I2269
+sVvar(d3.ndX[d3.ys[:,1],7,:])
+p20
+I4698
+sVscipy.stats.norm?
+p21
+I170
+sVeegplot.plot_erp(d2[:-10], 1000, feat_lab=d.feat_lab, pval=0.05, vspace=5, start=0)
+p22
+I6294
+sVthres_node_15.lo
+p23
+I335
+sVlda.nclasses
+p24
+I4878
+sVvalues['label'] = ['P3', 'Pz', 'P4', 'PO9', 'O1', 'Oz', 'O2', 'PO10', 'Status']
+p25
+I2476
+sVplot.plot( mean(d3.nd_xs[:499,:,:], axis=0) )
+p26
+I4029
+sVprint e
+p27
+I5547
+sVax.set_xlim(-2,2)
+p28
+I2119
+sVaucfilt = golem.nodes.AUCFilter(min_nfeatures=10)
+p29
+I4932
+sV80/27
+p30
+I459
+s.

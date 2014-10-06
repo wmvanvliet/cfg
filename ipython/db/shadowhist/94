@@ -1,0 +1,86 @@
+(dp1
+Vnp.rollaxis(np.tile(a.T, [3,1,1]), 2).shape
+p2
+I5240
+sV%vim test.py
+p3
+I2798
+sVfps_array = numpy.array(fp_rates)
+p4
+I2301
+sVd2 = psychic.slice(d, {1:'target', 2:'nontarget'}, (0, 1000))
+p5
+I3751
+sVnp.mean(d2.nd_xs[35,:,:,0], axis=0).shape
+p6
+I79
+sVmatches = re.match('(\u005cd+):(\u005cd+\u005c.?\u005cd*)', '123:2.343')
+p7
+I710
+sVintensity[0].shape
+p8
+I3158
+sVfprintf
+p9
+I51
+sVtest_pairs
+p10
+I5174
+sVeegplot.plot_erp( erp.Mean(axis=2).apply(d4.get_class(0)), 100, classes=[0])
+p11
+I5819
+sVfrequent = d2.get_class(1)
+p12
+I5013
+sVmatlab = scipy.load('Data/SSVEP-scan-Arne Robben-80s-15Hz-4phases-imec-be.mat')
+p13
+I3138
+sVnp.cov?
+p14
+I4701
+sVtest[28*27:29*27]
+p15
+I466
+sVplot( mean(d2, axis=0) )
+p16
+I3799
+sVresult.Y
+p17
+I6441
+sVzip?
+p18
+I4384
+sVperf.append(performance)
+p19
+I2071
+sVdrift04 = loadtxt('drift-0.4.log', delimiter=',', skiprows=1)
+p20
+I6044
+sV%vim phase.py
+p21
+I3234
+sVtargets[21]
+p22
+I5643
+sVd2 = golem.DataSet(xs=d.xs + values['physical_min'][0], default=d)
+p23
+I3554
+sVplt.plot(periods[6,:,:], '-k')
+p24
+I3295
+sVd.check_consistency
+p25
+I159
+sVlen(numpy.nonzero( d3.ys[:,0].astype(numpy.bool) == d2.ys[:,0]))
+p26
+I2050
+sVarray([arange(100)]).T
+p27
+I3480
+sVeegplot.plot_eeg(d[32000:32600])
+p28
+I4034
+sVperf = performance
+p29
+I2070
+s.

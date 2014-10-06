@@ -1,0 +1,47 @@
+(dp1
+Va[-1]
+p2
+I5145
+sVdir(r)
+p3
+I2386
+sVw.close
+p4
+I1817
+sVm = re.match(r"([^,]+,)", "bla")
+p5
+I6518
+sVm.groups(1)
+p6
+I6506
+sVnumpy.linspace(6, 25, 10)
+p7
+I1357
+sVnumpy.arange(0, 128, 128/10.0)
+p8
+I1611
+sVnumpy.nonzero( d.ys == 1 )
+p9
+I2208
+sVeegplot.plot_erp(d2, 1000, vspace=5, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'], start=0.1)
+p10
+I3863
+sVplt.plot(c.data.ys)
+p11
+I664
+sVeegplot.plot_erp( erp.erp(d2, (0, 200)), 1000 )
+p12
+I4341
+sVd3 = fft_node.apply(d)
+p13
+I3791
+sVb = numpy.array(a, numpy.int24)
+p14
+I1261
+sVa.shuffle()
+p15
+I5010
+sVd = bdf.load_bdf('test27.bdf')
+p16
+I5933
+s.

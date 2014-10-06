@@ -1,0 +1,44 @@
+(dp1
+Vevents = genfromtxt('../data/marijn-12-IMECBE.log', delimiter='\u005ct', skip_header=1)
+p2
+I4102
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[5:15,:,:], axis=0) )
+p3
+I4598
+sV1/120. * -.3
+p4
+I534
+sVd = bdf.load_bdf('imecbe-oddball-57.bdf')
+p5
+I6032
+sVr = bdf.BDFReader('../data/marijn-12-IMECBE-channels.bdf')
+p6
+I3733
+sVw.transducer_type = w.transducer_type[:5].append('')
+p7
+I2443
+sVplt.plot(d.ys[:,0])
+p8
+I659
+sVeegplot.plot_erp( erp.Mean(axis=2).apply(d4), 100)
+p9
+I5821
+sVnp.nonzero?
+p10
+I593
+sVEEG.shape
+p11
+I1280
+sVxi = numpy.linspace(0, 4, 10)
+p12
+I1726
+sVperiod_idxs[:,1]
+p13
+I1928
+sVcPickle.load?
+p14
+I358
+sVimport scipy
+p15
+I6
+s.

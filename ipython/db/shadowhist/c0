@@ -1,0 +1,40 @@
+(dp1
+Vbin(test[4] << 4 & 0xff0000)
+p2
+I397
+sVA
+I1066
+sVeegplot.plot_eeg(d[-3000:-200])
+p3
+I4541
+sV2340-9*256
+p4
+I1832
+sVb[:,:,0]
+p5
+I5235
+sVbdf.int24_to_le( numpy.array(d2.xs[129,0]) )
+p6
+I2607
+sVhasattr(eegdevices, EPOC)
+p7
+I6082
+sVg.get_class(cl_i).ndX.shape
+p8
+I5790
+sVd2 = psychic.utils.slice(block, mdict, (0, 100))
+p9
+I4188
+sVplt.plot(d.Y.T)
+p10
+I3413
+sVeegplot.plot_erp( chain.apply(train), 100, feat_lab=d.feat_lab )
+p11
+I5766
+sVnp.mean( d.get_class(cl_i).ndX, axis=2 ).shape
+p12
+I5789
+sVclassification_channels
+p13
+I5035
+s.

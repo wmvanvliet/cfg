@@ -1,0 +1,83 @@
+(dp1
+Vlogfile = np.loadtxt('../data/marijn-present_categories-2-imecbe.log', skiprows=1, usecols=[4])
+p2
+I6648
+sVnp.array.any?
+p3
+I191
+sVx+y
+p4
+I1922
+sVscipy.stscipy.stats.ttest_ind?
+p5
+I3005
+sVys[4517:] = 2
+p6
+I2468
+sVmean( d2.nd_xs[60,:,:,:], axis=1 )
+p7
+I81
+sVacc_array[imec,:].shape
+p8
+I2293
+sVeegplot.plot_erp(d2, 1000, 100, baseline_period=(0, 500))
+p9
+I3637
+sV%pdb on
+p10
+I6342
+sVtest[0:30]
+p11
+I446
+sVfor idx,freq in enumerate(a): classlab[:,idx] = a2 == freq
+p12
+I1384
+sVeegplot.plot_erp(d2[:2], 1000, 100, baseline_period=(0, 100))
+p13
+I3667
+sVd2.ids.shape
+p14
+I675
+sVmath.atan?
+p15
+I4394
+sVfor i,a,b in enumerate( zip(a,b) ):\u000a    print i,a,a
+p16
+I4803
+sVflatnonzero(d.Y).shape
+p17
+I5918
+sVnp.max(timing)
+p18
+I5870
+sVround(12.8*2)+1
+p19
+I2027
+sVlen(matches)
+p20
+I5982
+sVd2[:-1]
+p21
+I4043
+sVdeflate_node.noise_selector
+p22
+I6261
+sV3. + -0.8 + (1/2.) * -0.6 + (1/6.) * -0.2 + (1/24.) * -0.4 + (1/120.) * 0 + (1/720.) * 3.2
+p23
+I541
+sVa[:,:,2]
+p24
+I5393
+sVd3.cl_lab[5]
+p25
+I1420
+sVdir(i)
+p26
+I4494
+sVlogical_and((1 < a),(a < 6))
+p27
+I5157
+sVmatlab['stimulation'].keys()
+p28
+I3147
+s.

@@ -1,0 +1,107 @@
+(dp1
+Veegplot.plot_eeg(d2[:100000])
+p2
+I6115
+sVfrom eegplot import *
+p3
+I1162
+sVtest[26+12*27:26+13*27]
+p4
+I448
+sVeegplot.plot_erp(d4, 128, vspace=100)
+p5
+I3533
+sVa = np.array([[1],[2]])
+p6
+I6548
+sVdiff( flatnonzero(d.ys) )
+p7
+I4650
+sVnp.unique( d.ys)
+p8
+I566
+sVd = d[idx]
+p9
+I2726
+sVreal_points.reshape(2,2).repeat(2,axis=0)
+p10
+I2151
+sVd2.T
+p11
+I1811
+sVnp.median(timing)
+p12
+I5869
+sVimec.Recorder.get_data()?
+p13
+I560
+sVeegplot.plot_erp(d2, 100, vspace=5, baseline_period=(0, 0.1))
+p14
+I4011
+sVcd /Users/rodin/kuleuven/BCITD/Python/
+p15
+I3487
+sVselectserver.shutdown_server()
+p16
+I2801
+sVmax([])
+p17
+I6300
+sVmdict.values()
+p18
+I6431
+sVplt.subplot(427); plt.plot(d2.nd_xs[35,:,:,6].T, '-k')
+p19
+I73
+sVplot.legend(['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p20
+I6697
+sVlabels[1,:] = np.logical_not(labels[1,:])
+p21
+I2903
+sVplot.plot(d.ys[idx])
+p22
+I2716
+sVlen(targets)
+p23
+I5658
+sV%run
+p24
+I32
+sVscipy.stat.ttest_ind?
+p25
+I4349
+sVeegplot.plot_erp(block)
+p26
+I4955
+sVd3 = psychic.slice(d2, mdict, (-500, 0))
+p27
+I4648
+sV[0,1]
+p28
+I285
+sVplot(d2.ids, d2.ys[:,2])
+p29
+I3110
+sVplot.plot( mean(d3.nd_xs[:100,:,:], axis=0) )
+p30
+I4024
+sVimec = [True, False, False]
+p31
+I2101
+sVcl.shape
+p32
+I1367
+sVvalues]
+p33
+I3992
+sVerp.erp(d3, (0,20))
+p34
+I4201
+sVplt.plot(d3.nd_xs[30,:,:])
+p35
+I27
+sV'a' in d
+p36
+I1230
+s.

@@ -1,0 +1,71 @@
+(dp1
+Vd.ys[18]
+p2
+I2696
+sVnumpy.linspace(0,9,10, dtype=numpy.int)
+p3
+I1661
+sVd2 = psychic.slice(d, {1:'nontarget', 2:'target'}, (100, 600))
+p4
+I4343
+sVd2.nd_xs[d2.ys[:,0].astype(bool),:,:].shape
+p5
+I3828
+sVtest[0:27]
+p6
+I434
+sVtraining = cross_validation_sets(subsets).
+p7
+I5492
+sVeegplot.plot_eeg(d2, 128, spectogram=False)
+p8
+I2649
+sVw.units
+p9
+I2460
+sVpre = golem.nodes.Chain([\u000a	fft.FFTFilter(0.3, 30),\u000a	psychic.nodes.Decimate(10,1),\u000a	psychic.nodes.Slice({1:'target',2:'nontarget'}, [0.1, 0.6])\u000a	])
+p10
+I3948
+sVmat = scipy.io.loadmat('../../NoBackup/data/SSVEP-scan-Arne-120s-6Hz-25Hz-10-steps-sine-epoc.mat')
+p11
+I1267
+sVpsychic.nodes.SlidingWindow?
+p12
+I906
+sVplt.plot(ps)
+p13
+I2993
+sVplot( mean(targets.nd_xs, axis=0).T )
+p14
+I3841
+sVsignal[period_idxs.astype(numpy.int)].shape
+p15
+I1947
+sVX = W.dot(training.X.T.reshape(-1, training.feat_shape[1]).T)
+p16
+I5356
+sVd.values()
+p17
+I5138
+sV1532/120
+p18
+I1287
+sVresult = classifiers['lda-lw'].apply(mtest[:7])
+p19
+I6440
+sVplot.bar(freqs[:50]*1000, numpy.abs(w[:50]) )
+p20
+I1989
+sVeegplot.plot_eeg(d[20000:300000], spectogram=True)
+p21
+I3460
+sVsort(dict)
+p22
+I5556
+sVplt.plot(d.ids[0:1000], d.xs[0:1000,3])
+p23
+I476
+sVd[0].xs.shape
+p24
+I4584
+s.

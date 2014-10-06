@@ -1,0 +1,80 @@
+(dp1
+Vsvm = golem.nodes.SVM(C=1e5)
+p2
+I3979
+sVr = plt.subplot(111)
+p3
+I967
+sVdx = (x[1:,:] - x[:-1,:]) / 2.0
+p4
+I1578
+sVf = scipy.fft(d3.xs[:,1])
+p5
+I1971
+sVunique(d.ys)
+p6
+I4014
+sVnumpy.atleast_2d(real_points).repeat(2, axis=0).T.reshape(2,4)
+p7
+I2157
+sVint( bytes('\u005c01') )
+p8
+I1756
+sVeegplot.plot_erp(d2[2:], 100)
+p9
+I4592
+sVplt.close('all')
+p10
+I99
+sVfor i in range(83):\u000a    mdict[i] = 'related'
+p11
+I6329
+sVeegplot.plot_eeg(d2, 128)
+p12
+I1012
+sVy = numpy.sin(x)
+p13
+I1713
+sVd3.nclasses
+p14
+I4200
+sVnumpy.atleast_2d(real_points).repeat(2, axis=0).T.reshape(4,2).T
+p15
+I2166
+sVnumpy.atleast_2d(real_points).repeat(2, axis=0).T.reshape(4,2)
+p16
+I2165
+sVw = bdf.BDFWriter('../data/marijn-12-IMECBE-channels-resampled.bdf', values=values)
+p17
+I3994
+sVtest[4] << 8
+p18
+I514
+sVc + c
+p19
+I551
+sVbp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(4, [4/(s/1.0), 45/(s/2.0)]) )
+p20
+I3498
+sVb = numpy.atleast_2d( numpy.arange(1, 120, 12, dtype=numpy.float64) ).repeat(10, axis=0)
+p21
+I1629
+sVbp_node = psychic.nodes.Filter( lambda s : scipy.signal.iirfilter(6, [4/(s/2), 45/(s/2)]) )
+p22
+I680
+sVnumpy.append(da, da[-1])
+p23
+I1546
+sVw = bdf.BDFWriter('test.bdf',dataset=d)
+p24
+I1863
+sVplt.xlim([0, 100])
+p25
+I989
+sVplot(d6.ids, d6.xs)
+p26
+I3119
+sVcorrs = []
+p27
+I116
+s.

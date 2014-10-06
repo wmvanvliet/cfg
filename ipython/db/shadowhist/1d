@@ -1,0 +1,80 @@
+(dp1
+Vd3
+p2
+I26
+sV16*12.8
+p3
+I1889
+sVplt.plot(cl)
+p4
+I1366
+sVlist(a)
+p5
+I6565
+sVplot.plot( mean(d3.nd_xs[:400,:,:], axis=0) )
+p6
+I4028
+sV1000/128.0
+p7
+I1531
+sVflatnonzero(block.ys)
+p8
+I4186
+sVplot.plot(x, y)
+p9
+I1718
+sVd3.ndX
+p10
+I5707
+sVtraining = subsets[0]
+p11
+I5489
+sVnumpy.concatenate( (real_points, numpy.array([1]) ) )
+p12
+I2181
+sVunique(block.ys)
+p13
+I4954
+sVmax(block.Y[block.Y<100])
+p14
+I4778
+sVblock3 = d2[120482:153516]
+p15
+I4436
+sVd2 = psychic.slice(d, mdict, (-150, 150))
+p16
+I4150
+sVimport bdf
+p17
+I1859
+sVx = numpy.arange(0, 4)
+p18
+I1723
+sVa = array([1,2,3,4,5])
+p19
+I5148
+sVdel values
+p20
+I2463
+sVeegplot.plot_eeg(d[0:1000, 128, spectogram=False)
+p21
+I2550
+sVtrials = psychic.slice(block, dict([(x,'target %02d'%x) for x in range(1,9)]), (0, 1000))
+p22
+I4969
+sVeegplot.plot_erp(train, 100, feat_lab=d.feat_lab)
+p23
+I5840
+sVwindow_node = psychic.nodes.SlidingWindow(2000, 1000)
+p24
+I3226
+sVisnan(d2.X)
+p25
+I5031
+sVreload(slic)
+p26
+I109
+sVeegplot.plot_erp(trial2,100, vspace=40, feat_lab=d.feat_lab)
+p27
+I6162
+s.

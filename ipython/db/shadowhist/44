@@ -1,0 +1,101 @@
+(dp1
+Vd3 = psychic.slice(d2, {1:'target', 2:'nontarget'}, (0, 1000))
+p2
+I4425
+sVvalues['n_samples_per_record'] = [250, 250, 250, 250, 250, 250, 250, 250, 250]
+p3
+I3734
+sV[1,2,3,4].shape
+p4
+I103
+sVdx = x[1:,:] - x[:-1,:]
+p5
+I1570
+sV10*20
+p6
+I6540
+sVeegplot(d2)
+p7
+I3760
+sVplot.ylabel('Number of misclassifications (out of %d)' % num_test_blocks)
+p8
+I6500
+sVd4.ys.shape
+p9
+I2067
+sVeegplot.plot_erp( erp.erp(d2, (0,20), classes=[1,2,3]), 100, vspace=10 )
+p10
+I4237
+sV13473-13446
+p11
+I581
+sVd = psychic.load_bdf('../Data/Subject3-EPOC.bdf')
+p12
+I2766
+sV1-(hi - numpy.linspace(0,4,10))
+p13
+I1710
+sVd.feat_shape
+p14
+I298
+sVplt.specgram?
+p15
+I6320
+sVnp.nonzero(d4.ys[:,0])[0].shape
+p16
+I3517
+sVd = psychic.load_bdf('../Data/Nick2.bdf')
+p17
+I2490
+sVlda.name
+p18
+I4880
+sVeegplot.plot_erp(d3, 100, baseline_period=(0, 10), feat_lab=d.feat_lab)
+p19
+I4817
+sVd3.feat_lab
+p20
+I4161
+sVys[ys==3] = 1
+p21
+I2778
+sVa *= numpy.pi*20
+p22
+I1056
+sVb.reshape(2,9)
+p23
+I5249
+sVa = numpy.arange([1,2,3,4,5])
+p24
+I2031
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[10:,:,:], axis=0) )
+p25
+I4595
+sVnumpy.atleast_2d?
+p26
+I1040
+sVpsychic.plot_timeseries(training.X.T.reshape(-1,training.feat_shape[1]))
+p27
+I5358
+sVflatnonzero(training.Y[0,:])
+p28
+I5194
+sVunique([1,2,3,1,4,2,3,4,2,3,2,4], True)
+p29
+I5124
+sVplt.legend(loc='middle right')
+p30
+I2280
+sVN=zip(hh)
+p31
+I4738
+sVtrials = psychic.slice(block, dict([(x,'target %02d' % (x+1)) for x in range(8)]), (0, 1000))
+p32
+I4964
+sVdata = np.vstack( (acc_array[imec,8], acc_array[epoc,8]) )
+p33
+I2947
+sVplot.plot(numpy.mean(d5.nd_xs[110:120,:,5], axis=0), '-b')
+p34
+I1509
+s.

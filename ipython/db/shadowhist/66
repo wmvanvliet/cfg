@@ -1,0 +1,71 @@
+(dp1
+Vd2.ids[1]
+p2
+I751
+sVxs = pca.Wt[0:2,:].dot(d.xs)
+p3
+I1113
+sVnumpy.range(0, d.xs.shape[1]) * 100
+p4
+I919
+sVgolem.perf.auc
+p5
+I5844
+sVTobs
+p6
+I2874
+sVsubsets
+p7
+I5481
+sVtype((1,2))
+p8
+I4824
+sVplot.xlabel('towards optimal categorization')
+p9
+I6667
+sVA[:,0] = numpy.sin(self.A[:,0])
+p10
+I1068
+sVplt.plot(d3.nd_xs[10,:,:])
+p11
+I30
+sVnumpy.meshgrid(a, [1,2,3])
+p12
+I1918
+sVpdb.runcall(eegplot.plot_erp(d3, samplerate, baseline_period=(0, 0.1*samplerate), feat_lab=d.feat_lab )
+p13
+I4385
+sVd = bdf.load_bdf('../N400/data/marijn-present_words-2-imecbe.bdf')
+p14
+I6316
+sVtp_rate
+p15
+I2265
+sVplot.ylim(0, chance_level)
+p16
+I6491
+sV30/6.0
+p17
+I1993
+sVa.append('STATUS')
+p18
+I2007
+sVplot.plot(xvals, yinterp, '-0')
+p19
+I1719
+sVa[:,1]
+p20
+I5390
+sVeegplot.plot_erp(d2[:2], 128, 100, baseline_period=(0, 1))
+p21
+I3660
+sVd.save('../../NoBackup/data/SSVEP-scan-Arne-120s-6Hz-25Hz-10-steps-sine-epoc.dat')
+p22
+I1284
+sVplot.plot(numpy.mean(d5.nd_xs[110:120,:,5], axis=0), '-b', 'linewidth', 4)
+p23
+I1511
+sVx,y = numpy.meshgrid(a, numpy.arange(2))
+p24
+I1921
+s.

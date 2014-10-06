@@ -1,0 +1,74 @@
+(dp1
+Vdata2
+p2
+I371
+sVnumpy.mean(d.xs, axis=1)
+p3
+I958
+sVgolem.helpers.to_one_of_n?
+p4
+I240
+sVeegplot.plot_eeg(d[-3000:-500])
+p5
+I4537
+sVscipy.stats.binom_test(0, 7)
+p6
+I2986
+sVnumpy.ascontiguousarray?
+p7
+I1791
+sVd.feat_lab = ['channel1', 'channel2', 'channel3', 'channel4', 'channel5', 'channel6']
+p8
+I971
+sVnumpy.repeat([[1]], [10,1])
+p9
+I805
+sVd2 = golem.DataSet(ids = numpy.atleast_2d(numpy.arange(d.ninstances)/128.0).T, default=d)
+p10
+I2737
+sVw.write(d3)
+p11
+I3991
+sVtic
+p12
+I4
+sVnp.cov(d3.get_class(1).X).shape
+p13
+I5102
+sVX = training.ndX.T.reshape(8, -1)
+p14
+I5417
+sVd2 = psychic.slice(d, mdict, (400, 800))
+p15
+I4137
+sVreload selectserver
+p16
+I2797
+sVplot.plot(range(1000), d2.xs[7000:8000,1])
+p17
+I1962
+sVd = psychic.load_bdf('../Data/Subject3-IMEC.bdf')
+p18
+I2689
+sVeegplot.plot_eeg(d2, 128, spec_channel=1)
+p19
+I1312
+sV# Relabel trials
+p20
+I6641
+sVslice = d[0]
+p21
+I667
+sVeegplot.plot_erp(d2, 1000, vspace=20, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p22
+I3853
+sVtrial = d[240896-50:240896+150]
+p23
+I6135
+sVd2 = psychic.slice(d3, mdict, (0, 1000))
+p24
+I3662
+sVnp.nonzero(d.ys == 2)
+p25
+I573
+s.

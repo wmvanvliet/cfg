@@ -1,0 +1,110 @@
+(dp1
+Vlen(d)
+p2
+I5143
+sVa.dot(a.T)
+p3
+I1059
+sVevents[np.nonzero(events)]
+p4
+I3911
+sVeegplot.plot_erp(d2[:100], 100, baseline_period=(0,1))
+p5
+I4097
+sVeegplot.plot_erp(d2[:60], 1000, 20, feat_lab=feat_lab)
+p6
+I3781
+sVa[0,1,:]
+p7
+I5398
+sVeegplot.plot_erp(d2, 1000, 10)
+p8
+I3759
+sV7423-7359
+p9
+I2703
+sVplot.plot(d.xs.T[:,0])
+p10
+I1812
+sVfft_node.train(block)
+p11
+I4285
+sVdel d3
+p12
+I4313
+sVX = d2.ndX[classification_window,classifcation_channels,:]
+p13
+I5041
+sVplt.plot(d4.ids, d4.xs)
+p14
+I1436
+sVa+b/2
+p15
+I546
+sVblock = d[7040:7040+1827]
+p16
+I5566
+sVplt.ion()
+p17
+I6251
+sVquit90
+p18
+I4983
+sVd = psychic.load_bdf('../Data/HUGO1-EPOC.bdf');
+p19
+I3353
+sVd = psychic.load_bdf('../Data/sub2.bdf')
+p20
+I2336
+sVeegplot.plot_erp(d2[:-3], 100, baseline_period=(0, 0.01))
+p21
+I4051
+sVprint re.match('\u005cd+:\u005cd+.?\u005cd*', '1:2.')
+p22
+I697
+sVpsychic.plot_timeseries( X2[:,:,0].T )
+p23
+I5325
+sVacc_array[imec,:]
+p24
+I2925
+sVd2[d2.ys == 2]
+p25
+I179
+sVd.ids[0:10]
+p26
+I303
+sVvalues
+p27
+I1862
+sVlda.train(d3)
+p28
+I4916
+sVeegplot.plot_erp(d3[0])
+p29
+I6620
+sVscipy.stats.ttest_rel(imec_results[:,8], epoc_results[:,8])
+p30
+I3028
+sVmin(timing)
+p31
+I5904
+sVeegplot.plot_erp(d3[2], 1000,feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+p32
+I6367
+sVW = jadeR.jadeR(training.X.T.reshape(-1, training.feat_shape[1]))
+p33
+I5361
+sVplot.xlabel('Tijd (s)')
+p34
+I1964
+sVm.group(2).split(':').shift()
+p35
+I6528
+sVeegplot.plot_eeg(d[:10000])
+p36
+I4002
+sVd3 = d2[0] + d2[20]
+p37
+I6167
+s.

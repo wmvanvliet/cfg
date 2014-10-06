@@ -1,0 +1,77 @@
+(dp1
+Vfor key,value in dict:
+p2
+I5485
+sVplt.plot(d.ids, d2.xs[:,0])
+p3
+I755
+sVlogfile = loadtxt
+p4
+I6194
+sVnp.mean( d2.nd_xs[60,:,:,:], axis=1 )
+p5
+I82
+sVplt.figure(figsize=(5.5,4.5));
+p6
+I2324
+sVnumpy.meshgrid(a, b)
+p7
+I1641
+sVdiff(flatnonzero(d.ys)[:21])
+p8
+I4116
+sVpsychic.plot_timeseries(X5[:,0].reshape(100,8))
+p9
+I5446
+sVmatlab['stimulation']['Intensity'].shape
+p10
+I3152
+sVeegplot.plot_erp(d2[10:], 100)
+p11
+I4573
+sVvalues['local_subject_id'] = '3'
+p12
+I2478
+sVvar(d3.ndX[d3.ys[:,1],4,:])
+p13
+I4695
+sVd2 = golem.DataSet(ids=d2.ids-d2.ids[0], default=d2)
+p14
+I3127
+sVys = [1,0,0,1,1,0,0,2,2,2,0,0]
+p15
+I3899
+sVX2 = np.rollaxis(X.reshape(8, 74, 100), 1, -1)
+p16
+I5334
+sVcl = classifierp300.classifier()
+p17
+I4984
+sVnp.random.shuffle(X4)
+p18
+I5730
+sVm = np.fromfile('markers.log', sep=',', count=-1)
+p19
+I5858
+sVeegplot.plot_eeg(d2, 1000, spec_channel=3)
+p20
+I1176
+sVflatnonzero(d.Y == 6).shape
+p21
+I4785
+sV3/25.0 * 100
+p22
+I3367
+sVargmax([2,1,2,1])
+p23
+I6569
+sVeegplot.plot_erp(d2, 1000, vspace=10, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p24
+I3823
+sVplt.plot(d2.ids[0:1000], d2.xs[0:1000,0])
+p25
+I678
+sVflatnonzero( diff( np.hstack( ([False], ps[:,3] < 0.05, [False]) ) ) )
+p26
+I4381
+s.

@@ -1,0 +1,71 @@
+(dp1
+V%run anim.py ../N400/data/
+p2
+I6306
+sVeegplot.plot_eeg(d3[d3.ys[:,0], 200)
+p3
+I1455
+sVplot(e.ndX[:,0,0])
+p4
+I6364
+sVnp.max(d3.X - d3.ndX.reshape(160,100))
+p5
+I4674
+sVnp.logspace?
+p6
+I4634
+sVd = psychic.load_bdf('../Data/Nick1.bdf')
+p7
+I2491
+sVs.bind('/Users/rodin/.ipython/session1')
+p8
+I3058
+sVa.inv
+p9
+I1060
+sVepoc && !flip_array[:,0]
+p10
+I2897
+sVd = golem.DataSet.load('../Results/test_data_2.dat')
+p11
+I1529
+sVr.stop(
+p12
+I6310
+sVblock = 21
+p13
+I5625
+sVeegplot.plot_eeg(d[200000:210000], vspace=100)
+p14
+I3570
+sV[(x,i) for x,i in reverse(enumerate(string))]
+p15
+I5960
+sVnumpy.size(d2.ids)
+p16
+I758
+sVnp.any([a,b], axis=0)
+p17
+I206
+sVd2 = psychic.slice(d, mdict, (40, 140))
+p18
+I4070
+sV0.00000001**-0.5
+p19
+I3376
+sVplt.plot( np.mean(acc_array[imec,:], axis=0 )
+p20
+I3333
+sVnum_test_blocks
+p21
+I6482
+sVresult[0,:] - result[1,:]
+p22
+I6470
+sVfor i in range(np.max(d.Y)):\u000a    mdict[i+1] = 'trial'
+p23
+I6612
+sVval = 0b000001100010
+p24
+I390
+s.

@@ -1,0 +1,107 @@
+(dp1
+Vplt.plot(numpy.arange(6, 25, 1/(120.0*128.0)))
+p2
+I1319
+sVnp.array(1)
+p3
+I3251
+sVscipy.stats.binom_test([0,7], 7)
+p4
+I2973
+sVhelp(np.corrcoef)
+p5
+I95
+sVeegplot.plot_erp(d3, 100, feat_lab=d.feat_lab, start=0, vspace=8)
+p6
+I4830
+sVplt.subplot(428); plt.plot(d2.nd_xs[35,:,:,7].T, '-k')
+p7
+I74
+sVW = jadeR(training.X.T.reshape(-1, training.feat_shape[1]).T)
+p8
+I5353
+sVm[:10,2]
+p9
+I5940
+sVacc_array[random_imec, :]
+p10
+I2916
+sVplot.plot(numpy.mean(d5.nd_xs[10:20,:,5]), '-b')
+p11
+I1504
+sVnp.cov(d3.get_class(1).X)
+p12
+I5101
+sVscipy.stats.binom_test([4,3], 7)
+p13
+I2979
+sVd_r
+p14
+I3724
+sVd3.nd_xs.shape
+p15
+I3275
+sVdev = usb.core.find(idVendor=0x1234, idProduct=0xED02, find_all=True)
+p16
+I842
+sVlen(numpy.nonzero(d4.ys[:,0] == d3.ys[:,0])[0]) / d4.ninstances
+p17
+I2068
+sVmath.atan( 31.5/70.0 )
+p18
+I4395
+sVbp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0.3/(s/2.0), 15/(s/2.0)]) )
+p19
+I3770
+sVplt.subplot(424); plt.plot(d2.nd_xs[35,:,:,3].T, '-k')
+p20
+I70
+sVvalues = {'local_recording_id':'Test recording', 'local_subject_id':'Marijn van Vliet', 'num_channels':8, 'start_date':'03.02.11', 'start_time':'11.20.50', 'n_samples_per_record':['128','128','128','128','128','128','128','128']}
+p21
+I1746
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[9:14,:,:], axis=0) )
+p22
+I4606
+sVplot.plot(d[:,0])
+p23
+I1846
+sVnumpy.atleast_2d(real_points).repeat(2, axis=0).T
+p24
+I2155
+sVd = bdf.load_bdf('test18.bdf')
+p25
+I5931
+sVeegplot.plot_eeg(d[-3000:-2500])
+p26
+I4531
+sVmatlab['PhaseShifts']
+p27
+I3145
+sVplot(train.Y.T)
+p28
+I6390
+sVframe.xs
+p29
+I498
+sVarray([[1],[2]]).repeat(500, axis=1).shape
+p30
+I5748
+sVbdf.int24_to_le( numpy.array([d2.xs[129,4]]) )
+p31
+I2620
+sVplot( mean(d2.nd_xs[d2.ys[:,0],:,0], axis=0) )
+p32
+I3686
+sVarray(performance)
+p33
+I6417
+sVsubsets[0].X.shape
+p34
+I5742
+sVcutoff numpy.where(var_explained <= 0.001)
+p35
+I1157
+sVd2.feat_dim_lab
+p36
+I5699
+s.

@@ -1,0 +1,71 @@
+(dp1
+Veegplot.plot_erp(d2[195:200], 100, baseline_period=(0,0.5))
+p2
+I4139
+sVvalues['date_time'] = datetime.datetime(2011, 02, 18, 15, 45)
+p3
+I2412
+sVplt.plot(d.ys[:.0])
+p4
+I728
+sVnp.logspace(0,100,100)
+p5
+I4635
+sVsvm.train(train)
+p6
+I4445
+sV13/26.0 * 100
+p7
+I3365
+sVd.check_consistency()
+p8
+I160
+sVpsychic.resample_rec?
+p9
+I3371
+sVclass0 = ys == 0
+p10
+I312
+sVoff_indices[0]
+p11
+I633
+sVplt.specgram(d2.xs[:,0], Fs=128)
+p12
+I981
+sVreload slic
+p13
+I1878
+sVeegplot.plot_erp(block, 1000)
+p14
+I4956
+sVdurations[np.nonzero(events)]
+p15
+I3910
+sVa.reshape(1,8)
+p16
+I5384
+sVcutoff.size
+p17
+I1159
+sVnp.min(1,2)
+p18
+I4721
+sVnumppy.repeat(1, 10)
+p19
+I801
+sVX = array(X)
+p20
+I5323
+sVm.shape
+p21
+I249
+sVplt.plot(numpy.arange(6, 25, 12/100.0))
+p22
+I1323
+sVd3.ninstances_per_class
+p23
+I4345
+sVpsychic.plot_timeseries(X3[:,0,:].T)
+p24
+I5374
+s.

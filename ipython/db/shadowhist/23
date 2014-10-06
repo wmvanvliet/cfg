@@ -1,0 +1,41 @@
+(dp1
+Vplt.xlim()
+p2
+I988
+sVdiff(pos[:21])
+p3
+I4115
+sVcd scripts
+p4
+I3537
+sVshift(m.group(2).split(':'))
+p5
+I6529
+sVnp.mean(d2.nd_xs[35,:,:,0], axis=0)
+p6
+I78
+sVplt.legend(['IMEC', 'EPOC1', 'EPOC2'], loc='bottom right')
+p7
+I2094
+sVd.save('ssvep.dat');
+p8
+I293
+sVplot.fill(rp[0,:], [0,0,1,1], 'b')
+p9
+I2168
+sVys = numpy.zeros([d.ninstances,2]).astype(numpy.int)
+p10
+I2212
+sVplt.plot(numpy.arange(6, 25, 12/120.0)))
+p11
+I1320
+sVf = open('bla.dat')
+p12
+I1766
+sVaucfilt.keep
+p13
+I4933
+sVa[0,0,:]
+p14
+I5396
+s.

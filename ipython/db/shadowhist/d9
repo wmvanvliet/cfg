@@ -1,0 +1,107 @@
+(dp1
+Vfor i in range(0, on_indices.shape[0]):\u000a    print i\u000a    classes[on_indices[i]:off_indices[i]][0] = True
+p2
+I642
+sVa = d.xs[0:128,:]
+p3
+I1778
+sVplt.specgram(d.xs[:,0], NFFT=128)
+p4
+I978
+sVtest = erp.erp(test, classes=np.flatnonzero(np.array(test.ninstances_per_class)), n=num_repetitions)
+p5
+I5202
+sVeegplot.plot_erp(d2[1:], 100)
+p6
+I4571
+sVw = bdf.BDFWriter('../Data/Subject6-IMEC.bdf', values=values)
+p7
+I2744
+sVchange_ids
+p8
+I3895
+sVeegplot.plot_erp(d2[:1], 128, 100, baseline_period=(0, 1))
+p9
+I3659
+sVbla[0,:]
+p10
+I1430
+sVprint re.match('\u005cd+:\u005cd+.?\u005cd*', '1.23:2.343')
+p11
+I699
+sVgolem.stat.np?
+p12
+I6411
+sVeegplot.plot_eeg(d[0:1000, 128], spectogram=False)
+p13
+I2551
+sVw = np.fft.fft(data)
+p14
+I1977
+sVnp.vstack(c).shape
+p15
+I321
+sVbin(data[3])
+p16
+I367
+sVreject_trials(d3, 1000)
+p17
+I6615
+sVidx2
+p18
+I1675
+sVtype((1,2)) == 'tuple'
+p19
+I4825
+sVd = psychic.load_bdf('../data/arne-2-imec.bdf')
+p20
+I4518
+sVd = bdf.load_bdf('imecbe-oddball-04.bdf')
+p21
+I6019
+sVd = d[25710:31481]
+p22
+I2681
+sVmax([1,2,3])
+p23
+I6302
+sVnontargets = d2[d2.ys[:,0].astype(bool)]
+p24
+I3834
+sVda = numpy.array([1.5,-1,0])
+p25
+I1554
+sVeegplot.plot_eeg(d[50000:150000], spectogram=True)
+p26
+I3461
+sVnumpy.mean(d5.nd_xs[10:20,:,5])
+p27
+I1505
+sVplt.plot(d2.ys[:,9], d2.ids)
+p28
+I1411
+sVa.repeat( 1,2 )
+p29
+I1051
+sVser.bytesize
+p30
+I6056
+sVclasslab[0,:].shape
+p31
+I1383
+sVfigure()
+p32
+I3803
+sVplot.plot(d2.Y.T)
+p33
+I6238
+sVeegplot.plot_eeg(d[26394:27394], draw_markers=False)
+p34
+I6292
+sVeegplot.plot_erp(d4, 128, vspace=50)
+p35
+I3534
+sVa = numpy.arange(128, 12.8 dtype=numpy.float64)
+p36
+I1634
+s.

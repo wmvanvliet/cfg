@@ -1,0 +1,50 @@
+(dp1
+V10*200
+p2
+I6541
+sVplot.plot( mean(d2.nd_xs[0:2,:,:], axis=0) )
+p3
+I4084
+sVepoc_results.shape
+p4
+I3003
+sVperiod_idxs
+p5
+I1924
+sVtest[26+3*27:53+3*27]
+p6
+I440
+sVplot(d.ys[:,2])
+p7
+I3103
+sVmatlab
+p8
+I3140
+sVtrials = psychic.slice(block, dict(x,t'%02d'
+p9
+I4960
+sVls
+p10
+I2
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[9:15,:,:], axis=0) )
+p11
+I4607
+sVeegplot.plot_eeg(d3, 1000, spectogram=False)
+p12
+I1957
+sVresample_node.train(d5)
+p13
+I4306
+sVd2 = psychic.slice(d, {1:'target', 2:'nontarget'}, (0, 128))
+p14
+I3745
+sVimport golem, psychic
+p15
+I3
+sVbytes('\u005cx20')
+p16
+I6064
+sVa = numpy.arange(1,11)
+p17
+I1345
+s.

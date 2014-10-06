@@ -1,0 +1,74 @@
+(dp1
+V30/1.0
+p2
+I1998
+sVdict.sorted()
+p3
+I5555
+sVx,y = numpy.meshgrid(a, numpy.arange(1.8))
+p4
+I1920
+sVeegplot.plot_eeg(d4, 1000, spec_channel=2)
+p5
+I2355
+sVclassifier0.cov_f
+p6
+I5105
+sVbp_node = psychic.nodes.Filter( lambda s : scipy.signal.iirfilter(1, [4/(s/2), 45/(s/2)]) )
+p7
+I681
+sVnumpy.append(b[-1,:], b[-1,:]+da)
+p8
+I1562
+sVnonzero(d.ys)[0][1:end] - nonzero(d.ys)[0][0:-1]
+p9
+I3669
+sVscipy.stats.binom_test(6, 7)
+p10
+I2984
+sVa = ['1', '2', '3']
+p11
+I1763
+sVplt.plot(d2.ids, d2.xs[:.0])
+p12
+I673
+sVd3.ys.astype(numpy.bool)
+p13
+I2044
+sVlda.train(train_set[:10])
+p14
+I4921
+sVflip_array[:,128]
+p15
+I2895
+sVos.chdir('kuleuven/BCITD/Python')
+p16
+I590
+sVplt.plot(window_sizes, acc_array[14,:] )
+p17
+I3342
+sVquit9)
+p18
+I1534
+sVplt.plot( np.mean(acc_array[imec[0,:], :], axis=0) )
+p19
+I2923
+sVeegplot.plot_erp(d3)
+p20
+I6379
+sVpsychic.plot_timeseries(training.ndX.reshape(8,-1).T )
+p21
+I5293
+sVidx.shape
+p22
+I1670
+sVplt.plot( np.mean(acc_array[random_epoc[0,:], :], axis=0) )
+p23
+I2922
+sVnp.var(acc_array[epoc,:], axis=0)
+p24
+I2864
+sValice
+p25
+I1209
+s.

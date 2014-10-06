@@ -1,0 +1,76 @@
+(dp1
+Vnumpy.linspace(0,9,20)
+p2
+I1663
+sVnp.rollaxis(a, -1)
+p3
+I5228
+sVa.T
+p4
+I5399
+sVeegplot.plot_erp(d2, 1000 )
+p5
+I4294
+sVnp.diag?
+p6
+I4702
+sVplot.plot(intensity)
+p7
+I3178
+sVvar(d3.ndX[d3.ys[:,1],8,:])
+p8
+I4699
+sVd4 = d3[reject]
+p9
+I6627
+sVnp.logspace(0,2,100)
+p10
+I4641
+sVm.group(2).split(':')[1:]
+p11
+I6533
+sVnp.nonzero(test.ys == 1(
+p12
+I242
+sVnp.rollaxis(b,-2).shape
+p13
+I5286
+sVdev.bNumConfigurations
+p14
+I854
+sVys2[0:10]
+p15
+I154
+sVflip_array[6,:]
+p16
+I2886
+sVplt.plot(d.ids[1000:2000], d.xs[1000:2000,2])
+p17
+I421
+sV%run classifier.py
+p18
+I660
+sVimport ipy_textmateserver
+p19
+I5456
+sVeegplot.plot_erp(d2[:200], 100, baseline_period=(0, 0.2), vspace=10)
+p20
+I4154
+sVplt.plot(d3.ids, d3.xs)
+p21
+I231
+sVd3 = psychic.slice(d2, {1:'target', 2:'nontarget'}, (25, 150))
+p22
+I3925
+sVeegplot.plot_erp(d2[:60], 1000, 20, baseline_period=(0, 0.1), feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p23
+I3797
+sVq
+I214
+sVeegplot.plot_erp(d2, 1000, vspace=20, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'], start=0.1)
+p24
+I3859
+sVnumpy.logical_and(d2.ids>d.ids[0], d2.ids<d.ids[-1]).flatten()
+p25
+I2536
+s.

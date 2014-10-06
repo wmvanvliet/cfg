@@ -1,0 +1,1000 @@
+quit()
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+quit()
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+quit()
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+r.stop(
+r.stop()
+r.stop()
+quit()
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+quit()
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+r.stop()
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+r.stop()
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+quit()
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+r.stop()
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+import PyQt4
+PyQt4.__package__
+import matplotlib.backends.qt4_editor.formlayout as formlayout
+from PyQt4.QtGui import QFormLayout
+quit()
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+d = bdf.load_bdf('../N400/marijn-present_words-2-imecbe.bdf')
+d = bdf.load_bdf('../N400/data/marijn-present_words-2-imecbe.bdf')
+d
+quit()
+d = bdf.load_bdf('../N400/data/marijn-present_words-2-imecbe.bdf')
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[:10000])
+quit()
+eegplot.plot_eeg(d[:10000])
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[:10000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[:10000])
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+eegplot.plot_eeg(d[10000:20000])
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit9)
+quit()
+eegplot.plot_eeg(d[10000:20000])
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_eeg(d[10000:20000])
+eegplot.plot_eeg(d[10000:20000], plot_spectogram=True)
+eegplot.plot_eeg(d[10000:20000], draw_spectogram=True)
+eegplot.plot_spectograms(d)
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_spectograms(d)
+from matplotlib import pyplot as plt
+plt.specgram?
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_spectograms(d)
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_spectograms(d)
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_spectograms(d)
+from matplotlib import pyplot as plt
+plt.clim?
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+eegplot.plot_spectograms(d)
+quit9)
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+d.ninstances_per_class
+[1, 0, 0]
+import numpy as np
+a = [1,0,3,0,0,1]
+a[np.flatnonzero(a)]
+d
+plot(d.Y.T)
+mdict = {}
+for i in range(200):
+    mdict[i] = 'trial'
+d2 = psychic.slice(d, mdict, (-1000, 1000))
+d2
+d2.cl_lab
+eegplot.plot_erp(d2, 1000)
+eegplot.plot_erp(d2, 1000, feat_lab=d.feat_lab)
+eegplot.plot_erp(d2, 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000))
+eegplot.plot_erp(d2, 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+mdict = {}
+for i in range(83):
+    mdict[i] = 'related'
+    mdict[i+84] = 'unrelated'
+d2 = psychic.slice(d, mdict, (-1000, 1000))
+eegplot.plot_erp(d2, 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+bp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0/(s/2.0), 100/(s/2.0)]) )
+d2 = bp_node.train_apply(d,d)
+d3 = psychic.slice(d, mdict, (-1000, 1000))
+eegplot.plot_erp(d3, 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+d3 = psychic.slice(d, mdict, (-1000, 1000))
+bp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0/(s/2.0), 15/(s/2.0)]) )
+d2 = bp_node.train_apply(d,d)
+d3 = psychic.slice(d, mdict, (-1000, 1000))
+eegplot.plot_erp(d3, 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+d3 = psychic.slice(d2, mdict, (-1000, 1000))
+eegplot.plot_erp(d3, 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+bp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [5/(s/2.0), 15/(s/2.0)]) )
+d2 = bp_node.train_apply(d,d)
+d3 = psychic.slice(d2, mdict, (-1000, 1000))
+eegplot.plot_erp(d3, 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+bp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0.5/(s/2.0), 15/(s/2.0)]) )
+d2 = bp_node.train_apply(d,d)
+eegplot.plot_erp(d3, 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+d3 = psychic.slice(d2, mdict, (-1000, 1000))
+eegplot.plot_erp(d3, 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+eegplot.plot_erp(d3[:-10], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+eegplot.plot_erp(d3[0], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+bp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0.5/(s/2.0), 15/(s/2.0)]) )
+mdict = {}
+for i in range(83):
+    mdict[i] = 'related'
+    mdict[i+84] = 'unrelated'
+d2 = bp_node.train_apply(d,d)
+d3 = psychic.slice(d2, mdict, (-1000, 1000))
+eegplot.plot_erp(d3[0], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+d4 = d3[0]
+d4
+d4.ninstances_per_class
+np.flatnonzero(d4.ninstances_per_class)
+np.flatnonzero(np.array(d4.ninstances_per_class))
+:w
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+bp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0.5/(s/2.0), 15/(s/2.0)]) )
+d2 = bp_node.train_apply(d,d)
+mdict = {}
+for i in range(83):
+    mdict[i] = 'related'
+    mdict[i+84] = 'unrelated'
+d3 = psychic.slice(d2, mdict, (-1000, 1000))
+eegplot.plot_erp(d3[0], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+%pdb on
+%run anim.py ../N400/data/marijn-present_words-2-imecbe.bdf
+eegplot.plot_erp(d3[0], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+num_channels
+to_plot.shape
+cl
+n
+print cl
+[zip(ids, to_plot[cl,:,y]) for y in range(num_channels)]
+print y
+[y for y in range(num_channels)]
+[to_plot[cl,:,y] for y in range(num_channels)]
+print cl
+quit()
+d = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+bp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0.5/(s/2.0), 15/(s/2.0)]) )
+d2 = bp_node.train_apply(d,d)
+mdict = {}
+for i in range(83):
+    mdict[i] = 'related'
+    mdict[i+84] = 'unrelated'
+    
+d3 = psychic.slice(d2, mdict, (-1000, 1000))
+eegplot.plot_erp(d3[0], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+d3 = psychic.slice(d, mdict, (-1000, 1000))
+eegplot.plot_erp(d3[0], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+for i in range(10):
+    eegplot.plot_erp(d3[i], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+    show()
+eegplot.plot_erp(d3[2], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+d3.Y[0,2]
+d3.Y[0,1]
+d3.Y[0,0]
+e = erp.erp(d3[2], [1])
+import erp
+e = erp.erp(d3[2], [1])
+e = erp.erp(d3[2], [1], False)
+erp.erp?
+e = erp.erp(d3[2], classes=[1])
+e = erp.erp(d3[2], classes=[1], enforce_equal_n=False)
+e = erp.erp(d3[2], classes=[1], enforce_equal_n=True)
+%pdb on
+e = erp.erp(d3[2], classes=[1], enforce_equal_n=True)
+e = erp.erp(d3[0], classes=[0], enforce_equal_n=True)
+quit()
+eegplot.plot_erp(d3[2], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+eegplot.plot_erp(d3[0], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+trial = d3[2]
+trial.ninstances_per_class
+trial = d3[0]
+trial.ninstances_per_class
+e = erp.erp(trial, classes=[0], enforce_equal_n=True)
+e = erp.erp(trial, classes=[0], enforce_equal_n=False)
+print trials
+data.get_class(0)
+data.get_class(1)
+classes
+quit()
+trial = d3[2]
+e = erp.erp(trial, classes=[0], enforce_equal_n=False)
+e
+e.X
+plot.e.X[0,:]
+plot(e.X[0,:])
+e.X[0,:]
+e.ndX[:,0,0]
+plot(e.ndX[:,0,0])
+eegplot.plot_erp(d3[2], 1000, classes=[0], feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+eegplot.plot_erp(d3[2], 1000, classes=[1], feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+quit()
+eegplot.plot_erp(d3[2], 1000, classes=[1], feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+quit()
+eegplot.plot_erp(d3[2], 1000, classes=[0], feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+quit()
+d = golem.DataSet.load('../data/arne-03.dat')
+d
+unique(d.Y)
+697/60
+psychic.get_samplerate(d)
+cd ../data
+ls -al
+d2 = bdf.load_bdf('arne-p300-imecbe8.bdf')
+d2
+d
+cd ../python
+import resample
+resample_node = resample.Resample(100)
+d2 = resample_node.train_apply(d)
+d
+d2 = resample_node.train_apply(d,d)
+d
+d2
+d3.feat_lab
+d2.feat_lab
+bp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0.5/(s/2.0), 15/(s/2.0)]) )
+d2 = bp_node.train_apply(d,d)
+d3 = psychic.slice(d2, {1:'trail', 2:'trail', 3:'trail', 4:'trail', 5:'trail', 6:'trail', 7:'trail'}, (0, 1000))
+d4 = golem.DataSet(X=d3.X[:8,:], feat_lab=d3.feat_lab[:8], default=d3)
+d3.feat_lab
+d = golem.DataSet(X=d.X[:8,:], feat_lab=d.feat_lab[:8], default=d)
+d2 = bp_node.train_apply(d,d)
+d3 = psychic.slice(d2, {1:'trail', 2:'trail', 3:'trail', 4:'trail', 5:'trail', 6:'trail', 7:'trail'}, (0, 1000))
+eegplot.plot_erp(d3)
+eegplot.plot_erp(d3, 10)
+eegplot.plot_erp(d3, 100, feat_lab=d.feat_lab)
+d
+d2
+d2 = resample_node.train_apply(d2)
+d2 = resample_node.train_apply(d2, d2)
+r = bdf.BDFReader('../Data/arne-p300-imecbe8.bdf')
+values = r.bdf.header
+values
+values['n_records'] = 0
+values['n_samples_per_record'] = [100, 100, 100, 100, 100, 100, 100, 100, 100]
+w = bdf.BDFWriter('../data/arne-full-resampled.bdf', values=values)
+w.write_header()
+w.write(d2)
+w.close()
+quit()
+%run offline_p300
+train
+test
+train.Y[0,:100]
+train.Y[0,:200]
+unique(train.Y)
+plot(train.Y.T)
+plot.plot(train.Y.T)
+svm_node = golem.nodes.SVM(c=3)
+svn_node.train(train)
+svm_node.train(train)
+quit()
+%run offline_p300
+svm_node = golem.nodes.SVM(c=3)
+svm_node.train(train)
+%pdb
+svm_node.train(train)
+labels
+cvx.matrix(labels)
+cvx.matrix(labels[0,:])
+quit
+quit()
+%run offline_p300
+svm_node = golem.nodes.SVM(c=3)
+svm_node.train(train)
+cvx.matrix?
+import cvxopt.base as cvx
+cvx.matrix?
+m = cvx.matrix([1,2,3,4])
+m = cvx.matrix([[1,2,3,4]])
+m = cvx.matrix(array([[1,2,3,4]]))
+quit()
+%run offline_p300
+%pdb
+svm_node = golem.nodes.SVM(c=3)
+svm_node.train(train)
+labels
+cvx.matrix(labels)
+cvx.matrix([1,2,3])
+cvx.matrix([1,-2,3])
+cvx.matrix(array([1,-2,3]))
+cvx.matrix(np.array([1,-2,3]))
+cvx.matrix(np.array([[1,-2,3]]))
+cvx.matrix(np.array([[1,-2,3.2]]))
+cvx.matrix(np.array([[1,-2.3,3.2]]))
+labels
+cvx.matrix(labels)
+cvx.matrix(labels[:,:100])
+b = np.array(labels)
+np.array()
+np.array(labels)
+b = np.array(labels)
+labels
+cvx.matrix(labels[:,:100])
+cvx.matrix(labels.astype(int))
+cvx.matrix(labels.astype(float))
+cvx.matrix(labels.astype(int))
+quit()
+%run offline_p300
+quit()
+%run offline_p300
+svm_node = golem.nodes.SVM()
+svm_node.train(train)
+svm_node.train(train[:100])
+svm_node.train(train[:100]+train[1000:1100])
+golem.perf.auc(svm_node.apply(test))
+svm_node.train(train[:200]+train[1000:1200])
+golem.perf.auc(svm_node.apply(test))
+svm_node.train(train[:10]+train[1000:1010])
+golem.perf.auc(svm_node.apply(test))
+svm_node.train(train[:500]+train[1000:1500])
+golem.perf.auc(svm_node.apply(test))
+svm_node.c
+svm_node.c_star
+lda_node = golem.nodes.LDA()
+lda_node.train(train)
+golem.perf.auc(lda_node.apply(test))
+lda_node = golem.nodes.LDA(cov%)
+%run offline_p300
+train
+test
+golem.stat.np?
+golem.perf.conf_mat(classi
+%run offline_p300
+test.cl_lab
+%run offline_p300
+d2
+d2[:50]
+d2[:49]
+%run offline_p300
+%r\un offline_p300
+%run offline_p300
+golem.perf.accuracy
+%run offline_p300
+quit()
+%run offline_p300
+reload erp
+reload(erp)
+import erp
+reload(erp)
+import erp
+reload erp
+%run offline_p300
+reload erp
+%run offline_p300
+reload(erp)
+%run offline_p300
+%pdb
+%run offline_p300
+%pdb
+%run offline_p300
+reload erp
+%run offline_p300
+performance
+vstack(performance)
+array(performance)
+plot( vstack(performance) )
+plot.plot( vstack(performance) )
+performance = array(performance)
+quit()
+performance
+plot.plot(performance[:,0], performance[:,1])
+ylim(6/7.0, 1)
+%run offline_p300
+performance
+plot.plot(performance)
+plot.plot(performance.T)
+np.nan
+np.nan(1)
+quit()
+%run offline_p300
+performance
+plot.plot(performance.T)
+ylim(6/7.0, 1)
+xlim(1,10)
+legend(['lda', 'lda-lw', 'svm'])
+legend(['lda', 'lda-lw', 'svm'], loc='best')
+xlim(1,10)
+ylim(0.7, 1)
+axvline(6/7.0)
+axhline(6/7.0)
+%run offline_p300
+plot.show()
+%run offline_p300
+reload erp
+%run offline_p300
+d2
+mdict.values()
+%run offline_p300
+test
+train
+test.Y
+%run offline_p300
+mtest
+mtest[:7]
+range(1,196,7)
+range(0,196,7)
+enumerate(xrange(0,196,7))
+list(enumerate(xrange(0,196,7)))
+classifiers
+classifiers['lda-lw'].apply(mtest[:7])
+result = classifiers['lda-lw'].apply(mtest[:7])
+result.Y
+result.X
+np.max(result.X,axis=0)
+np.maxarg(result.X,axis=0)
+np.argmax?
+np.argmax(result.X,axis=0)
+result.X[np.argmax(result.X,axis=0),:]
+result.X[np.argmax(result.X,axis=0),range(7)]
+result.X
+np.argmax(result.X[0,:])
+np.argmax(result.X[1,:])
+result.Y
+np.argmax(result.X[1,:])
+result.X[np.argmax[result.X, axis=2] == 0,0]
+result.X[np.argmax[result.X, axis=2] == 0,:]
+np.argmax(result.X, axis=2) == 0
+np.argmax(result.X, axis=0) == 0
+result.X[np.argmax(result.X, axis=0) == 0,0]
+np.argmax(result.X[np.argmax(result.X, axis=0) == 0,0])
+result = classifiers['lda-lw'].apply(mtest[7:14])
+np.argmax(result.X[np.argmax(result.X, axis=0) == 0,0])
+result.X
+result.Y
+np.argmax(result.X, axis=0)
+np.argmax(result.X, axis=0) == 0
+result.X[np.argmax(result.X, axis=0) == 0,0]
+golem.helpers.hard_max
+golem.helpers.hard_max?
+candidates = np.flatnonzero( np.argmax(result.X, axis=0) == 0 )
+candidates
+winner = candidates[ np.argmax( result.X[candidates, 0] ) ]
+winner
+candidates = array([1,2,3])
+winner = candidates[ np.argmax( result.X[candidates, 0] ) ]
+winner = candidates[ np.argmax( result.X[0,candidates] ) ]
+winner
+result.X[0,candidates]
+%run offline_p300
+candidates
+np.argmax(result[0,:])
+np.argmax(result[1,:])
+np.argmin(result[1,:])
+result[0,:] - result[1,:]
+result[1,:] - result[0,:]
+%run offline_p300
+plot.show()
+golem.class_loss(classified_blocks)
+golem.perf.class_loss(classified_blocks)
+len(np.flatnonzero(golem.perf.class_loss(classified_blocks)))
+%run offline_p300
+plot.ylim(num_blocks/float(num_options), num_blocks)
+num_blocks
+num_blocks-num_train_blocks
+run offline_p300
+plot.close('all')
+%run offline_p300
+plot.plot?
+plot.plot(performance.T, '-x')
+plot.xlim(1,10)
+plot.ylim(num_test_blocks/float(num_options), num_test_blocks)
+plot.legend(list(classifiers), loc='best')
+plot.plot(performance.T, '-x')
+plot.xlim(1,10)
+plot.ylim(num_test_blocks/float(num_options), num_test_blocks)
+plot.legend(list(classifiers), loc='best')
+%run offline_p300
+plot.show()
+num_test_blocks
+28/7
+plot.plot(performance.T, '-x')
+plot.xlim(1,10)
+plot.ylim(0, num_test_blocks - num_test_blocks/float(num_options))
+plot.legend(list(classifiers), loc='best')
+xlabel('Number of repetitions')
+ylabel('Number of misclassifications (out of 28)')
+import matplotlib.ticker as ticker
+axes.yaxis.set_major_locator(majorLocator)
+chance_level = num_test_blocks - num_test_blocks/float(num_options)
+axes = plot.subplot(111)
+plot.plot(performance.T, '-x')
+plot.xlim(1,10)
+plot.ylim(0, chance_level)
+plot.legend(list(classifiers), loc='best')
+majorLocator = ticker.FixedLocator(range(int(np.ceil(chance_level))))
+axes.yaxis.set_major_locator(majorLocator)
+chance_level = num_test_blocks - num_test_blocks/float(num_options)
+axes = plot.subplot(111)
+plot.plot(performance.T, '-x')
+plot.xlim(1,10)
+plot.ylim(0, chance_level)
+plot.legend(list(classifiers), loc='best')
+majorLocator = ticker.FixedLocator(range(int(np.ceil(chance_level))))
+axes.yaxis.set_major_locator(majorLocator)
+xlabel('Number of repetitions')
+ylabel('Number of misclassifications (out of %d)', num_test_blocks)
+title('Classifier performance')
+chance_level = num_test_blocks - num_test_blocks/float(num_options)
+axes = plot.subplot(111)
+plot.plot(performance.T, '-x')
+plot.xlim(1,10)
+plot.ylim(0, chance_level)
+plot.legend(list(classifiers), loc='best')
+majorLocator = ticker.FixedLocator(range(int(np.ceil(chance_level))))
+axes.yaxis.set_major_locator(majorLocator)
+xlabel('Number of repetitions')
+ylabel('Number of misclassifications (out of %d)' % num_test_blocks)
+title('Classifier performance')
+grid()
+eegplot.plot_erp( mean_node.apply(d2[:num_training_blocks*num_options]), 100, feat_lab=d.feat_lab )
+eegplot.plot_erp( mean_node.apply(d2[:num_training_blocks*num_options]), 100, feat_lab=d.feat_lab, enforce_equal_n=False )
+reload erp
+eegplot.plot_erp( mean_node.apply(d2[:num_training_blocks*num_options]), 100, feat_lab=d.feat_lab, enforce_equal_n=False )
+reload(eegplot)
+eegplot.plot_erp( mean_node.apply(d2[:num_training_blocks*num_options]), 100, feat_lab=d.feat_lab, enforce_equal_n=False )
+plot.ylim(num_test_blocks/float(num_options), num_test_blocks)
+%run offline_p300
+show()
+chance_level = num_test_blocks - num_test_blocks/float(num_options)
+plot.figure()
+axes = plot.subplot(111)
+plot.plot(performance.T, '-x')
+plot.xlim(1,10)
+plot.ylim(0, chance_level)
+plot.legend(list(classifiers), loc='best')
+majorLocator = ticker.FixedLocator(range(int(np.ceil(chance_level))))
+axes.yaxis.set_major_locator(majorLocator)
+plot.xlabel('Number of repetitions')
+plot.ylabel('Number of misclassifications (out of %d)' % num_test_blocks)
+plot.title('Classifier performance')
+plot.grid()
+chance_level = num_test_blocks - num_test_blocks/float(num_options)
+plot.figure()
+axes = plot.subplot(111)
+plot.plot(performance.T, '-x')
+plot.xlim(1,10)
+plot.ylim(0, chance_level)
+plot.legend(list(classifiers), loc='best')
+majorLocator = ticker.FixedLocator(range(int(np.ceil(chance_level))))
+axes.yaxis.set_major_locator(majorLocator)
+plot.xlabel('Number of repetitions')
+plot.ylabel('Number of misclassifications (out of %d)' % num_test_blocks)
+plot.title('Classifier performance')
+plot.grid()
+        pattern = r"""
+            ^         # beginning of string
+            ([^:]+)   # command
+            (:        # possibly some parameters
+            ([^=:]+)  # parameter name 
+            =([^=:]+) # parameter value
+            )*        # end of parameters
+            $         # end of string
+            """
+        m = re.match(pattern, msg, re.VERBOSE)
+import re
+        pattern = r"""
+            ^         # beginning of string
+            ([^:]+)   # command
+            (:        # possibly some parameters
+            ([^=:]+)  # parameter name 
+            =([^=:]+) # parameter value
+            )*        # end of parameters
+            $         # end of string
+            """
+        m = re.match(pattern, msg, re.VERBOSE)
+pattern
+m = re.match(pattern, "hello\n", re.VERBOSE)
+m
+m.groups
+m.groups(0)
+m.groups(1)
+m.groups(2)
+m.groups(3)
+m.groups(4)
+m.groups(5)
+list(m.groups)
+m.groups
+m.groups()
+m.groups()[0
+]
+m.groups()[1]
+m.groups()[2]
+m = re.match(pattern, "hello:bla\n", re.VERBOSE)
+m
+m = re.match(pattern, "hello:bla=bloep\n", re.VERBOSE)
+m
+m.groups()
+m = re.match(pattern, "hello:bla=bloep:blaf=blaat\n", re.VERBOSE)
+m.groups()
+        pattern = r"""
+            ^         # beginning of string
+            ([^:]+)   # command
+            ((:        # possibly some parameters
+            ([^=:]+)  # parameter name 
+            =([^=:]+) # parameter value
+            )*)        # end of parameters
+            $         # end of string
+            """
+m = re.match(pattern, "hello:bla=bloep:blaf=blaat\n", re.VERBOSE)
+m.groups
+m.groups()
+m = re.match(r"([^,]+,)", "bla")
+m.groups()
+m = re.match(r"([^,]+,)", "bla,")
+m.groups()
+m = re.match(r"([^,]+,)+", "bla,")
+m.groups()
+m = re.match(r"([^,]+,)+", "bla,blaf")
+m.groups()
+m = re.match(r"([^,]+,)+", "bla,blaf,")
+m.groups()
+m.groups(0)
+m.groups(2)
+m.groups(1)
+m.groups(3)
+m.groups?
+m.group(0)
+m.group(1)
+m.group(2)
+m = re.match(r"([^,]+,)+", "bla,blaf,")        pattern = r"""
+            ^        # beginning of string
+            ([^:]+)  # command
+            (:       # possibly some parameters
+            [^=:]+   # parameter name 
+            =[^=:]+  # parameter value
+            )*       # end of parameters
+            $        # end of string
+            """
+        pattern = r"""
+            ^        # beginning of string
+            ([^:]+)  # command
+            (:       # possibly some parameters
+            [^=:]+   # parameter name 
+            =[^=:]+  # parameter value
+            )*       # end of parameters
+            $        # end of string
+            """
+        pattern = r"""
+            ^        # beginning of string
+            ([^:]+)  # command
+            (:       # possibly some parameters
+            [^=:]+   # parameter name 
+            =[^=:]+  # parameter value
+            )*       # end of parameters
+            $        # end of string
+            """
+m = re.match(pattern, "hello:bla=bloep:blaf=blaat\n", re.VERBOSE)
+m.group(0)
+m.group(1)
+m.group(2)
+m.group(3)
+'bla=bloep'.split('=')
+        pattern = r"""
+            ^        # beginning of string
+            ([^:]+)  # command
+            ((:      # possibly some parameters
+            [^=:]+   # parameter name 
+            =[^=:]+  # parameter value
+            )*)      # end of parameters
+            $        # end of string
+            """
+m = re.match(pattern, "hello:bla=bloep:blaf=blaat\n", re.VERBOSE)
+m.group(1)
+m.group(2)
+m = re.match(pattern, "hello:bla=bloep:blaf=blaat", re.VERBOSE)
+m.group(2)
+m.group(2).split(':')
+m.group(2).split(':').shift()
+shift(m.group(2).split(':'))
+a = m.group(2).split(':')
+a[1:]
+a = m.group(2).split(':')
+m = re.match(pattern, "hello", re.VERBOSE)
+m.group(2)
+m.group(2).split(':')
+m.group(2).split(':')[1:]
+for a in m.group(2).split(':')[1:]:
+    print a
+a
+**a
+a*
+quit()
+%run main.py emulator p300
+%pdb
+%run main.py emulator p300
+quit()
+d = golem.DataSet.load('training_data.dat')
+d = golem.DataSet.load('test_data.dat')
+plot(d.Y.T)
+quit()
+d = golem.DataSet.load('test_data.dat')
+plot(d.Y.T)
+quit()
+d = golem.DataSet.load('test_data.dat')
+plot(d.Y.T)
+block_onsets = numpy.flatnonzero(d.Y > 100)
+block_lengths = numpy.hstack( (numpy.diff(block_onsets), d.ninstances-block_onsets[-1]) )
+block_lengths
+10*20
+10*200
+block_onsets
+block_onsets + block_lengths
+quit()
+mdict = {1:'bla'}
+mdict[3]
+a = array([1,2,3])
+a = np.array([1,2,3])
+import numpy as np
+a = np.array([1,2,3])
+a[5:
+    ]
+a = array([[1],[2]])
+a = np.array([[1],[2]])
+a
+a = np.array([[1,2]])
+a
+a[:,0]
+a[:,1]
+a[:,1].shape
+np.atleast_2d(a[:,1])
+a
+a = np.array([[1,2],[3,4]])
+a
+np.atleast_3d(a)
+np.atleast_3d(a).shape
+np.atleast_3d(a).reshape(-1,1)
+np.atleast_3d(a).reshape(-1,1).shape
+int( (1.5,2.0) )
+slice?
+from collections import deque
+deque?
+d = deque()
+d
+d.append(1)
+d
+d.append(1)
+d
+d.popleft
+d.popleft()
+d
+a
+list(a)
+a = [1,2,3]
+b = ['a','b','c']
+c = zip(a,b)
+c
+quit()
+from collections import deque
+quit()
+argmax([1,2,1])
+argmax([2,1,2,1])
+quit()
+any( isnan([1,2,3]) )
+any( isnan([1,2,3,nan]) )
+any( isnan([1,2,3,nan], [1]) )
+any( isnan([1,2,3,nan]), isnan([1]) )
+any( isnan([1,2,3]), isnan([1]) )
+quit()
+any( isnan([1,2,3]), isnan([1]) )
+any?
+any( [isnan([1,2,3]), isnan([1]) ])
+quit()
+isfinite
+isfinite?
+quit()
+%run experiment4.py
+eegplot.plot_erp(d4, 1000, feat_lab=d2.feat_lab, pval=0.05, start=0.0)
+%run experiment4.py
+d4 = d3.get_class(0) + d3.get_class(1)
+eegplot.plot_erp(d4, 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'FPz'], pval=0.05, start=0.0)
+plot.axvline(-2.0, color='r')
+eegplot.plot_erp(d4, 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'FPz'], pval=0.05, start=0.0, vspace=7.5)
+d
+d3
+(abs(d3.ndX) > 100, axis=2)
+any(abs(d3.ndX) > 100, axis=2)
+any(abs(d3.ndX) > 100, axis=2).shape
+any(abs(d3.ndX) > 100, axis=0).shape
+any(abs(d3.ndX) > 100, axis=(0,1)).shape
+any?
+any(any(abs(d3.ndX) > 100, axis=0), axis=1).shape
+any(any(abs(d3.ndX) > 100, axis=0), axis=0).shape
+any(any(abs(d3.ndX) > 100, axis=0), axis=0)
+%run experiment4.py
+any(any(abs(d3.ndX) > 100, axis=0), axis=0)
+d2 = reject_node.train_apply(d,d)
+%pdb
+d2 = reject_node.train_apply(d,d)
+print retain
+np.any(np.any(np.abs(d.ndX) < 100, axis=0), axis=0)
+quit()
+reload experiment4
+%run experiment4.py
+quit()
+%run experiment4.py
+np.std?
+np.std(d3.ndX, axis=0)
+np.mean(d3.ndX, axis=0)
+np.any(np.any(np.abs(d.ndX) < 100, axis=0), axis=0)
+np.any(np.any(np.abs(di3.ndX) < 100, axis=0), axis=0)
+quit()
+%run experiment4.py
+ls ../data
+%run experiment4.py
+d3 = golem.DataSet.load('trails.dat')
+d3 = golem.DataSet.load('trials.dat')
+eegplot.plot_erp(d3[0])
+eegplot.plot_erp(d3[0], 1000)
+any(any(d3.ndX, axis=0), axis=0)
+any(any(d3.ndX > 100, axis=0), axis=0)
+reject = any(any(d3.ndX > 100, axis=0), axis=0)
+eegplot.plot_erp(d3[reject], 100)
+d4 = d4[reject]
+d4 = d3[reject]
+eegplot.plot_erp(d4[:-1], 100)
+eegplot.plot_erp(d4[:-3], 100)
+eegplot.plot_erp(d3[logical_not(reject)], 100)
+d3
+d4
+eegplot.plot_erp(d3[:-3], 100)
+eegplot.plot_erp(d3[logical_not(reject)], 100)
+eegplot.plot_erp(d3[logical_not(reject)], 100, vspace=10)
+eegplot.plot_erp(d3[:-3], 100, vspace=10)
+eegplot.plot_erp(d4[0], 100)
+eegplot.plot_erp(d4[1], 100)
+eegplot.plot_erp(d4[2], 100)
+eegplot.plot_erp(d4[3], 100)
+eegplot.plot_erp(d4[4], 100)
+%run mixture.py
+Y
+num_trials_per_class
+# Relabel trials
+Y = np.zeros((2,d4.ninstances))
+Y[0, num_trials_per_class:] = 1
+Y[1, :num_trials_per_class] = 1
+mix = golem.DataSet(Y=Y, default=random)
+eegplot.plot_erp(mix, 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'FPz'], pval=0.05, start=0.0, vspace=7.5)
+%run mixture.py
+close('all')
+%run mixture.py
+ls
+%run determine_categories.py
+d3
+logfile = np.loadtxt('../data/marijn-present_categories-2-imecbe.log', skiprows=1, usecols=[4])
+logfile = np.loadtxt('../data/marijn-present_categories-2-imecbe.log', skiprows=1)
+d5
+mix
+mean(mix.get_class(0).ndX[300:400,:,:], axis=0)
+mean(mix.get_class(0).ndX[300:400,:,:], axis=0).shape
+mean(mix.get_class(0).ndX[300:400,:,:], axis=0) - mean(mix.get_class(1).ndX[300:400,:,:], axis=0)
+mean(mean(mix.get_class(0).ndX[300:400,:,:], axis=0), axis=1) - mean(mean(mix.get_class(1).ndX[300:400,:,:], axis=0), axis=1)
+%run determine_categories.py
+%run experiment4
+cat1 = open('../wordlists/categorie1.txt')
+dir(cat1)
+cat1.readlines()
+[word.strip() for word in cat1.readlines()]
+[word for word in cat1.readlines()]
+cat1.close()
+cat1 = open('../wordlists/categorie1.txt')
+[word.strip() for word in cat1.readlines()]
+word_pairs
+%run experiment4
+d3.ndX.shape
+eegplot.plot_erp(d5, 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'FPz'], pval=0.05, start=1.0, vspace=7.5)
+eegplot.plot_erp(d5[100])
+eegplot.plot_erp(d5[100], 1000)
+eegplot.plot_erp(d5[101], 1000)
+eegplot.plot_erp(d5[102], 1000)
+eegplot.plot_erp(d5[103], 1000)
+eegplot.plot_erp(d5, 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'FPz'], pval=0.05, start=1.0, vspace=7.5)
+cat1
+cat2
+labels
+d3
+Y
+labels
+Y
+Y.shape
+d2
+d
+d.Y
+d2
+mdict
+d2.cl_lab
+d2
+Y
+Y.shape
+d2
+len(word_pairs)
+d.Y
+np.max(d.Y)
+mdict
+d2
+np.unique(d2.Y)
+d2 = d
+d2 = psychic.slice(d[:661000], mdict, (0, 1000))
+d2
+np.unique(d.Y)
+d2 = psychic.slice(d, mdict, (0, 1000))
+d2
+%run experiment4
+k%
+%run experiment4
+eegplot.plot_erp(d5, 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'FPz'], pval=0.05, start=1.0, vspace=7.5)
+eegplot.plot_erp(d5[100], 1000)
+eegplot.plot_erp(d5[110], 1000)
+eegplot.plot_erp(d5, 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'FPz'], pval=0.05, start=1.0, vspace=7.5)
+quit()
+%run mixture.py
+cd ../scripts
+%run mixture.py
+cd ../scripts
+%run mixture.py
+differences
+plot([1.0, 0.5, 0.75, 0.9], differences)
+plot.plot([1.0, 0.5, 0.75, 0.9], differences)
+plot.plot([1.0, 0.5, 0.75, 0.9], differences, '-x')
+legend(['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+plot.legend(['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+differences
+differences.shape
+np.vdifferences.shape
+plot.legend(['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+plot.plot([1.0, 0.5, 0.75, 0.9], np.vstack(differences), '-x')
+np.vstack(differences).shape
+%run mixture
+import pycuda
+cd ..
+%run cudatest.py
+dir(pycuda)
+pycuda.autoinit
+pycuda.driver
+quit()
+import pycuda.autoinit
+%run cudatest.py
+quit()

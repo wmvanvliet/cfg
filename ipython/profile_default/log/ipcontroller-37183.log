@@ -1,0 +1,21 @@
+[IPControllerApp] Hub listening on tcp://127.0.0.1:59795 for registration.
+[IPControllerApp] Hub using DB backend: 'IPython.parallel.controller.dictdb.DictDB'
+[IPControllerApp] hub::created hub
+[IPControllerApp] writing connection info to /Users/rodin/.ipython/profile_default/security/ipcontroller-client.json
+[IPControllerApp] writing connection info to /Users/rodin/.ipython/profile_default/security/ipcontroller-engine.json
+[IPControllerApp] task::using Python leastload Task scheduler
+[IPControllerApp] Heartmonitor started
+[IPControllerApp] Creating pid file: /Users/rodin/.ipython/profile_default/pid/ipcontroller.pid
+[IPControllerApp] client::client '7bbcb552-39fa-4fad-a953-966746679a11' requested u'registration_request'
+[IPControllerApp] client::client '9a86eaf0-85ec-44e6-8534-b94485fa45eb' requested u'registration_request'
+[IPControllerApp] client::client '0e35f113-1609-44c4-961a-f73c422dcd0a' requested u'registration_request'
+[IPControllerApp] client::client 'e8b107ef-685d-4f09-abe9-948dff53d9b2' requested u'registration_request'
+[IPControllerApp] registration::finished registering engine 2:'0e35f113-1609-44c4-961a-f73c422dcd0a'
+[IPControllerApp] engine::Engine Connected: 2
+[IPControllerApp] registration::finished registering engine 1:'9a86eaf0-85ec-44e6-8534-b94485fa45eb'
+[IPControllerApp] engine::Engine Connected: 1
+[IPControllerApp] registration::finished registering engine 0:'7bbcb552-39fa-4fad-a953-966746679a11'
+[IPControllerApp] engine::Engine Connected: 0
+[IPControllerApp] registration::finished registering engine 3:'e8b107ef-685d-4f09-abe9-948dff53d9b2'
+[IPControllerApp] engine::Engine Connected: 3
+[IPControllerApp] Got signal 2, terminating children...

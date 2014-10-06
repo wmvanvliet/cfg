@@ -1,0 +1,58 @@
+(dp1
+Vepoc = np.array(epoc)
+p2
+I2308
+sVdict.keys()
+p3
+I5558
+sVi
+I644
+sVnumpy.atleast_2d(detected_points).repeat(2, axis=0).reshape(2, 5)
+p4
+I2190
+sVnumpy.atleast_2d( numpy.range(10) ).repeat( (1,2) )
+p5
+I1041
+sVranks
+p6
+I2961
+sVplt.plot(numpy.arange(6, 25, 1/(120*128)))
+p7
+I1316
+sVcd ../kuleuven/BCITD/Python/
+p8
+I2868
+sVsvm_node.c
+p9
+I6406
+sVrange(1,196,7)
+p10
+I6434
+sVd2.ns_xs[d2.ys[:,0].astype(bool),:,:].shape
+p11
+I3827
+sVclasses = numpy.zeros([d.ninstances, max(d.ys)+1]) != 0
+p12
+I656
+sVtrial2
+p13
+I6141
+sVm = re.match(r'^.*?(\u005cd*)\u005c.?(.*)$', filename)
+p14
+I5996
+sVplot.plot([1.0, 0.5, 0.75, 0.9], differences, '-x')
+p15
+I6695
+sV2*_
+p16
+I4398
+sVplt.axhline(0.05)
+p17
+I2996
+sVd = bdf.load_bdf('../data/marijn-present_categories-2-imecbe.bdf')
+p18
+I6607
+sVlen(raw)
+p19
+I428
+s.

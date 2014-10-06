@@ -1,0 +1,79 @@
+(dp1
+Vtraining[0].ndX.shape
+p2
+I5216
+sVplt.plot(d2.nd_xs[35,:,:,0])
+p3
+I63
+sVys[1,:]
+p4
+I272
+sVimport loggin
+p5
+I35
+sVplt.close()
+p6
+I97
+sV)
+I1263
+sVstring.rfind?
+p7
+I5964
+sVplot(d.ys)
+p8
+I2516
+sVchain = golem.nodes.Chain([blowup_node, mean_node])
+p9
+I5755
+sVplt.plot(window_sizes, acc_array[np.array(epoc),:].T)
+p10
+I2297
+sV2*+1
+p11
+I2636
+sVeegplot.plot_eeg(d[63035:65989])
+p12
+I4143
+sVplot.close('all')
+p13
+I1522
+sVlabels = np.atleast_2d(flip_array[:,0]).repeat(2, axis=0)
+p14
+I2902
+sVclassifier0 = golem.nodes.LDA(cov_f=np.cov)
+p15
+I5116
+sVeegplot.plot_erp(d2[:200], 100, baseline_period=(0, 2), feat_lab=d.feat_lab, start=0, classes=[0,1])
+p16
+I4071
+sVplot( vstack(performance) )
+p17
+I6418
+sVb.T.reshape(2,9)
+p18
+I5250
+sVr = psychic.bdfreader.BaseBDFReader( open('test.bdf') )
+p19
+I1750
+sVos.uname
+p20
+I6070
+sVclassifiers['svm'].train(train)
+p21
+I5833
+sVeegplot.plot_eeg( d6[20000:35000])
+p22
+I4311
+sVnumpy.mean(mean_corrs[d.ys[:,1],0,:], axis=0)
+p23
+I2228
+sVxi = numpy.linspace(0, 4, 3)
+p24
+I1732
+sVd.ys[1:,0].astype(numpy.int) - d.ys[:-1,0].astype(numpy.int)
+p25
+I2369
+sVvar(d3.ndX)
+p26
+I4676
+s.

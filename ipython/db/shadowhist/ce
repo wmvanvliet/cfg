@@ -1,0 +1,80 @@
+(dp1
+Veegplot.plot_erp( erp.erp(d2, (0,200), classes=[1,2]), 1000 )
+p2
+I4264
+sVperiod_idxs[:,4]
+p3
+I1931
+sVd3 =
+p4
+I2511
+sVd = bdf.load_bdf('random.bdf')
+p5
+I5914
+sVd = cPickle.load(f)
+p6
+I287
+sVplt.plot(d2.ys[:,0])
+p7
+I1404
+sVnumpy.zeros([2,3])
+p8
+I1567
+sVnp.logspace(0,1,10)
+p9
+I4638
+sVchange_ids = np.concatenate( ([1], diff(ys)) )
+p10
+I3901
+sVnumpy.linspace(0,10,4)
+p11
+I1659
+sVlogfile = loadtxt('../data/arne-present_categories-1-imecbe.log', skiprows=1, usecols=[4])
+p12
+I6196
+sVplt.show()fig_width_pt = 246.0  # Get this from LaTeX using \u005cshowthe\u005ccolumnwidth
+p13
+I2319
+sVd.ids.shape
+p14
+I2734
+sVm = np.fromfile('markers.log', sep=',')
+p15
+I5857
+sV0.5**5
+p16
+I3011
+sVscipy.stats.binom_test(1,6)
+p17
+I3014
+sVtrial = d[240896-50:241096+150]
+p18
+I6142
+sVd2 = golem.DataSet(ys=ys, cl_lab=['0', '90', '180', '270'], default=d)
+p19
+I3223
+sVnonzero(d.ys==1 or d.ys==2)[0][1:] - nonzero(d.ys)[0][:-1]
+p20
+I3671
+sVx[0,:,:]
+p21
+I1581
+sVmatplotlib
+p22
+I1141
+sV336/14
+p23
+I2602
+sVplt.plot(window_sizes, acc_array[imec,0].T )
+p24
+I3338
+sVnumpy.array([[1,0]]).repeat(64, axis=1).repeat(10, axis=0)
+p25
+I2712
+sVflatnonzero(d.ys)
+p26
+I3919
+sVintensity[0].astype(numpy.int)
+p27
+I3159
+s.

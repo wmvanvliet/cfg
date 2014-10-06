@@ -1,0 +1,80 @@
+(dp1
+VY = np.array([[0,1],[1,0]])
+p2
+I5092
+sVnp.rollaxis?
+p3
+I5287
+sVd.ys = classlab[:15352,:]
+p4
+I1393
+sVdir(cPickle)
+p5
+I355
+sVd = psychic.load_bdf('../data/marijn-12-IMECBE.bdf')
+p6
+I3538
+sVnp.mean(d2.xs[d2.ys[:,0],0])
+p7
+I340
+sVnumpy.atleast_2d(detected_points).repeat(2, axis=0).T.reshape(4,5)
+p8
+I2197
+sVd3.xs
+p9
+I228
+sVdiff(nonzero(d_r.ys)[0])
+p10
+I3726
+sVplt.ylim(0.5,1.0)
+p11
+I2274
+sVfor i in range(0, off_indices.shape[0]):
+p12
+I626
+sVflip_array[5,:]
+p13
+I2888
+sVclasses[0][0]
+p14
+I630
+sVb = np.rollaxis(np.tile(a.T, [3,1,1]), 1)
+p15
+I5237
+sVplot_eeg(d)
+p16
+I1163
+sVd2 = psychic.load_bdf('../data/arne-2-imecbe.bdf')
+p17
+I4525
+sVfor i in range(0, off_indices.shape[0]):\u000a    classes[off_indices[i]:on_indices[i]][1] = True
+p18
+I629
+sV697/60
+p19
+I6369
+sVlogfile = loadtxt(
+p20
+I6219
+sVcongruent_erp = trial.erp.get_class(0)
+p21
+I6179
+sVplot.plot(mean(differences, axis=1), '-x', linewidth=4)
+p22
+I6664
+sVpsychic.plot_timeseries(a.T)
+p23
+I5212
+sVnp.atleast_2d(mouse_class).shape
+p24
+I3100
+sVnp.std(acc_array[epoc,:], axis=0)
+p25
+I2865
+sVplot(timing_slow)
+p26
+I5885
+sVnumpy.nonzero( ys[:,0] )
+p27
+I2214
+s.

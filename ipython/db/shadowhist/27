@@ -1,0 +1,53 @@
+(dp1
+Vre.match('/\u005cd+:\u005cd+\u005c.?\u005cd*/', '1:2')
+p2
+I690
+sVd3 = fft_node.apply(d[17045:50077])
+p3
+I3878
+sVresult.X[np.argmax(result.X,axis=0),:]
+p4
+I6446
+sVplt.plot(window_sizes, sign_test, '-s', label='Sign test')
+p5
+I3034
+sVsign_test
+p6
+I3030
+sVnumpy.interp?
+p7
+I1711
+sVplt.savefig('bla.raw', format=raw)
+p8
+I771
+sVnp.nonzero(d4.ys)
+p9
+I3514
+sVd2[63035:65989]
+p10
+I4142
+sV7285-7295
+p11
+I2701
+sVvalues['label'] = ['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3']
+p12
+I3588
+sVeegplot.plot_eeg(d2, 1000, vspace=5)
+p13
+I3297
+sV9013/20
+p14
+I1474
+sVeegplot.plot_spectograms(trial_erp2, 100)
+p15
+I6177
+sVxs = np.vstack([d.X, np.zeros(8, d.ninstances)]) - np.atleast_2d(np.mean(d.X, axis=0)).repeat(9, axis=0)
+p16
+I3448
+sVa = numpy.array([[3,2,5,4,6,3,5,4], [8,2,3,2,4,9,8,9]])
+p17
+I3066
+sVplt.plot(window_sizes, acc_array[16,:] )
+p18
+I3343
+s.

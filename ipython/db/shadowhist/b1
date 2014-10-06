@@ -1,0 +1,80 @@
+(dp1
+Vd.ys[30287]
+p2
+I4757
+sVimport scipy.stats.norm?
+p3
+I169
+sVd.xs[128,:]
+p4
+I2648
+sVeegplot.plot_eeg(d3, 1000, spec_channel=5)
+p5
+I3128
+sVfrom_idx = numpy.nonzero(d.ys == 2)[0][0]
+p6
+I2772
+sVdir()
+p7
+I4276
+sVpred = svm.apply(d2)
+p8
+I3957
+sVplot.ylim(0, num_test_blocks - num_test_blocks/float(num_options))
+p9
+I6484
+sVnp.mean(d.X, axis=0).shape
+p10
+I3443
+sVre
+p11
+I220
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[9:20,:,:], axis=0) )
+p12
+I4605
+sVw.reserved = w.reserved[:7]
+p13
+I2459
+sV1./np.median(np.diff(d.ids[:, 0]))
+p14
+I304
+sVd3 = subsets[0].get_class(0)
+p15
+I5706
+sVd3.ndX.reshape(8,20,210)[4,10,1]
+p16
+I5712
+sVstimulation['flipMoments']
+p17
+I3193
+sVhelp(imec.Recorder.get_data)
+p18
+I562
+sVframes[14222:15222,14].astype(numpy.int)
+p19
+I2563
+sVplot.plot(d5.nd_xs[100:110,:,4].T)
+p20
+I1485
+sVtest[4]
+p21
+I401
+sVfind?
+p22
+I5562
+sVeegplot.plot_erp(d2[:-3], 100, baseline_period=(0, 0.1))
+p23
+I4044
+sVnumpy.random.randn?
+p24
+I3356
+sV[2] + [3]
+p25
+I5170
+sVmix
+p26
+I6650
+sVd3.ys[:,0] - d3.ys[:,1]
+p27
+I4207
+s.

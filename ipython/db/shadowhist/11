@@ -1,0 +1,101 @@
+(dp1
+Vdef_node.train(block)
+p2
+I4282
+sVd2 = resample_node.train_apply(d2, d2)
+p3
+I6383
+sVnumpy.mean(a, axis=0)
+p4
+I1188
+sVbin( 0xff )
+p5
+I520
+sVnumpy.zeros([10, max(d.ys)])
+p6
+I655
+sVeegplot.plot_erp(d2[20:], 100)
+p7
+I4570
+sVd.ys.shape
+p8
+I148
+sVclassifier?
+p9
+I564
+sVfrom numpy import *
+p10
+I3071
+sVnumpy.atleast_3d(x).repeat(2, axis=2).reshape(2*x.shape[0], x.shape[1])
+p11
+I1597
+sVplt.plot(numpy.arange(6, 25, 12/120.0))
+p12
+I1321
+sVd2.ninstances / 128
+p13
+I2530
+sVnp.rollaxis( block.get_class(option_num).ndX, 1 ).shape
+p14
+I5693
+sVplot.plot(d5.nd_xs[130:150,:,5].T, '-k')
+p15
+I1517
+sVround(12.8*4)+1
+p16
+I2029
+sVd.xs[0:10, 1:5]
+p17
+I1030
+sVplt.plot([50, 83, 83, 83, 82, 82, 82, 82, 80, 78, 75, 75, 75, 75, 74, 76, 72, 72], 'b-x')
+p18
+I2056
+sVys = numpy.ascontiguousarray(d2.ys[::5,:]).astype(d.ys.dtype)
+p19
+I1449
+sVnonzero(d.ys)
+p20
+I3692
+sVplt.plot(d2.ys[:,1], d2.ids)
+p21
+I1406
+sVflatnonzero(training.Y[2,:]).shape
+p22
+I5629
+sVa[:,1].shape
+p23
+I6550
+sVeegplot.plot_eeg(d[32000:326466])
+p24
+I4039
+sVnp.logical_and(epoc, np.logical_not(flip_array[:,0]))
+p25
+I2900
+sVa[0]
+p26
+I3469
+sVplot( t**[-0.5, -1.0] )
+p27
+I3381
+sVclassifier.Classifier?
+p28
+I565
+sVd2.ninstances / 5
+p29
+I5681
+sVre.match('/\u005c\u005cd$/', 'bla3')
+p30
+I5966
+sVb = np.tile(a, [1,1,3])
+p31
+I5248
+sVnp.concatenate?
+p32
+I5741
+sVnumpy.nonzero( d3.ys[:,0].astype(numpy.bool) == d2.ys[:,0])
+p33
+I2047
+sVlen(word_pairs)
+p34
+I6685
+s.

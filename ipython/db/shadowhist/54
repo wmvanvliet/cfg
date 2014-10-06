@@ -1,0 +1,83 @@
+(dp1
+Vscipy.stats.ttest_rel?
+p2
+I3007
+sVd = golem.DataSet(X=d.X[:8,:], feat_lab=d.feat_lab[:8], default=d)
+p3
+I6378
+sVeegplot.plot_erp(d3, 100, baseline_period=[0,10])
+p4
+I5759
+sVpsychic.utils.markers_to_events(test.ys.flat)
+p5
+I246
+sVd.I[,0]
+p6
+I3420
+sV0b101110001001
+p7
+I417
+sVplt.plot( np_mean(acc_array[random_imec[0,:], :], axis=1) )
+p8
+I2919
+sVbin( (test[4] << 8) & 0x0f00)
+p9
+I519
+sVpsychic.plot_timeseries(avg)
+p10
+I3386
+sVpdb.runcall(np.concatenate(y1, y2[::-1])
+p11
+I4388
+sVa[:] = 2
+p12
+I648
+sV30/4.0
+p13
+I1995
+sVnonzero( diff(ps[:,3] < 0.05) )
+p14
+I4371
+sVpsychic.plot_timeseries(X4[:,:,0])
+p15
+I5443
+sVw.header
+p16
+I4320
+sV(624+625)/(2047+2046)
+p17
+I1857
+sVeegplot.plot_erp(d2, 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'], start=0.1, baseline_period=(-0.1, 0))
+p18
+I3881
+sVmap(zip(*hh), multiply)
+p19
+I4742
+sVfor idx,freq in enumerate(a): cl[idx] = freq
+p20
+I1372
+sVp.append(perf[19])
+p21
+I2083
+sV13500-13446+27
+p22
+I460
+sVeegplot.plot_erp( erp.erp(d3, (0,20), classes=1:7), 100 )
+p23
+I4221
+sVfor i in range(50):\u000a    mdict[i+50] = 0
+p24
+I3674
+sVtest[20*27:21*27]
+p25
+I465
+sVplt.plot(d2.ys[:,0], d2.ids)
+p26
+I1405
+sVplt.subplot(421); plt.plot(d2.nd_xs[35,:,:,0].T, '-k')
+p27
+I67
+sVeegplot.plot_erp(d2, 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000))
+p28
+I6327
+s.

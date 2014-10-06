@@ -1,0 +1,59 @@
+(dp1
+Vplt.figure(figsize=(5,4));
+p2
+I2299
+sVa.repeat(2)
+p3
+I1035
+sVd.cl_lab = list(numpy.linspace(6,25,10))
+p4
+I1398
+sVinterp(stimulation['Timing'][0][0][0], ys, np.arange(0,xs.shape[0],0.001))
+p5
+I3199
+sVys = numpy.zeros([d.ninstances, 1])
+p6
+I2372
+sVplt.plot(d6.ids, d6.xs)
+p7
+I3233
+sVtest = struct.unpack('13527B', raw)
+p8
+I462
+sVnumpy.linalg.inv(a)
+p9
+I1061
+sVxs = numpy.ascontiguousarray(d2.xs[::5,:]).astype(d.xs.dtype)
+p10
+I1448
+sVscilab.loadmatfile('../../NoBackup/data/SSVEP-scan-Arne-120s-6Hz-25Hz-10-steps-sine-epoc.mat')
+p11
+I1264
+sVslice_node.train(d(
+p12
+I260
+sVa = [[1,2,3],[4,5,6]]
+p13
+I5218
+sVa = numpy.arange(6,25,(25-6)/10.0)
+p14
+I1326
+sVd4 = d3[0]
+p15
+I6338
+sVdiff(flatnonzero(d.ys))
+p16
+I4486
+sVhelp(np.cov)
+p17
+I96
+sVimport matplotlib.pyplot as plt
+p18
+I7
+sVlda = golem.nodes.LDA()
+p19
+I4841
+sVplot(d3.ys)
+p20
+I4655
+s.

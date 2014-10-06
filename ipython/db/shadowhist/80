@@ -1,0 +1,89 @@
+(dp1
+Vplt.axhline?
+p2
+I213
+sV[ys == 0, ys == 1, ys == 2, ys == 3, ys == 4, ys == 5, ys == 6, ys == 7]
+p3
+I318
+sVtest.ninstances_per_class
+p4
+I5186
+sVeegplot.plot_erp( erp.Mean(axis=2).apply(erp.Blowup(200).apply(d3.get_class(1))), 100, feat_lab=d.feat_lab, enforce_equal_n=False)
+p5
+I5805
+sVbp_node = psychic.nodes.OnlineFilter( lambda s : scipy.signal.iirfilter(5, [4/(s/2), 45/(s/2)]) )
+p6
+I688
+sVd3 = psychic.slice(d2[10000:50000], mdict, (-1000, 1000))
+p7
+I6210
+sVd.xs.ndim
+p8
+I917
+sVA /= 128
+p9
+I1083
+sVpsychic.plot_timeseries( Y[:,:,0] )
+p10
+I5308
+sVpre
+p11
+I3237
+sVlen(numpy.unique(d2.ids))
+p12
+I886
+sVstimulation['StartTime']
+p13
+I3191
+sVflatnonzero( d2.ninstances_per_class )
+p14
+I4190
+sVeegplot.plot_eeg(d3, 200)
+p15
+I1453
+sVnp.fromfile('markers.log')
+p16
+I5854
+sVeegplot.plot_erp(d2, 1000, 20, (0, 0.10), feat_lab=d.feat_lab)
+p17
+I3774
+sVerp.erp(training[block_labels == block], classes=[1,2])
+p18
+I5632
+sVlda.means
+p19
+I4845
+sVplt.plot(d.ids, d.xs[:,1])
+p20
+I352
+sVre.match?
+p21
+I5965
+sVpred = lda.apply(d2)
+p22
+I4843
+sVplot.plot(d.xs[0:128,13])
+p23
+I2596
+sV628**2
+p24
+I4708
+sVpot.figure()
+p25
+I3506
+sVipy_vimserver2
+p26
+I2851
+sVplt.specgram(d.xs[:,6], Fs=128, NFFT=128, noverlap=0)
+p27
+I1004
+sVhh=[[82.5], [168.5]]
+p28
+I4735
+sVd3.save('trials.dat')
+p29
+I6613
+sVeegplot.plot_eeg(d3, 1000)
+p30
+I1452
+s.

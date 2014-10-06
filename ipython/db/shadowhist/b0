@@ -1,0 +1,86 @@
+(dp1
+Vep = usb.util.find_descriptor(dev.get_interface_altsetting(), bEnpointAddress=usb.util.ENDPOINT_IN)
+p2
+I864
+sV'status' in d.cl_lab
+p3
+I5565
+sVeegplot.plot_eeg(d3[:10000])
+p4
+I6206
+sVinterp(stimulation.Timing[0][0][0], ys, range(0,xs.shape[0],0.001))
+p5
+I3196
+sVd2 = psychic.slice(d, mdict, (-1600, -1500))
+p6
+I4091
+sVd.Y(flatnonzero(d.Y))[:100]
+p7
+I5943
+sVword_pairs
+p8
+I6676
+sVtraining = cross_validation_sets(subsets)
+p9
+I5490
+sVgolem.perf.accuracy( lda.train_apply(train, train) )
+p10
+I6096
+sVeegplot.plot_eeg(d4, 1000, spec_channel=1, vspace=1)
+p11
+I2357
+sVd2 = golem.Dataset(ys=ys, cl_lab=['Status'], default=d)
+p12
+I2381
+sVdiff(d.ys)
+p13
+I4750
+sVw = bdf.BDFWriter('../Data/Subject3-IMEC.bdf', values=values)
+p14
+I2479
+sVep.
+p15
+I874
+sVdropped = np.loadtxt('droppedframes.log', delimiter=',', skiprows=1)
+p16
+I6023
+sVd = d[17045:5077]
+p17
+I3848
+sVd.ys[:,0].shape
+p18
+I2243
+sV%run experiment3
+p19
+I6189
+sVimport IPython.Debugger
+p20
+I2805
+sV13500-2349
+p21
+I579
+sVreload(bank)
+p22
+I1208
+sVA = a
+p23
+I1062
+sVylabel('Number of misclassifications (out of %d)', num_test_blocks)
+p24
+I6493
+sV3303000 / 100
+p25
+I4526
+sV%vim offline_test.py
+p26
+I2844
+sVscipy.stats.binom_test([3,4], 7)
+p27
+I2975
+sVeegplot.plot_erp(d4[3], 100)
+p28
+I6637
+sVnp.maxarg(result.X,axis=0)
+p29
+I6444
+s.

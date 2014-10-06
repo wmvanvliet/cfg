@@ -1,0 +1,62 @@
+(dp1
+Vd.Y[flatnonzero(d.Y)][:100]
+p2
+I5944
+sVd.xs.T
+p3
+I1810
+sVreal_points.repeat(2)
+p4
+I2138
+sVnp.argmin(result[1,:])
+p5
+I6469
+sVplot.plot(numpy.mean(d5.nd_xs[10:20,:,5], axis=1), '-b')
+p6
+I1507
+sVimport scipy,numpy,golem,psychic
+p7
+I722
+sVages = [24,23,27,33,22,34,27,24]
+p8
+I3346
+sVmatches.groups
+p9
+I5971
+sVsamplerate=1000
+p10
+I1951
+sVnumpy.nonzero?
+p11
+I592
+sVeegplot.plot_erp(d3[:-1], 1000)
+p12
+I6214
+sVtrain =  d3[d3.ys[:30,0].astype(bool)] + d3[d3.ys[30:,1].astype(bool)]
+p13
+I4471
+sVplt.plot(d.ids[1000:2000], d.xs[1000:2000,3])
+p14
+I422
+sVslic_node = SLIC(20)
+p15
+I23
+sVd = golem.DataSet.load('test_data.dat')
+p16
+I721
+sVa.squeeze()
+p17
+I2033
+sV0.5**6
+p18
+I3010
+sVY = np.array([[0,1],[1,0]], dtype=np.pool)
+p19
+I5094
+sVpsychic.get_samplerate(d_r)
+p20
+I3725
+sVmean(mean(mix.get_class(0).ndX[300:400,:,:], axis=0), axis=1) - mean(mean(mix.get_class(1).ndX[300:400,:,:], axis=0), axis=1)
+p21
+I6654
+s.

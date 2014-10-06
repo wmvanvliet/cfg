@@ -1,0 +1,89 @@
+(dp1
+V1*128
+p2
+I1888
+sVd = psychic.load_bdf('../data/marijn-p300-imec4.bdf')
+p3
+I4256
+sVscipy.stats.binom_test([6,2], 7)
+p4
+I2980
+sVa = numpy.arange(128, 12.8)
+p5
+I1630
+sVbreak(lda.train_)
+p6
+I4926
+sVb = a==1
+p7
+I800
+sVd.popleft
+p8
+I6563
+sVplot( diff(m[:,0]) )
+p9
+I5888
+sVd = golem.DataSet.load('../Data/test_data_1.dat')
+p10
+I2040
+sVcl = golem.nodes.LDA()
+p11
+I4794
+sVd2 = psychic.slice(d, mdict, (-600, -200))
+p12
+I4123
+sV[1,2,3,4].size
+p13
+I102
+sVbin(test[4] << 4)
+p14
+I402
+sVeegplot.plot_eeg(d[32000:32700])
+p15
+I4035
+sVplot.plot(stimulation['Intensity'][0][0][0][0:100].T)
+p16
+I3185
+sVd2.Y[0,:10]
+p17
+I5626
+sVd2 = d[271000:281000]
+p18
+I3109
+sVeegplot.plot_eeg(d2[-3000:-170])
+p19
+I4550
+sVnp.sqrt?
+p20
+I4727
+sVehco
+p21
+I5003
+sVd4 = golem.DataSet(Y= vstack(( hstack((ones((1,10)), zeros((1,10)))), hstack((zeros((1,10)), ones((1,10))))  )), cl_lab=['congruent', 'incongruent'], default=d3)
+p22
+I6175
+sVplot.plot(d.xs[204:214,0])
+p23
+I2523
+sVplt.plot(avg[:,6], '-b', linewidth=4)
+p24
+I3296
+sVd3.Y[0,2]
+p25
+I6345
+sVlogger.info('Noise reduced to: %g%%' % pca.fracs[-1])
+p26
+I1119
+sVnow = datetime()
+p27
+I1237
+sVY = np.hstack( np.zeros(1, num_repetitions), np.ones(1, num_repetitions) )
+p28
+I5080
+sVys = [0,0,1,1,0,0,2,2,2,0,0]
+p29
+I3897
+sVreal_points.reshape(1,)
+p30
+I2147
+s.

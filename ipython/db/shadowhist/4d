@@ -1,0 +1,77 @@
+(dp1
+Vplot.plot( d.xs2[129,:] )
+p2
+I2643
+sVplt.clim?
+p3
+I6321
+sV9/23
+p4
+I3359
+sVplt.xlim([min(d2.ids), max(d2.ids)])
+p5
+I748
+sVsamplerate = 1000
+p6
+I307
+sVblock1 = d2[54415:87448]
+p7
+I4428
+sVca.shape
+p8
+I2936
+sVeegplot.plot_erp(d3[:60], 1000)
+p9
+I6216
+sVnp.atleast_2d(d2.ys[0]).repeat(d2.feat_shape[0], axis=0).shape
+p10
+I3260
+sVplt.plot(periods[7,:,:], '-k')
+p11
+I3310
+sVeegplot.plot_eeg(d[-3000:])
+p12
+I4530
+sVnumpy.atleast_2d(signal).repeat(10, axis=0)
+p13
+I1942
+sVplt.grid()
+p14
+I2111
+sVd.cl_lab = ['fixating', 'not-fixating']
+p15
+I292
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[[1,2,3,4,5,6,8,9,10,11,12,13,15,16,17,18],:,:], axis=0) )
+p16
+I4618
+sVplt.plot(window_sizes, acc_array[imec,:].T)
+p17
+I2292
+sVnumpy.arange(0, 128, 128/10.0).shape
+p18
+I1612
+sVpsychic.plot_timeseries( Y.T )
+p19
+I5306
+sVplt.plot(d2.ids, d2.ys)
+p20
+I176
+sVimec.Recorder.get_data?
+p21
+I561
+sVdiff( flatnonzero(d.Y) ) / 1000.0
+p22
+I6232
+sVmin([1,2,-5,4])
+p23
+I5133
+sVids == 1
+p24
+I2756
+sVeegplot.plot_erp(d2, target_samplerate, enforce_equal_n=True, feat_lab=d.feat_lab, baseline_period=(10,20))
+p25
+I4866
+sVlen(detected_points) % 2
+p26
+I2188
+s.

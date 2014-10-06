@@ -1,0 +1,107 @@
+(dp1
+V128/11.8 % 1
+p2
+I1884
+sVd = golem.DataSet.load('../data/arne-03.dat')
+p3
+I6368
+sVall = training + test
+p4
+I5343
+sVreload friedman_test
+p5
+I2968
+sVd2 = psychic.slice(d, {1:'nontarget', 2:'target'}, (0, 1000))
+p6
+I4340
+sVint(['1', '2'])
+p7
+I1250
+sVeegplot.plot_erp(d2[:260], target_samplerate, enforce_equal_n=True, feat_lab=d.feat_lab)
+p8
+I4864
+sVslic_node.train(d4)
+p9
+I911
+sVe = erp.erp(d3[2], classes=[1], enforce_equal_n=True)
+p10
+I6352
+sVpsychic.plot_timeseries( np.rollaxis(training.ndX, 1).reshape(8,-1) )
+p11
+I5291
+sVcd ../Python/
+p12
+I4438
+sVwindow
+p13
+I5841
+sVm = np.loadtxt('markers.log', delimiter=',', skiprows=1)
+p14
+I5926
+sVn_subjects = 7
+p15
+I2991
+sVd.Y[:10,0]
+p16
+I5941
+sVd2 = golem.DataSet(ids = numpy.arange(d.ninstances)/128.0, default=d)
+p17
+I2731
+sVcl.train(d2)
+p18
+I4795
+sVser.close()
+p19
+I6051
+sVnonzero(d.ys > 100)
+p20
+I4216
+sVeegplot.plot_erp(d2, 100, feat_lab=d.feat_lab, vspace=40)
+p21
+I6164
+sVflip_array[:,0]
+p22
+I2889
+sV1020/27
+p23
+I6068
+sVplot.plot( mean(d2.nd_xs, axis=0) )
+p24
+I4019
+sVeegplot.plot_erp(d3, 250, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'], baseline_period=(0, 0.2))
+p25
+I3923
+sVslic_node = slic.Slic([10], 128)
+p26
+I901
+sVplt.plot(window_sizes, numpy.mean(perfs_array[imec,:], axis=0), '-^')
+p27
+I2110
+sVeegplot.plot_erp(d3, 100, baseline_period=[0,10], feat_lab=d.feat_lab)
+p28
+I5760
+sVxs = matlab['EEG']
+p29
+I3143
+sVnp.atleast_2d(np.mean(d.X, axis=0)).repeat(8, axis=0).shape
+p30
+I3444
+sVd2.Y[0,:]
+p31
+I5651
+sVplot(timing)
+p32
+I5868
+sVids = numpy.ascontiguousarray(d2.ids[::5,:]).astype(d.ids.dtype)
+p33
+I1450
+sVA[1]
+p34
+I3482
+sVs = set()
+p35
+I1211
+sVd3 - fft_node.apply(d)
+p36
+I3790
+s.

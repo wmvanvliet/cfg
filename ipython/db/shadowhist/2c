@@ -1,0 +1,98 @@
+(dp1
+Vd.ys.asarray()
+p2
+I3888
+sVW = jadeR.jadeR(training.X.T.reshape(-1, training.feat_shape[1]).T)
+p3
+I5354
+sVplt.plot(acc_array)
+p4
+I2853
+sVmu2, sigma2 = scipy.stats.norm.fit(d2.xs[ np.all([d2.ys != 2, d2.ys != 5], axis=0),: ])
+p5
+I211
+sVd3.ndX[4, 10, 1, 0]
+p6
+I5709
+sVfig.canvas.draw()
+p7
+I782
+sVarray(X).reshape(74,8,100).T.shape
+p8
+I5313
+sVplot.legend('non-targets', 'targets')
+p9
+I3523
+sVw = bdfreader.BDFWriter('test.bdf', values=values)
+p10
+I1744
+sVlen(block_start)
+p11
+I4179
+sVa.dtype
+p12
+I3558
+sVd.ys[15]
+p13
+I2693
+sVdir(datetime)
+p14
+I1236
+sVtr
+p15
+I5535
+sVintensity[0][0]
+p16
+I3160
+sV%run mixture.py
+p17
+I6639
+sVdiff(nonzero(d.ys)[0])
+p18
+I3693
+sV[golem.perf.accuracy(x) for x in perf]
+p19
+I3978
+sVd = bdf.load_bdf('../data/marijn-present_words-2-imecbe.bdf')
+p20
+I6317
+sVd2 = psychic.slice(d, mdict, (-220, 180))
+p21
+I4129
+sVfig_height = fig_width*golden_mean      # height in inches
+p22
+I2315
+sVmarkers = d.ys
+p23
+I264
+sVd2 = psychic.load_bdf('marijn-12-IMECBE-channels.bdf')
+p24
+I3581
+sVd.feat_lab == None
+p25
+I1843
+sVd3 = mean_node.apply(subsets[0])
+p26
+I5703
+sVd[d.ys[:,0]]
+p27
+I2238
+sVnp.random.shuffle(range(10))
+p28
+I5008
+sVreject_trials(d3, 1000, ['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AFz'])
+p29
+I6617
+sVr.close()
+p30
+I2555
+sV(test[3] & 0xffff) + ((test[3+1] << 4) & 0xff0000)
+p31
+I502
+sVplot.plot(d.xs[10000:12000,0])
+p32
+I3585
+sVclassifier3.train(d2)
+p33
+I5119
+s.

@@ -1,0 +1,74 @@
+(dp1
+Veegplot.plot_eeg(d[1000:2000])
+p2
+I3996
+sVblock_num
+p3
+I5752
+sVplot( vstack((timing, timing_slow)) )
+p4
+I5882
+sV10/4.0 == 2.49999999999999999
+p5
+I5613
+sVfig.add_axes?
+p6
+I955
+sV__IP.InteractiveTB.pdb
+p7
+I2808
+sVmath.degrees( math.atan(16.5/70.0) )
+p8
+I4397
+sVpsychic.plot_timeseries(X4[:,0].reshape(100,8))
+p9
+I5445
+sVeegplot.plot_eeg(d2, 128, freq_range=[0, 20])
+p10
+I1016
+sV10/128
+p11
+I1898
+sV257-593
+p12
+I2600
+sVnumpy.linspace(0,4,10) - lo
+p13
+I1703
+sVd4.Y
+p14
+I5809
+sVgc.collect()
+p15
+I4274
+sVrange(0,196,7)
+p16
+I6435
+sVplot.title('Classifier performance')
+p17
+I6501
+sVbdf.int24_to_le( numpy.array([d2.xs[129,1]]) )
+p18
+I2617
+sVeegplot.plot_erp(d4[:-1], 100)
+p19
+I6628
+sVpdb.runcall(eegplot.plot_erp, d2, 1000, 10, baseline_period=(0,0.1))
+p20
+I3851
+sVkl
+p21
+I2999
+sVm = np.loadtxt('markers-novsync-better.log', delimiter=',')
+p22
+I5897
+sVX2 = array(X).reshape(74,8,100).T
+p23
+I5317
+sVblock_labels
+p24
+I5627
+sVeegplot.plot_eeg(d2, 1000, vspace=10, spectogram=False)
+p25
+I3329
+s.

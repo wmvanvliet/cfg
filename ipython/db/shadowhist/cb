@@ -1,0 +1,116 @@
+(dp1
+Vnonzero(d.ys == 100)
+p2
+I3847
+sVimport psychopy
+p3
+I829
+sVda = (a[1:0] - a[0:-1]) / 2
+p4
+I1541
+sVres_node.train(d)
+p5
+I4523
+sVany( isnan([1,2,3]), isnan([1]) )
+p6
+I6574
+sVd4 = psychic.slice(d, {1:'nontarget', 2:'target'}, (-10, 64))
+p7
+I3525
+sVeegplot.plot_erp(d4, 1000, feat_lab=d2.feat_lab, pval=0.05, vspace=20, start=0.0, baseline_period=(0,1.0))
+p8
+I6273
+sVa*
+p9
+I6536
+sVcd ../scripts
+p10
+I6692
+sVwho
+p11
+I663
+sV2560/128
+p12
+I2508
+sVtest[26:26+28]
+p13
+I444
+sVw = bdf.BDFWriter('../data/marijn-p300-full-2-resampled.bdf', values=values)
+p14
+I5006
+sVeegplot.plot_eeg(d[-150:])
+p15
+I4514
+sVX = d.X - d.X[7,:]
+p16
+I4948
+sVprint re.match('\u005cd+:\u005cd+', '1:2')
+p17
+I695
+sVmvim n400_classifier.py
+p18
+I5461
+sVxs = np.vstack([d.X, np.zeros(8, d.ninstances), dtyle=numpy.int]) - np.atleast_2d(np.mean(d.X, axis=0)).repeat(9, axis=0)
+p19
+I3449
+sVmy2
+p20
+I210
+sVdatetime.datetime.now().strftime('%H.%M.%S')
+p21
+I1249
+sVd2 = psychic.slice(d, {1:'target', 2:'nontarget'}, (0, 64))
+p22
+I3750
+sV%run game_analysis.py
+p23
+I3093
+sVplot.plot(periods[:,:,1].T, 'k')
+p24
+I3391
+sVeegplot.plot_erp(d2[1:40]+d2[50:], 100)
+p25
+I4564
+sVerp.erp(training[block_labels == block], classes=[2])
+p26
+I5634
+sVe = erp.erp(d3[2], classes=[1])
+p27
+I6350
+sVd2 = golem.DataSet(xs=d.xs + values['physical_min'', default=d)
+p28
+I3552
+sVplt.plot(d5.ys[:,0])
+p29
+I916
+sVplt.plot(d.ids[1000:2000], d.xs[1000:2000,1])
+p30
+I420
+sVgolem.cv.cross_validate(golem.cv.seq_splits(d3,6), svm)[0]
+p31
+I4452
+sVdetected_points = d3.ys[:,0].astype(numpy.int)
+p32
+I2184
+sVeegplot.plot_eeg(d2, spectogram=True)
+p33
+I3467
+sVevents.astype(int)
+p34
+I4103
+sVhelp(Pickler)
+p35
+I478
+sVd2 = psychic.slice(d, mdict, (-750, -550))
+p36
+I4133
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[20:,:,:], axis=0) )
+p37
+I4594
+sVplt.plot(d2.nd_xs[30,:,:])
+p38
+I21
+sVa = np.array([1,2,3])
+p39
+I6545
+s.

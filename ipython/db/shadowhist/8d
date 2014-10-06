@@ -1,0 +1,80 @@
+(dp1
+Vparams = {'backend': 'ps',
+p2
+I2317
+sVtest[33*27:35*27+1]
+p3
+I471
+sVnumpy.tile( 100*numpy.arange(0, 2).T, (1, 10) )
+p4
+I937
+sVnumpy.concatenate?
+p5
+I608
+sVplot.plot( mean(d3.nd_xs, axis=0) )
+p6
+I4022
+sVd.ids
+p7
+I492
+sVtraining.ndX.shape
+p8
+I5210
+sVw.n_samples_per_record.append(w.n_samples_per_record[0])
+p9
+I2458
+sVgolem.helpers.hard_max(pred.X[:,:10])
+p10
+I4891
+sVplot.ylim(0,2)
+p11
+I2145
+sVi.debug
+p12
+I4497
+sVplot.plot(d5.nd_xs[100:110,:,4].T, '-k')
+p13
+I1487
+sVbin( test[3] )
+p14
+I412
+sVimport scipy,numpy,golem,psychic,fft,bdf,ica,slic,thres,eegplot,matplotlib.pyplot as plot
+p15
+I2546
+sVtest[26+2*27:53+2*27]
+p16
+I439
+sV[ys == 0, ys == 1]
+p17
+I316
+sVeegplot.plot_windowed_eeg(d2[1:2], 1000, vspace=10)
+p18
+I3263
+sVplt.plot(d5.xs)
+p19
+I915
+sVplot.plot(d.xs[0:128])
+p20
+I1822
+sVnp.unique(d2.Y[2,:])
+p21
+I5601
+sVplt.axhline(0.05, 'm', ls='--')
+p22
+I3040
+sVf = open('../Data/Subject7-IMEC.bdf')
+p23
+I2742
+sVi = Interpreter('puzzel.gif', PVM())
+p24
+I4492
+sVe.X[0,:]
+p25
+I6362
+sVeegplot.plot_erp(test,100)
+p26
+I5208
+sVstimulation = matlab['stimulation']
+p27
+I3182
+s.

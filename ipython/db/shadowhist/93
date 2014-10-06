@@ -1,0 +1,107 @@
+(dp1
+Veegplot.plot_eeg( d2[10000:35000])
+p2
+I4334
+sVresample_node.train(d)
+p3
+I4329
+sVprint [a, 'STATUS']
+p4
+I2009
+sVvendor_id=0x1234, product_name='Emotiv RAW DATA')
+p5
+I837
+sVd2.feat_shape
+p6
+I3245
+sVperf[:18]
+p7
+I2079
+sVtargets = interp(stimulation['Timing'][0][0][0], ys, np.arange(0,xs.shape[0],0.001))
+p8
+I3200
+sVd3 = ica_node.apply(d)
+p9
+I4066
+sVlen(None)
+p10
+I5824
+sVplt.plt(d3.ids, np.any([d3.ys == 2, d3.ys == 5], axis=0))
+p11
+I233
+sVeegplot.plot_eeg(d[200000:250000], vspace=100)
+p12
+I3571
+sVPa
+p13
+I1085
+sVidx = numpy.array([[True,False]]).repeat(64, axis=1).repeat(177, axis=0).flatten()
+p14
+I2722
+sVa = 19/numpy.arange(10)
+p15
+I1349
+sVmedian(timing)
+p16
+I5903
+sVnp.mean( acc_array[imec,8] ) - np.mean( acc_array[epoc,8] )
+p17
+I2872
+sVplt.specgram(d.xs[:,1], Fs=128, NFFT=128, noverlap=0)
+p18
+I999
+sVpsychic.get_samplerate(d2)
+p19
+I1679
+sVser.flowControl()
+p20
+I6074
+sVr = bdf.BDFReader('../Data/arne-p300-imecbe8.bdf')
+p21
+I6384
+sVeegplot.plot_erp(d2[10:100], target_samplerate, enforce_equal_n=False, feat_lab=d.feat_lab, baseline_period=(0,20))
+p22
+I4853
+sVplt.plot(diff)
+p23
+I1136
+sVlogging.basicConfig(level=logging.DEBUG, stream=sys.stdin)
+p24
+I60
+sVda = numpy.array([da, da[-1])
+p25
+I1544
+sVround(128/10.0)
+p26
+I1607
+sVclass = [ys == 0; ys == 1]
+p27
+I314
+sVpos = np.round(events[:,0] * 100).astype(int)
+p28
+I4118
+sVplt.plot(d2.ys)
+p29
+I175
+sVrandom_epoc[0,:]
+p30
+I2933
+sVfor bla in d4:
+p31
+I6263
+sVeegplot.plot_erp(d2[:200], 100, baseline_period=(0, 1.2), feat_lab=d.feat_lab, start=0, classes=[0,1])
+p32
+I4073
+sVchange_ids = np.flatnonzero(np.concatenate([[1], np.diff(d.ys)]))
+p33
+I3887
+sVd3 = thres_node.apply(d2)
+p34
+I227
+sVimport slic
+p35
+I737
+sVblock=0
+p36
+I5620
+s.

@@ -1,0 +1,95 @@
+(dp1
+Vrandom_imec[1,:]
+p2
+I2908
+sVys[ys==1] = 2
+p3
+I2777
+sVblock_number
+p4
+I5659
+sVgolem.cv.subsets( golem.cv.seq_splits(d2.ninstances,5) )
+p5
+I5587
+sVnp.rollaxis(b.T,-1).reshape(2,-1)
+p6
+I5277
+sVnumpy.argmin(a, axis=1)
+p7
+I1191
+sVY[0, num_trials_per_class:] = 1
+p8
+I6643
+sVimport golem, psychic, numpy
+p9
+I618
+sVd2.Y
+p10
+I5053
+sVlo_pass = 45
+p11
+I3241
+sVnp.rollaxis(np.tile(a, [3,1,1]), -1).shape
+p12
+I5229
+sVplot( golem.helpers.hard_max(pred.X).T + [2, 0] )
+p13
+I3963
+sVtrial = d[240896-50:242896+150]
+p14
+I6139
+sVvalues['label'] = ['Cz', 'CP1', 'Cp2', 'P3', 'Pz', 'P4', 'O1', 'O2', 'Status']
+p15
+I5062
+sVpsychic.nodes.car?
+p16
+I1021
+sVtargets.sape
+p17
+I3503
+sVdatetime.datetime?
+p18
+I1241
+sVplot.plot(d5.nd_xs[10:20,:,6].T)
+p19
+I1480
+sVplt.title('Classifier performance')
+p20
+I2090
+sVimport datetime
+p21
+I1235
+sVfigure();
+p22
+I3821
+sVdrift = loadtxt('drift.log', delimiter=',', skiprows=1)
+p23
+I6037
+sVpsychic.plot_timeseries(training.ndX.T.reshape(8,-1).T )
+p24
+I5294
+sV%run bla.py
+p25
+I2810
+sVplot.plot(d2.T[:,0])
+p26
+I1813
+sVd3 = slic.apply(d2)
+p27
+I24
+sVd2 = psychic.slice(d3, {1:'target', 2:'nontarget'}, (0, 500))
+p28
+I3783
+sVplot.e.X[0,:]
+p29
+I6360
+sVw = bdf.BDFWriter('../Data/Subject3-EPOC.bdf', values=values)
+p30
+I2484
+sVtraining.feat_shape
+p31
+I5419
+sV1.0 + 2
+p32
+I3550
+s.
