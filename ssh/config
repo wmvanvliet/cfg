@@ -31,3 +31,7 @@ Host tun
 HostName 10.35.3.210
 LocalForward 9000 10.35.5.187:22
 User tunnel4marc
+
+Host zephyrus
+HostName zephyrus.student.utwente.nl
+User rodin

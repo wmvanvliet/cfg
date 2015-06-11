@@ -160,7 +160,7 @@ if has("autocmd")
 	autocmd FileType javascript setlocal ts=4 sts=4 sw=4 expandtab
 	autocmd FileType xml setlocal ts=2 sts=2 sw=2 expandtab wrap linebreak nolist
 	autocmd FileType text setlocal ts=8 sts=8 sw=8 noexpandtab wrap linebreak nolist
-	autocmd FileType tex setlocal ts=4 sts=4 sw=4 expandtab wrap linebreak nolist
+	autocmd FileType tex setlocal ts=4 sts=4 sw=4 expandtab wrap linebreak nolist spell spelllang=en_us
 	autocmd FileType python setlocal ts=4 sts=4 sw=4 expandtab colorcolumn=80 omnifunc=pythoncomplete#Complete
 	autocmd FileType matlab setlocal ts=4 sts=4 sw=4 expandtab colorcolumn=80
 	autocmd FileType markdown setlocal ts=8 sts=8 sw=8 noexpandtab wrap linebreak nolist
@@ -169,6 +169,7 @@ endif
 command! -nargs=* Wrap set wrap linebreak nolist
 
 " Only use pyflakes, not pep8
+"let g:syntastic_python_checkers=['pep8', 'pyflakes']
 let g:syntastic_python_checkers=['pyflakes']
 let g:ipy_completefunc=['none']
 

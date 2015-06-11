@@ -11,7 +11,8 @@ update_interval 1.0
 draw_shades no
 
 alignment bottom_right
-gap_y = 0
+#alignment bottom_left
+gap_y = 100
 minimum_size 1910 25
 
 font Consolas:size=10
@@ -35,7 +36,7 @@ ${cpugraph cpu6 15,25 ff0000 ffffff} \
 ${cpugraph cpu7 15,25 ff0000 ffffff} \
 MEM: ${membar 15,25} ${swapbar 15,25} \
 ${goto 500} \
-NET: ${downspeed em0} ${upspeed em0} \
+NET: ${downspeed eth0} ${upspeed eth0} \
 ${goto 700} \
 DISK: ${diskio} \
 ${goto 900} \
