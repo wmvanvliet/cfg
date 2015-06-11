@@ -1,0 +1,37 @@
+Host sunny
+HostName 10.35.5.185
+ForwardX11Trusted yes
+User marijn
+
+Host siren
+HostName 10.35.5.187
+ForwardX11Trusted yes
+User marijn
+
+Host sue
+HostName 10.35.5.188
+ForwardX11Trusted no
+User marijn
+
+Host solaris
+HostName 10.35.5.186
+ForwardX11Trusted no
+User marijn
+
+Host simone
+HostName 10.35.5.189
+ForwardX11Trusted no
+User marijn
+
+Host drsnuggles
+ForwardX11Trusted no
+User rodin
+
+Host tun
+HostName 10.35.3.210
+LocalForward 9000 10.35.5.187:22
+User tunnel4marc
+
+Host zephyrus
+HostName zephyrus.student.utwente.nl
+User rodin
