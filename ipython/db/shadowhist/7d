@@ -1,0 +1,98 @@
+(dp1
+Vd = bdf.load_bdf('imecbe-oddball-26.bdf')
+p2
+I6085
+sVnp.max(result.X,axis=0)
+p3
+I6443
+sVnumpy.concatenate(([1], [2,3,4]), 1)
+p4
+I609
+sVslectserver.SERVER.stop()
+p5
+I2834
+sVerp.erp(d3, {0:'target', 1:'nontarget'}, (0,20))
+p6
+I4199
+sVpca.Wt
+p7
+I1106
+sVisfinite
+p8
+I6577
+sVnonzero(d.ys == 1)
+p9
+I3639
+sVimpo
+p10
+I2125
+sVimport friedman_te
+p11
+I3031
+sVeegplot.plot_erp( erp.erp(d3, (0,20)), 100, feat_lab=d.feat_lab)
+p12
+I4203
+sVlen(numpy.where(var_explained <= 0.001))
+p13
+I1152
+sVeegplot.plot_erp(d2[5:6], 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'Fp3'], pval=0.05, vspace=15, start=1.0)
+p14
+I6288
+sVany(abs(d3.ndX) > 100, axis=(0,1)).shape
+p15
+I6588
+sVd3 = golem.DataSet(X = d2.ndX[classification_window,classification_channels,:].reshape(-1, d2.ninstances), default=d2)
+p16
+I5033
+sVeegplot.plot_eeg(d,1000
+p17
+I3434
+sVplot( d2.nd_xs[d2.ys[:,:0],:,0].T )
+p18
+I3810
+sVeegplot.plot_erp(d3[logical_not(reject)], 100)
+p19
+I6630
+sVeegplot.plot_eeg(d3, vspace=100)
+p20
+I3768
+sVplot( diff(drift[:,4]) )
+p21
+I6029
+sVgolem.perf.mean_std?
+p22
+I3944
+sVplt.plot(random_epoc[0,:])
+p23
+I2932
+sVnp.any(d2.Y[congruent_pairs[congruent_ind==4]], axis=0)
+p24
+I5474
+sVplot.plot(d2.xs[0:128,1])
+p25
+I2588
+sVintensity[0][0][0]
+p26
+I3161
+sVlen(subsets)
+p27
+I5478
+sVatleast_1d([1,2,3]).shape
+p28
+I5689
+sVlen(test[26+27*27:26+28*27])
+p29
+I454
+sVplot.fill(real_points[0,:], [0,1,0,1])
+p30
+I2158
+sVfrom matplotlib import interactive
+p31
+I6089
+sVd4 = psychic.slice(d3, {1:'nontarget', 2:'target'}, (0, 64))
+p32
+I3499
+sVblock.get_class(option_num).nd_xs.shape
+p33
+I5692
+s.

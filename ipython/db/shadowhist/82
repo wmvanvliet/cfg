@@ -1,0 +1,83 @@
+(dp1
+Vlen(ps)
+p2
+I3001
+sVys = numpy.zeros(d.ninstances, 1)
+p3
+I2371
+sVd4 = psychic.slice(d2, {1:'nontarget', 2:'target'}, (-10, 64))
+p4
+I3519
+sVplot.plot(d2.xs[14322:14332,0])
+p5
+I2525
+sVsocketserver.setup()
+p6
+I3322
+sV128*6
+p7
+I1775
+sVplt.specgram(d.xs[:,0], Fs=128, NFFT=256, noverlap=0)
+p8
+I984
+sVvalues['local_subject_id'] = '5'
+p9
+I2749
+sVeegplot.plot_erp(d2, 128, 20)
+p10
+I3752
+sVeegplot.plot_erp(test, 100)
+p11
+I6092
+sVa.repeat(12, axis=0)
+p12
+I1334
+sVX3.shape
+p13
+I5370
+sVX = W.dot(training.ndX.reshape(8,-1))
+p14
+I5299
+sVnumpy.linspace(6,25,10)
+p15
+I1396
+sVsvm_node.c_star
+p16
+I6407
+sVplot.plot( mean(d3.nd_xs[:498,:,:], axis=0) )
+p17
+I4030
+sVeegplot.plot_erp( erp.Mean(axis=2).apply(d3.get_class(0)), 100, feat_lab=d.feat_lab, enforce_equal_n=False)
+p18
+I5800
+sVtype(d)
+p19
+I493
+sVd2 = reject_node.train_apply(d,d)
+p20
+I6592
+sVnumpy.nonzero( d3.ys[:,0].astype(numpy.bool) == d2.ys[:,0]).len
+p21
+I2049
+sVidx = numpy.array([[False, True]]).repeat(64, axis=1).repeat( int(d.ninstances/128), axis=0).flatten()
+p22
+I2747
+sVnonzero(d.ys == 40)[0] - (nonzero(d.ys == 41)[0])[:45]
+p23
+I3084
+sVeegplot.plot_eeg(d[0])
+p24
+I4583
+sVeegplot.plot_eeg(d[5000:8744])
+p25
+I4403
+sVidx = numpy.array([[False, True]]).repeat(64, axis=1).repeat(177, axis=0).flatten()
+p26
+I2723
+sVd3 = golem.cv.seq_splits(d2, 6)
+p27
+I3972
+sVdiff(m.shape[0,:])
+p28
+I5861
+s.

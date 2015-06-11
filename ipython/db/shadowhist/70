@@ -1,0 +1,65 @@
+(dp1
+Vwhich python.resample_rec
+p2
+I3736
+sV(numpy.linspace(0,4,10)-lo)
+p3
+I1708
+sVw.record_length
+p4
+I1845
+sVylabel('Number of misclassifications (out of %d)' % num_test_blocks)
+p5
+I6495
+sVd.ys = c
+p6
+I330
+sVch = logging.Streamhandler()
+p7
+I484
+sVevents = np.array(ys)[change_ids]
+p8
+I3903
+sVd2 = d[137472:182555]
+p9
+I2345
+sVwhich psychic.resample_rec
+p10
+I3737
+sVb = numpy.atleast_2d( numpy.arange(1,11, dtype=numpy.float64) )
+p11
+I1617
+sVflatnonzero(d.Y)[:10]
+p12
+I5923
+sVmean(timing)
+p13
+I5878
+sVnumpy.where(var_explained <= 0.1)[0][:]
+p14
+I1148
+sVvalues['date_time'] = datetime?
+p15
+I2410
+sVys.append(d.ys == 1)
+p16
+I3214
+sVnp.nonzero(d.Y)[1]
+p17
+I3408
+sVimport matplotlib
+p18
+I776
+sV10*128
+p19
+I1895
+sVd = bdf.load_bdf('marijn-12-IMECBE-channels.bdf')
+p20
+I3629
+sVeegplot.plot_erp(training, 100)
+p21
+I5454
+sVnonzero(d.ys == 40)[0] = (nonzero(d.ys == 41)[0])
+p22
+I3082
+s.

@@ -1,0 +1,95 @@
+(dp1
+Vplot( mean(d2.nd_xs[d2.ys[:,0].astype(bool),:,:7], axis=0) )
+p2
+I3818
+sVx.repeat(2, axis=1)
+p3
+I1594
+sV[d2.Y[0, blocks[f==fi]] for fi in np.unique(f)]
+p4
+I5669
+sVe = erp.erp(d3[2], [1])
+p5
+I6348
+sVlda
+p6
+I4844
+sVX2 = X.reshape(X.shape[:-2] + (-1,))
+p7
+I5718
+sVnp.rollaxis(np.tile(a, [3,1,1]), 1)
+p8
+I5231
+sVdx = (x[1:,:] - x[:-1,:]) / 2
+p9
+I1576
+sVlist?
+p10
+I4453
+sVplot(diff(flatnonzero(d.ys)))
+p11
+I4487
+sVarray([1]).repeat(500)
+p12
+I5743
+sVr = bdf.BDFReader('../Data/sub2.bdf')
+p13
+I2383
+sVperiods.shape
+p14
+I1949
+sVnp.rank()
+p15
+I2950
+sVp = numpy.hstack(perf)
+p16
+I2073
+sVd2.ys.shape
+p17
+I162
+sVd2 = pre.train_apply(d, d)
+p18
+I5852
+sVw.f = open('../Data/Subject2-EPOC.bdf', 'w')
+p19
+I2442
+sVall
+p20
+I5344
+sVpsychic.slice?
+p21
+I3608
+sVplot.xlabel('Number of repetitions')
+p22
+I6499
+sVys[20001,:]
+p23
+I274
+sVd3.Y.flatten(0
+p24
+I4807
+sVw.n_samples_per_record = w.n_samples_per_record[:6]
+p25
+I2440
+sVd2.get_class_by_lab('nontarget')
+p26
+I5584
+sVranks = friedman_test.friedman_test(data)
+p27
+I2960
+sVplot( mean(targets[:60].nd_xs, axis=0) )
+p28
+I3844
+sVcov(d2.xs)
+p29
+I4873
+sVeegplot.plot_eeg(d2, 128, spec_channel=2)
+p30
+I1311
+sVi.debug()
+p31
+I4495
+sVm = np.loadtxt('markers.log', delimiter=',')
+p32
+I5860
+s.

@@ -1,0 +1,76 @@
+(dp1
+Vnumpy.mean(d.xs, axis=0)
+p2
+I1847
+sVplt.subplot(426); plt.plot(d2.nd_xs[35,:,:,5].T, '-k')
+p3
+I72
+sVimport pycuda
+p4
+I6702
+sVscipy.stats.binom_test(2,7)
+p5
+I3021
+sVplt.scatter(noise[:,0], noise[:,2])
+p6
+I1095
+sVys[:5478] = 2
+p7
+I2377
+sVa
+I196
+sVd3 = psychic.slice(d2, {1:'trail', 2:'trail', 3:'trail', 4:'trail', 5:'trail', 6:'trail', 7:'trail'}, (0, 1000))
+p8
+I6376
+sVimport cPickle
+p9
+I288
+sVr = plt.plot(range(1,10))
+p10
+I966
+sVnp.max(avg, axis=0)
+p11
+I3288
+sVeegplot.plot_eeg(d3, 1000, spectogram=False, vspace=10)
+p12
+I1958
+sV12.8 + 12.8
+p13
+I2017
+sVeegplot.plot_erp(d2[14:], 100)
+p14
+I4577
+sVplot.plot( mean(d3.nd_xs[:500,:,:], axis=0) )
+p15
+I4027
+sVys2[15281:25281] = 2
+p16
+I2503
+sVbdf.int24_to_le( numpy.array([d2.xs[127,:]]) )
+p17
+I2632
+sVd3 = golem.DataSet(xs=d2.xs.reshape(-1,8), default=d)
+p18
+I3268
+sVY = training.ndX.T.reshape(8,-1).reshape(74,8,100).T
+p19
+I5307
+sVa.clear()
+p20
+I2827
+sVd2.ids[:10]
+p21
+I2655
+sVimport socketserver
+p22
+I3321
+sVreject_trials( d3[logical_not(reject)], 1000, ['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AFz'] )
+p23
+I6604
+sVA[:,1] = numpy.cos(A[:,1])
+p24
+I1070
+sVnontargets = d3[d3.ys[:,1].astype(bool)]
+p25
+I4476
+s.

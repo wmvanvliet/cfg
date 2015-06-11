@@ -1,0 +1,68 @@
+(dp1
+Vplt.axhline(0.05, ls='--', color='m')
+p2
+I3047
+sVplot( mean(d2.nd_xs[:,:,0], axis=0) )
+p3
+I3753
+sVfor idx,freq in enumerate(a): classlab[idx] = a2 == freq
+p4
+I1377
+sV%r\u005cun offline_p300
+p5
+I6414
+sVclassification_channels.shape
+p6
+I5040
+sVnumpy.append(b, b[-1,:]+da)
+p7
+I1563
+sVeegplot.plot_eeg(d[5441:8744], 100)
+p8
+I4217
+sV15352/120
+p9
+I1288
+sVa = 19.0/numpy.arange(10.0)
+p10
+I1351
+sVblock1.Y
+p11
+I5617
+sVeegplot.plot_erp( erp.Mean(axis=2).apply(d4), 100, classes=[0])
+p12
+I5820
+sVnp.ones(0,1)
+p13
+I4713
+sVflatnonzer(d.Y).shape
+p14
+I5948
+sVsvm_node.train(train)
+p15
+I6393
+sVd = bdf.load_bdf('imecbe-oddball-02.bdf')
+p16
+I5936
+sVimport pdb
+p17
+I567
+sVnumpy.nonzero(d3.ys[:,0])
+p18
+I1458
+sVeegplot.plot_eeg(d[3000:4000])
+p19
+I4271
+sV1 << 12
+p20
+I1856
+sVw = bdf.BDFWriter('../data/marijn-12-IMECBE-filtered.bdf', values=values)
+p21
+I6110
+sVplot.plot(d5.nd_xs[10:20,:,0].T)
+p22
+I1478
+sVimec.Recorder?
+p23
+I556
+s.

@@ -1,0 +1,74 @@
+(dp1
+Veegplot.plot_eeg(d[20000:50000])
+p2
+I3651
+sVclasslab = numpy.zeros([128*120,1])
+p3
+I1375
+sVa = numpy.arange(1.5,10.0,1.5)
+p4
+I1914
+sVany?
+p5
+I6575
+sVeegplot.plot_erp(d4, 1000, (0, 200), feat_lab=d.feat_lab, cl_lab=d2.cl_lab)
+p6
+I4421
+sVw = bdf.BDFWriter('test.bdf', samplerate=128)
+p7
+I1868
+sVser = serial.serial_for_url('/dev/tty.usbserial-00001004', baudrate=3500000)
+p8
+I6053
+sVloadmatfile('../../NoBackup/data/SSVEP-scan-Arne-120s-6Hz-25Hz-10-steps-sine-epoc.mat'
+p9
+I1262
+sVnp.argmax([1,2,3,4,3,2])[0]
+p10
+I3399
+sVeegplot.plot_eeg(d[d.ys[:,1]], 1, spectogram=False, vspace=0.5 )
+p11
+I2237
+sVnow = datetime.datatime()
+p12
+I1238
+sVchange_ids = np.flatnonzero(change_ids)
+p13
+I3905
+sVresample_node = psychic.nodes.Decimate?
+p14
+I1441
+sVd.ys[d.ys > 100]
+p15
+I4215
+sVa = numpy.arange(10.0)
+p16
+I1352
+sVplt.errorbar(window_sizes, np.mean(acc_array[epoc,:], axis=0))
+p17
+I2861
+sVnumpy.atleast_2d(d.ys[:,0]).shape
+p18
+I2246
+sVb.loan(alice, 1000)
+p19
+I1215
+sVplot(periods[:,:,1])
+p20
+I3388
+sV9/26.0 * 100
+p21
+I3363
+sVd4.ys and d3.ys
+p22
+I2253
+sVeegplot.plot_erp(train, 100)
+p23
+I5847
+sVplot.plot(periods[:,:,1].T)
+p24
+I3390
+sV24000/6000
+p25
+I3496
+s.

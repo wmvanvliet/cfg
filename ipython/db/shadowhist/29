@@ -1,0 +1,101 @@
+(dp1
+Veegplot.plot_erp(d2[10:200], target_samplerate, enforce_equal_n=True, feat_lab=d.feat_lab)
+p2
+I4856
+sVnumpy.vstack(intensity).shape
+p3
+I3167
+sVfor freq in a: print freq
+p4
+I1371
+sVplt.plot(periods[3,:,:])
+p5
+I3284
+sVr = psychic.bdfreader('test.bdf')
+p6
+I1747
+sVtrial = d[240846:241296]
+p7
+I6146
+sVpred
+p8
+I3958
+sVipdb
+p9
+I2807
+sVfloat(matches.group(2))
+p10
+I712
+sVnp.rank?
+p11
+I2951
+sVm = np.loadtxt('markers.log2', delimiter=',')
+p12
+I5873
+sVvstack((mouse_class, ys))
+p13
+I3096
+sVd = golem.DataSet(EEG, numpy.zeros([15352,1]))
+p14
+I1283
+sVdev.read?
+p15
+I858
+sV'43bla3043'[:matches.span(1)[0]]
+p16
+I5990
+sVtrials2.Y
+p17
+I4981
+sVnumpy.nonzero( d.ys == 2 )
+p18
+I2209
+sV3. + -0.8 + -0.6 + -0.2 + -0.4
+p19
+I538
+sVa = numpy.arange(0, 128, 12.8, dtype=numpy.float64)
+p20
+I1636
+sV25000/13/12
+p21
+I3494
+sVtiming = diff( flatnonzero(d.Y[0,:]) )
+p22
+I5920
+sVnp.nan
+p23
+I6423
+sVnumpy.nonzero(d.ys[:,0])[0].astype(numpy.int)[1:] - numpy.nonzero(d.ys[:,0])[0][:-1]
+p24
+I2363
+sVwindow_node = psychic.nodes.SlidingWindow(1000)
+p25
+I3423
+sVd2.nd_xs[0,:,:].squeeze().shape
+p26
+I3249
+sVw = bdf.BDFWriter('../Data/Subject1-IMEC.bdf', values=r.bdf.header)
+p27
+I2389
+sVtraining.nd_
+p28
+I5225
+sVlo
+p29
+I1691
+sVplot( diff(flatnonzero(d.Y))/1000 )
+p30
+I5907
+sVgolem.perf.mean_std(golem.perf.accuracy, golem.cv.cross_validate(golem.cv.seq_splits(d3,2), svm))
+p31
+I4627
+sVeegplot.plot_erp(d2, 1000, vspace=5, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p32
+I3825
+sVd3.X.reshape?
+p33
+I4710
+sVnumpy.nonzero(d3.ys[1:,0]-d3.ys[0:-1,0])
+p34
+I1459
+s.

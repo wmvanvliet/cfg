@@ -1,0 +1,86 @@
+(dp1
+Va = numpy.arange(0, d.xs.shape[1]) * 100
+p2
+I921
+sVcandidates = array([1,2,3])
+p3
+I6464
+sVtargets = d.ys[d.ys>100]
+p4
+I4755
+sVeegplot.plot_erp(d2, 100, baseline_period=(0, 50), classes=[0,1])
+p5
+I4408
+sVtest[33*27:35*27+2]
+p6
+I472
+sVfeat_shape
+p7
+I5047
+sVmatches
+p8
+I705
+sVplot.show()
+p9
+I2121
+sVa[3]
+p10
+I586
+sVnumpy.linspace(0,10,2)
+p11
+I1657
+sVd3 = golem.DataSet(X = d2.ndX[classification_window[0]:classification_window[1],:,:].reshape(-1, d2.ninstances), default=d2)
+p12
+I4912
+sVnp.arange(0,xs.shape[0]/1000.0,0.001).shape
+p13
+I3202
+sVeegplot.plot_erp(d2[:-2], 100, baseline_period=(0, 0.2), feat_lab=d.feat_lab, start=0, classes=[0,1])
+p14
+I4061
+sVtrial = d[240246:241396]
+p15
+I6150
+sVys[4495:] = 2
+p16
+I2406
+sV%run explain_calibration.py
+p17
+I2183
+sVlo = numpy.floor( numpy.linspace(0,4,10) )
+p18
+I1690
+sVeegplot.plot_eeg(d2,10)
+p19
+I953
+sVPa.shape
+p20
+I1086
+sVdev = usb.core.find(idVendor=0x1234, idProduct=0xED02, find_all=true)
+p21
+I841
+sVmatlab['PhaseShifts'}
+p22
+I3144
+sVgolem.perf.mean_std(golem.perf.accuracy, golem.cv.cross_validate(golem.cv.seq_splits(d3,2), svm) )
+p23
+I4460
+sVd.cl_lab = ['not-fixating', '30 Hz', '20 Hz']
+p24
+I324
+sV780/float(250)
+p25
+I3731
+sVlogfile = loadtxt('../data/arne-present_categories-1-imecbe.log', skiprows=1, use_cols=[4])
+p26
+I6195
+sV(1,)
+p27
+I299
+sVplot.plot( mean(d2.nd_xs[0:3,:,:], axis=0) )
+p28
+I4085
+sVa.dim
+p29
+I798
+s.

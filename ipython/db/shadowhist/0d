@@ -1,0 +1,119 @@
+(dp1
+Vys[34001,:]
+p2
+I278
+sVw.prefiltering = w.prefiltering[:5]
+p3
+I2456
+sVnp.arange?
+p4
+I4732
+sVpos
+p5
+I4108
+sVd2 = psychic.slice(d[:661000], mdict, (0, 1000))
+p6
+I6688
+sVnp.eye?
+p7
+I3051
+sVa.T[:,:,0]
+p8
+I5400
+sVplt.plot(a2)
+p9
+I1339
+sVa = numpy.arange(128, 12.8 dtyle=numpy.float64)
+p10
+I1633
+sVselectserver.setup()
+p11
+I3053
+sVa = numpy.arange(6.0,26.9,1.9)
+p12
+I1344
+sVeegplot.plot_erp(trials2, 1000)
+p13
+I4982
+sVb = numpy.arange(0, 10*13, 13, dtype=numpy.float64)
+p14
+I1626
+sVd['c'] if 'c' in d else 'nono'
+p15
+I1232
+sVpred.ids
+p16
+I4210
+sVeegplot.plot_erp(d2[:-3], 100, baseline_period=(0, 0.2), feat_lab=d.feat_lab, start=0, classes=[0,1])
+p17
+I4060
+sVscipy.stats.binom_test(1,7)
+p18
+I3020
+sVx.reshape?
+p19
+I1584
+sVplt.show
+p20
+I2109
+sVnumpy.round(a)
+p21
+I1917
+sVslic_node = slic.Slic([12.8], 1000)
+p22
+I3112
+sV(0, 60) * 100
+p23
+I5121
+sVreal_points
+p24
+I2127
+sVc = zip(a,b)
+p25
+I6567
+sVplt.ylim([0, 20])
+p26
+I987
+sV(624+625)/float(2047+2046)
+p27
+I1858
+sVpca = matplotlib.mlab.PCA(d2.xs)
+p28
+I1096
+sVthres1
+p29
+I225
+sVr = bdf.BDFReader( open('test.bdf') )
+p30
+I1865
+sVusb.core.find?
+p31
+I839
+sVd.xs
+p32
+I494
+sVplot.plot(d.ids, ys)
+p33
+I2469
+sVimport scipy,numpy,golem,psychic,fft,ica,slic,thres,eegplot,bdf,matplotlib.pyplot as plot
+p34
+I2512
+sVr.decode_frame(test)
+p35
+I382
+sVtrial_erp2.ndX.shape
+p36
+I6158
+sVd == None
+p37
+I431
+sV%pdb
+p38
+I2809
+sVfig.plot( numpy.arange(10) )
+p39
+I761
+sVtraining.ndX.ndim
+p40
+I5340
+s.

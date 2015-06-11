@@ -1,0 +1,65 @@
+(dp1
+Vimport webbrowser
+p2
+I1018
+sVa = numpy.arange(0.0,10.0-1.5,1.5)
+p3
+I1911
+sVd2 = psychic.slice(d, mdict, (200, 300))
+p4
+I4045
+sVaxes.yaxis.set_major_locator(majorLocator)
+p5
+I6488
+sVplot.plot(d5.nd_xs[10:20,:,5].T, '-k')
+p6
+I1503
+sVeegplot.plot_erp(d2, target_samplerate, enforce_equal_n=True, feat_lab=d.feat_lab)
+p7
+I4860
+sVi.step()
+p8
+I4504
+sVmatches.group()
+p9
+I5976
+sVvalues?
+p10
+I2414
+sVblocks[f==0]
+p11
+I5671
+sVplot( mean(targets.nd_xs[:60,:,:7], axis=0) )
+p12
+I3846
+sVnp.array(mouse_class).shape
+p13
+I3095
+sVhasattr(eegdevices, 'EPOC')
+p14
+I6083
+sVax.add_patch(poly)
+p15
+I2117
+sVd3= d2[d2.ys[:,0].astype(bool)]
+p16
+I4020
+sVd = bdf.load_bdf('../data/marijn-12-IMECBE.bdf')
+p17
+I3586
+sV3*12.8
+p18
+I2019
+sVi.matrix
+p19
+I4496
+sVplt.errorbar(window_sizes, acc_array[epoc,:].T)
+p20
+I2860
+sV1.25*128 / 10
+p21
+I1894
+sVplt.plot(d2.ids, d2.xs[:0])
+p22
+I674
+s.

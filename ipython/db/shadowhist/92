@@ -1,0 +1,62 @@
+(dp1
+Vblock_onsets = numpy.flatnonzero(d.Y > 100)
+p2
+I6538
+sVuit()
+p3
+I718
+sVgolden_mean = (math.sqrt(5)-1.0)/2.0         # Aesthetic ratio
+p4
+I2320
+sVm.groups()
+p5
+I6012
+sVd2.Y[:3,:]
+p6
+I5087
+sVd3 = psychic.slice(d2[10000:50000], mdict, (0, 1000))
+p7
+I6207
+sV%run experiment1.py
+p8
+I4156
+sVpsychic.plot_timeseries( np.mean(X[:,:,idx], axis=2 ) )
+p9
+I5794
+sVeegplot.plot_erp(d2, 100)
+p10
+I3951
+sVblock=1
+p11
+I5619
+sVcd ../kuleuven/BCITD/Python
+p12
+I2941
+sVeegplot.plot_erp( mean_node.apply(d2[:num_training_blocks*num_options]), 100, feat_lab=d.feat_lab, enforce_equal_n=False )
+p13
+I6498
+sVintensity
+p14
+I3177
+sV1.15*128
+p15
+I1893
+sVeegplot.plot_erp( erp.erp(d2, (0,20), classes=range(1,7)), 100 )
+p16
+I4338
+sVtrials = psychic.slice(block, dict([(x,'target %02d'%x) for x in range(1,8)]), (0, 1000))
+p17
+I4970
+sVd2.nd_xs[d2.ys[:,1],:,0].shape
+p18
+I3813
+sVresample_node = psychic.nodes.Decimate(5)
+p19
+I1445
+sVd2 = psychic.slice(d, mdict, (-450, -50))
+p20
+I4131
+sVm = np.loadtxt('markers-vsync-better.log', delimiter=',')
+p21
+I5894
+s.

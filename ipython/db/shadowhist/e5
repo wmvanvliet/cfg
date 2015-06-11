@@ -1,0 +1,59 @@
+(dp1
+VX2 = W.dot(X)
+p2
+I5364
+sVdev = dev[0]
+p3
+I845
+sVd.ys[16]
+p4
+I2694
+sVa = array([ [ [1,5], [2,6], [3,7], [4,8] ] )
+p5
+I5408
+sVgolden_mean = (sqrt(5)-1.0)/2.0         # Aesthetic ratio
+p6
+I2313
+sVd = d[30000:]
+p7
+I2494
+sVclasslab[0,:] = a2 == freq
+p8
+I1380
+sVeegplot.plot_erp(d2[:60], 1000, 20, (0.1, 0.20), feat_lab=feat_lab)
+p9
+I3780
+sVfor i in range(50):\u000a    mdict[i] = 0
+p10
+I3611
+sVm.groups?
+p11
+I6523
+sVeegplot.plot_erp(d2[49:98], 1000, feat_lab=d.feat_lab, enforce_equal_n=False)
+p12
+I4946
+sVplt.fill
+p13
+I341
+sVeegplot.plot_erp(blocks[0], 1000, enforce_equal_n=False)
+p14
+I4789
+sVreload(slic.SLIC)
+p15
+I110
+sVnumpy.abs(slic_node.meanDifference)
+p16
+I1195
+sVa.startswith('##')
+p17
+I2815
+sVhi_pass = 4
+p18
+I3239
+sVeegplot.plot_erp( erp.erp(d2, (0,20), 100 )
+p19
+I4224
+sVd = bdf.load_bdf('marijn-p300-imec3.bdf')
+p20
+I4413
+s.

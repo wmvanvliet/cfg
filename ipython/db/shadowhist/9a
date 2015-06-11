@@ -1,0 +1,80 @@
+(dp1
+Vimport friedman_test
+p2
+I2956
+sVa = numpy.array([1,2,3,4,5])
+p3
+I2032
+sVeegplot.plot_erp(d2[:-3], 100, baseline_period=(0, 0.2), feat_lab=d.feat_lab, start=0.4)
+p4
+I4057
+sVd.popleft()
+p5
+I6564
+sVys = numpy.nonzero(d.ys == 2)[0]
+p6
+I2497
+sV%edit permutation_test.py
+p7
+I3133
+sVsamplerate
+p8
+I301
+sVsocketserver.stop()
+p9
+I3324
+sVnumpy.repeat?
+p10
+I810
+sVrom_idx = numpy.nonzero(d.ys == 2)[0][0]
+p11
+I2771
+sVd2.xs
+p12
+I1819
+sVscipy.stats.binom_test([2,3], 7)
+p13
+I2976
+sVnp.arange(50) % 10
+p14
+I5462
+sVys[37001,:]
+p15
+I279
+sVeegplot.plot_erp(d2, 128, 100, baseline_period=(0, 1))
+p16
+I3645
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[[1,2,3,4,5,6,8,9,10,11,12,13,14,15],:,:], axis=0) )
+p17
+I4615
+sVmdict = {1:'bla', 2:'bloep'{
+p18
+I5159
+sVvalues['label'] = ['P7', 'P8', 'T7', 'T8', 'O1', 'O2', 'Status']
+p19
+I2417
+sVfrom __future__ import barry_as_FLUFL
+p20
+I5595
+sVw = bdf.BDFWriter('../Data/Subject5-EPOC-FIXED.bdf', values=values)
+p21
+I2750
+sVY[1, :num_trials_per_class] = 1
+p22
+I6644
+sVnumpy.atleast_3d(x)[0,:,:]
+p23
+I1582
+sVpred.xs.shape
+p24
+I4887
+sVScientific Research - Flanders (G.05809)
+p25
+I3946
+sVtraining,test = golem.cv.folds(subsets).next()
+p26
+I5618
+sVmatches.groups()
+p27
+I5972
+s.

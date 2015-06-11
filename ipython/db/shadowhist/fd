@@ -1,0 +1,89 @@
+(dp1
+Vbdf.int24_to_le( numpy.array([d.xs[130,2]]) )
+p2
+I2623
+sVpdb
+p3
+I3622
+sV%run offline_test
+p4
+I1023
+sV128/12.8 % 1
+p5
+I1883
+sVplot( np.logspace(-2,5,6)  )
+p6
+I3936
+sVt_test
+p7
+I3037
+sVnumpy.invert(bla[:,0])
+p8
+I1425
+sVplt.plot(window_sizes, acc_array.T)
+p9
+I2288
+sVtrial = d3[2]
+p10
+I6354
+sVslice_node.train(d)
+p11
+I261
+sVmap?
+p12
+I4744
+sVa2 = a.repeat(12, axis=0).T.reshape([120,1])
+p13
+I1338
+sVnp.shuffle?
+p14
+I3864
+sVsorted(np.unique(d2.Y[0,:])
+p15
+I5649
+sV60/6.0
+p16
+I2001
+sVd.ids[1]
+p17
+I754
+sVplot.savefig('ssvep.pdf', format='pdf')
+p18
+I1968
+sVX4.T.shape
+p19
+I5441
+sVflip_array[:,5]
+p20
+I2894
+sVeegplot.plot_erp( erp.Mean(axis=2).apply(d4.get_class(0)), 100, feat_lab=d.feat_lab, enforce_equal_n=False)
+p21
+I5810
+sVd2 = r.read_all()
+p22
+I1796
+sVnumpy.number(numpy.where(var_explained <= 0.001))
+p23
+I1153
+sVeegplot.plot_erp( chain.apply(d3), 100, feat_lab=d.feat_lab, enforce_equal_n=False, baseline_period=(0,10) )
+p24
+I5779
+sVd3 = psychic.slice(d2[10000:50000], mdict, (-500, 1000))
+p25
+I6208
+sVprint re.match('\u005cd+:\u005cd+.?\u005cd*', ':2.343')
+p26
+I700
+sVplt(d.ids, d.xs[:,0])
+p27
+I350
+sVincongruent_ind
+p28
+I5466
+sVa[:,0,:]
+p29
+I5413
+sVplot( t**-0.5 )
+p30
+I3373
+s.

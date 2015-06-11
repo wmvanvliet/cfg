@@ -1,0 +1,56 @@
+(dp1
+Ve2
+p2
+I5751
+sVnumpy.mean(mean_corrs[d.ys[:,0],0,:], axis=0)
+p3
+I2227
+sVplot(d2.xs[:,0])
+p4
+I746
+sVeegplot.plot_erp(d3, 100, vspace=80)
+p5
+I4667
+sVplt.figure();
+p6
+I2322
+sVd.Y[0,flatnonzero(d.Y)][:100]
+p7
+I5945
+sVdiff(ps < 0.05)
+p8
+I4362
+sVgolem.helpers.hard_max(pred.xs)
+p9
+I4889
+sVplt.plot(avg[:,3])
+p10
+I3280
+sVd = golem.DataSet.load('marijn-p300-imec.dat')
+p11
+I4401
+sVeegplot.plot_erp(d5[101], 1000)
+p12
+I6680
+sVplot.plot(d5.nd_xs[110:150,:,5].T, '-k')
+p13
+I1518
+sV3.8 + -0.2 + (1/2.) * .0 + (1/6.) * -0.6 + (1/24.) * -1.2 + (1/120.) * -.3
+p14
+I535
+sVa = array([[1],[2],[3],[4],[5]])
+p15
+I3468
+sVfloatnonzero(block.ys)
+p16
+I4185
+sVdx = numpy.append(dx, numpy.zeros([1/0.5 -1, x.shape[1]]), axis=0)
+p17
+I1575
+sV(10/128.0) * 12 * 128
+p18
+I1901
+sVd = golem.DataSet(EEG, numpy.zeros([15352,1]), numpy.atleast_2d(numpy.arange(15352))/128.0)
+p19
+I1297
+s.

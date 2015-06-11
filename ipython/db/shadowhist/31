@@ -1,0 +1,62 @@
+(dp1
+Vplt.fill?
+p2
+I342
+sVnp.max(np.mean( d2.nd_xs[60,:,:,:], axis=0 ), axis=1)
+p3
+I88
+sVgolem.perf.mean_std(golem.perf.accuracy, golem.cv.cross_validate(golem.cv.seq_splits(d3,10), svm))
+p4
+I4630
+sVperiods = signal[period_idxs.astype(numpy.int)]
+p5
+I1948
+sVf = open('../Data/Subject3-IMEC.bdf')
+p6
+I2751
+sVtraining = cross_validation_sets(subsets)[0]
+p7
+I5491
+sVeegplot.plot_eeg(d, vspace=100)
+p8
+I6256
+sVgolem.perf.conf_mat(pred)
+p9
+I4449
+sVb = [1,2,3,4,5,6]
+p10
+I922
+sVplot.xlim(0,2000)
+p11
+I2137
+sVvar(d3.ndX[d3.ys[:,1],:,5])
+p12
+I4686
+sVblock = d[5441:8744]
+p13
+I4242
+sVnonzero( diff(ps[:,3] < 0.05 ) )
+p14
+I4378
+sVdurations = diff( np.concatenate( (change_ids, [len(ys)]) ) )
+p15
+I3909
+sVX2 = np.rollaxis(X.reshape(8, 74, 100), 1, -2)
+p16
+I5331
+sVnumpy.nonzer(ids == 1)
+p17
+I2757
+sVeegplot.plot_erp?
+p18
+I3573
+sVnp.log( np.linalg.det( X.T.dot(X) ) )
+p19
+I5507
+sVnumpy.concatenate(real_points, numpy.array([1]))
+p20
+I2180
+sVepoc
+p21
+I2850
+s.

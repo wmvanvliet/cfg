@@ -1,0 +1,77 @@
+(dp1
+Vto_idx = numpy.nonzero(d.ys == 2)[0][-1]
+p2
+I2773
+sVA = array([[1],[2],[3],[4],[5],[6]])
+p3
+I3486
+sVnumpy.atleast_2d( (X+Y).reshape( len(a)*len(b) ) ).repeat(8, axis=0).shape
+p4
+I1653
+sVtest_set = d2[400:]
+p5
+I4909
+sVcl = numpy.array([a2 == 6])
+p6
+I1368
+sVplt.plot(window_sizes, mean(perfs_array[imec,:], axis=0), '-x')
+p7
+I2103
+sVplt.plot(window_sizes, wilcoxon_test, '-s', label='Wilcoxon test')
+p8
+I3135
+sVgolem.perf.mean_std(golem.perf.accuracy, golem.cv.cross_validate(golem.cv.seq_splits(d3,4), n))
+p9
+I4625
+sVd.xs *= 1000
+p10
+I1851
+sVplot.plot([1.0, 0.5, 0.75, 0.9], differences)
+p11
+I6694
+sVacc_array = numpy.array(accuracies)
+p12
+I2300
+sVd = psychic.load_bdf('/Volumes/NO NAME/bla.bdf')
+p13
+I2565
+sVflatnonzero(d2.Y)
+p14
+I5054
+sVnonzero(d.ys)[0][0]
+p15
+I3696
+sVp2 = numpy.array(p)
+p16
+I2084
+sVr = bdf.BDFReader('../data/marijn-p300-full-1.bdf')
+p17
+I4848
+sVcl = a2 == 6
+p18
+I1369
+sV128 % 12.8
+p19
+I1881
+sVd2.Y[:8,:]
+p20
+I5084
+sVslic_node.train(d3.xs[5])
+p21
+I1419
+sVa = numpy.arange(1.8,10.0,1.8) - 1.8
+p22
+I1916
+sVclassifier0.nodes[0].beta
+p23
+I4900
+sVuints & 0xff
+p24
+I1783
+sVmean(mix.get_class(0).ndX[300:400,:,:], axis=0) - mean(mix.get_class(1).ndX[300:400,:,:], axis=0)
+p25
+I6653
+sVplot.plot( numpy.abs(f[:2000]) )
+p26
+I1976
+s.

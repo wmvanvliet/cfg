@@ -1,0 +1,86 @@
+(dp1
+Veegplot.plot_erp(d3, 1000, feat_lab=d.feat_lab, pval=0.05, vspace=20, start=1.0)
+p2
+I6240
+sVimport matplotlib.ticker as ticker
+p3
+I6487
+sVplot( vstack((diff(m[:,0]), diff(flatnonzero(d.Y[0,:])/1000.0))).T )c
+p4
+I6036
+sVeegplot.plot_erp(blocks[0], 1000, baseline_period=(0,100))
+p5
+I4791
+sVPi
+p6
+I2036
+sV[x,i for (x,i) in enumerate(string)]
+p7
+I5954
+sVd = bdf.load_bdf('imecbe-oddball-59.bdf')
+p8
+I6034
+sVY = np.vstack((block.Y,Y))
+p9
+I5570
+sVnumpy.tile(a, 2)
+p10
+I1037
+sVa = 19/numpy.arange(10.0)
+p11
+I1350
+sVdata = cPickle.load('test.dat')
+p12
+I356
+sVd2 = psychic.slice(d, mdict, (-100, 500))
+p13
+I3665
+sVd.xs.size
+p14
+I1156
+sVprint re.match('\u005cd+:\u005cd+.?\u005cd*', '1:2.343')
+p15
+I698
+sVb = numpy.array([1,2,3,4,5,6])
+p16
+I923
+sVplt.legend(loc='best')
+p17
+I2279
+sVmean(rare.nd_xs,axis=0)[:,1]
+p18
+I5022
+sVmarkers[0,:]
+p19
+I141
+sVmatches = re.match(r'.sdjfklsdfjkl;*?(\u005cd+)$', '43bla3043')
+p20
+I5985
+sVeegplot.plot_erp(d3[:-3], 100, vspace=10)
+p21
+I6633
+sVbytes("\u005cx20")
+p22
+I6062
+sVnp.mean( acc_array[imec,8] )
+p23
+I2871
+sV(1/120) * -.3
+p24
+I532
+sVtraining.get_class(0).X.T.dot(training.get_class(1).X
+p25
+I5508
+sVcar_node = psychic.nodes.CAR(ftype=0)
+p26
+I4935
+sVd2 = erp.erp(d2, (0,20), classes=np.flatnonzero(d2.ninstances_per_class))
+p27
+I4189
+sVrda.train(training)
+p28
+I5499
+sVd2 = psychic.resample_rec(d, 0.1, 1)
+p29
+I3927
+s.

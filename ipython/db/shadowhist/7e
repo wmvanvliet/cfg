@@ -1,0 +1,92 @@
+(dp1
+Vep.read?
+p2
+I878
+sV'c' in d
+p3
+I1229
+sVm, mi = psychic.utils.markers_to_events(test.ys.flat)
+p4
+I247
+sVdir
+p5
+I4275
+sVeegplot.plot_eeg(d[-250:])
+p6
+I4516
+sVeegplot.plot_eeg(d2, 1000, spec_channel=1)
+p7
+I1174
+sVcongruent_pairs[congruent_ind==3]
+p8
+I5470
+sVd.ids = range(d.ninstances)/128.0
+p9
+I2729
+sVd2.xs[14322:14332,:]
+p10
+I2522
+sVeegplot.plot_erp(d3[:-10], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+p11
+I6335
+sVpsychic.plot_timeseries( training.ndX.T.reshape(8,-1).T )
+p12
+I5302
+sVunique(d2.Y0
+p13
+I6608
+sVdiff( nonzero( ps[:,3] < 0.05 ) )
+p14
+I4376
+sVnonzero(d.ys == 40)[0].size
+p15
+I3080
+sVeegplot.plot_erp( erp.Mean().apply(d2[:10]) , 100)
+p16
+I5848
+sVser.flowControl?
+p17
+I6075
+sVlogger.info('Noise reduced to: %g %%' % (100*pca.fracs[-1]))
+p18
+I1122
+sVd3.ys = bla.T
+p19
+I1433
+sVw = bdf.BDFWriter('marijn-12-IMECBE-channels.bdf', values=values)
+p20
+I3580
+sVepoc.shape
+p21
+I2849
+sVeegplot.plot_eeg(d[:-2000]
+p22
+I4512
+sVlda_node.train(train)
+p23
+I6409
+sVpca.Wt[0]
+p24
+I1112
+sVnumpy.atleast_3d(x).shape
+p25
+I1583
+sVX2 = np.rollaxis(X.reshape(8, 74, 100), 1, 3)
+p26
+I5338
+sVm = re.match(r"([^,]+,)+", "bla,blaf")
+p27
+I6521
+sVplt.axhline(0.95, ls='--', color='m')
+p28
+I3137
+sVeegplot.plot_eeg( mean_corrs, 1, spectogram=False )
+p29
+I2230
+sVvalues['local_subject_id'] = '1'
+p30
+I2471
+sVlda.empty_d
+p31
+I4881
+s.

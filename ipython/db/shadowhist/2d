@@ -1,0 +1,62 @@
+(dp1
+Veegplot.plot_erp( erp.erp(d2, (0,20), classes=[1,2]), 100, vspace=50 )
+p2
+I4233
+sVX3 = array(X2).reshape(8, 100, 74)
+p3
+I5372
+sVplt.plot(d2.ids, d2.ys[:,9])
+p4
+I1413
+sVplot_eeg?
+p5
+I1166
+sVeegplot.plot_erp(d2[:50], 100, baseline_period=(0,0.5))
+p6
+I4099
+sVnumpy.nonzero( d.ys == 2 )[0].shape
+p7
+I2338
+sVsys.exec_info()
+p8
+I5538
+sVplot(drift[:,1], drift[:,4])
+p9
+I6027
+sVmeans = numpy.mean(d.xs, axis=0)
+p10
+I963
+sVd['a']
+p11
+I1226
+sVnp.rollaxis(b,1).shape
+p12
+I5283
+sVeegplot.plot_eeg(d2, 1000, spectogram=False, vspace=10)
+p13
+I3309
+sVeegplot.plot_eeg(d[-3000:-300])
+p14
+I4539
+sVnumpy.hstack( ([0], splits) )
+p15
+I2672
+sVlen(np.nonzero(np.logical_and(d4.ys[:,0], d3.ys[:,0]))[0])
+p16
+I2258
+sVX4 = np.rollaxis(X3.T, 1,4)
+p17
+I5438
+sVtest = struct.unpack('13526B', raw)
+p18
+I441
+sVcl = classifierp300.Classifier( emulator.Recorder() )
+p19
+I4989
+sVeegplot.plot_eeg(d2, 1000, spec_channel=4)
+p20
+I1177
+sVeegplot.plot_erp(d2, 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p21
+I3822
+s.

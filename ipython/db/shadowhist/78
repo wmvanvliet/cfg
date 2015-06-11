@@ -1,0 +1,68 @@
+(dp1
+Vd = psychic.load_bdf('../Data/Subject8-IMEC.bdf'rel)
+p2
+I3403
+sVd5 = window_node.apply(d4_
+p3
+I3115
+sVbin( (test[4] << 8) & 0xff0000)
+p4
+I515
+sVw = bdf.BDFWriter('../Data/Subject2-EPOC.bdf', values=values)
+p5
+I2413
+sVd2.ys[49:98,:]
+p6
+I4945
+sVcd kuleuven/BCITD//Python
+p7
+I4352
+sV60/7.0
+p8
+I2000
+sVprint re.match('\u005cd:2', '1:2')
+p9
+I693
+sVhstack(ys).T.shape
+p10
+I3221
+sV1 << 5
+p11
+I2878
+sV%run anim ../N400/data/marijn
+p12
+I6245
+sVnp.tril?
+p13
+I4712
+sVeegplot.plot_eeg(d[630352:540352], vspace=60)
+p14
+I3705
+sVw.write(d2)
+p15
+I2397
+sV0xff
+p16
+I348
+sVd = psychic.load_bdf('../Data/Subject6-EPOC-BROKEN.bdf')
+p17
+I2746
+sVdev.bcdUSB
+p18
+I857
+sVy = a
+p19
+I1722
+sVeegplot.plot_erp( erp.erp(d2, (0,0.2), classes=[1,2]), 100, vspace=50 )
+p20
+I4232
+sVnp.loadtxt?
+p21
+I5859
+sVa = numpy.array([1.5, 2.6, 6.7])
+p22
+I1259
+sVplt.ylim(50,100)
+p23
+I2327
+s.

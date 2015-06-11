@@ -1,0 +1,95 @@
+(dp1
+Vnp.rollaxis(b,-1)
+p2
+I5273
+sVsegments[3,:]
+p3
+I2679
+sVeegplot.plot_erp(d4, 1000, feat_lab=d2.feat_lab, pval=0.05, vspace=20, start=0.0, baseline_period=(0,1000))
+p4
+I6274
+sVnp.vstack(differences).shape
+p5
+I6700
+sVnp.rollaxis(np.tile(a.T, [3,1,1]), 2)[:,:,2]
+p6
+I5244
+sVb = np.array([2,2,2])
+p7
+I3556
+sVpsychic.plot_timeseries( np.mean(d2.nd_xs[[1,2,3,4,5,6,8,9,10,11],:,:], axis=0) )
+p8
+I4613
+sVp = perf[:18]
+p9
+I2080
+sVplt.plot( np.mean(acc_array[random_imec[0,:], :], axis=0) )
+p10
+I2921
+sVclassifier0
+p11
+I5096
+sVmatches = re.match('.*(\u005c\u005cd+)$', 'bla3043')
+p12
+I5979
+sVa = np.rollaxis(a, 0, 2)
+p13
+I5387
+sVgolem.nodes.Chain.train_apply?
+p14
+I3236
+sVplot( diff(flatnonzero(d.Y[0,:])/1000.0) )
+p15
+I5938
+sVd = bdf.load_bdf('imecbe-oddball-03.bdf')
+p16
+I5947
+sVslic_node = slic.Slic([15.0], 1000)
+p17
+I3225
+sVpdb.runcall( lda.train, train_set[:100] )
+p18
+I4923
+sVeegplot.plot_erp( erp.erp(d2, (0,20), classes=[1,2,3,4]), 100, vspace=10 )
+p19
+I4238
+sVimport setup_logging
+p20
+I4259
+sVd.ys[3998:5280] = 2
+p21
+I2498
+sVeegplot.plot_erp(d2[:10], 100)
+p22
+I4078
+sVnumpy.array([[13]]).repeat(10, axis=0) * b
+p23
+I1624
+sVnp.ravel?
+p24
+I3720
+sVplt.savefig('bla.raw', format=rgb)
+p25
+I770
+sVflatnonzero(d.Y == 4).shape
+p26
+I4783
+sV**a
+p27
+I6535
+sVpca.numrows
+p28
+I1098
+sVd = selectserver.VimDispatcher('bla')
+p29
+I2823
+sVlen(flatnonzero(d2.Y[7,:]))
+p30
+I5574
+sVeegplot.plot_windowed_eeg(d2[1:3], 1000, vspace=10)
+p31
+I3264
+sVX4.T
+p32
+I5440
+s.

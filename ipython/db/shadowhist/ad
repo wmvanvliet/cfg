@@ -1,0 +1,107 @@
+(dp1
+VX3[0].shape
+p2
+I5726
+sVd3 = thres_node_20.apply(d2)
+p3
+I336
+sVd3 += d2.get_class(55)[0] + d2.get_class(56)[0] + d2.get_class(57)[0] + d2.get_class(58)[0] + d2.get_class(59)[0] + d2.get_class(60)[0] + d2.get_class(61)[0] + d2.get_class(62)[0] + d2.get_class(63)[0] + d2.get_class(64)[0]
+p4
+I6169
+sVimport scipy,numpy,golem,psychic,fft,ica,slib,thres
+p5
+I789
+sVeegplot.plot_erp( erp.erp(d2, (0,20), classes=[1,2,3,4,5,6]), 100, vspace=10 )
+p6
+I4239
+sVnp.diff(markers)
+p7
+I3896
+sVd.I[0]
+p8
+I3414
+sVplot.plot(d.ids)
+p9
+I2728
+sVnp.nonzero(np.logical_and(d4.ys[:,0], d3.ys[:,0]))
+p10
+I2257
+sVeegplot.plot_erp(d2[:-3], 100, baseline_period=(0, 0.2), feat_lab=d.feat_lab, start=0, classes=[0,1], vspace=5)
+p11
+I4064
+sVnumpy.nonzero(d.ys)[0]
+p12
+I2698
+sVscipy.stats.binom.sf?
+p13
+I2966
+sVeegplot.plot_erp(d2[10:200], target_samplerate, enforce_equal_n=True, feat_lab=d.feat_lab, baseline_period=(0,10))
+p14
+I4858
+sVtest = erp.erp(test, classes=np.flatnonzero(test.ninstances_per_class, n=num_repetitions)
+p15
+I5200
+sVvar(d3.ndX[d3.ys[:,1],:,9])
+p16
+I4690
+sVd2.Y[0,:200]
+p17
+I5654
+sVfor i in range(0, markers.shape[0]):
+p18
+I150
+sVdev.bDescriptorType
+p19
+I836
+sVnumpy.repeat([1], [10,1])
+p20
+I804
+sVclassifier1.train(d3)
+p21
+I5113
+sVeegplot.plot_erp( erp.Mean(axis=2).apply(d3), 100, feat_lab=d.feat_lab, enforce_equal_n=False)
+p22
+I5783
+sVdiff?
+p23
+I5862
+sVnumpy.atleast_2d(signal).repeat(10, axis=0).T
+p24
+I1944
+sVplot(e.X[0,:])
+p25
+I6361
+sVplt.specgram(d2.xs[:,6], Fs=128, NFFT=128, noverlap=0)
+p26
+I1007
+sVd.ys == 0
+p27
+I2663
+sVtype(A)
+p28
+I1075
+sVverts = [0,0], [0,1], [1,1], [1,0]
+p29
+I2113
+sV[x for x in range(10)]
+p30
+I5167
+sVd = d[19000:632352]
+p31
+I3707
+sVargmax.__module__
+p32
+I4175
+sVnp.rollaxis(b,-1).reshape(2,-1)
+p33
+I5276
+sVpdb.runcall( eegplot.plot_erp, samplerate, baseline_period=(0, 0.1*samplerate), feat_lab=d.feat_lab )
+p34
+I4389
+sVplot.plot( np.mean(d2.nd_xs[195:200,:,:], axis=0) )
+p35
+I4135
+sVrare = d2.get_class(0)
+p36
+I5012
+s.

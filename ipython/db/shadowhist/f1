@@ -1,0 +1,101 @@
+(dp1
+Vnp.nonzero(test.ys == 1)
+p2
+I243
+sVeegplot.plot_eeg(d3.ys[0])
+p3
+I4249
+sVcl = [a2 == 6]
+p4
+I1363
+sVnonzero(d.ys == 40)[0] = (nonzero(d.ys == 41))
+p5
+I3081
+sVblock = subsets[0]
+p6
+I5589
+sVe = erp.erp(d3[0], classes=[0], enforce_equal_n=True)
+p7
+I6353
+sVd.ys[flatnonzero(d.ys)][:20]
+p8
+I4754
+sVm = re.match(r'^(.*?)(\u005cd*)(\u005c..*?)$', 'hello')
+p9
+I6009
+sVw = numpy.fft.fft(d3.xs[7000:8000,1])
+p10
+I1978
+sVbin( (test[4] << 4) & 0xff00 )
+p11
+I409
+sVm = cvx.matrix(array([[1,2,3,4]]))
+p12
+I6398
+sVimport offline_p300
+p13
+I5737
+sVys[20000,:]
+p14
+I273
+sVvalues['label'] = ['Fz, 'Cz, 'Pz, 'C3', 'C4', 'P3', 'P4', 'AF3', 'Status']
+p15
+I4836
+sV3. + -0.8 + -0.6
+p16
+I536
+sVa[lo]
+p17
+I1707
+sVhelp numpy.argmax
+p18
+I1186
+sVfrom piet import *
+p19
+I4488
+sVnp.argmax(result.X[np.argmax(result.X, axis=0) == 0,0])
+p20
+I6455
+sVpdb.runcall(eegplot.plot_erp(d2, 1000, 100, baseline_period=(0,0.5)))
+p21
+I3681
+sVresample.Resample?
+p22
+I4796
+sV256+336
+p23
+I2603
+sVys[:655] = 2
+p24
+I2403
+sVm = np.loadtxt('markers-slow.log', delimiter=',')
+p25
+I5874
+sVplot.plot.ylim([0.4, 1])
+p26
+I1873
+sVflip_array[:,1]
+p27
+I2890
+sVblock.ndX.shape
+p28
+I5686
+sVd2 = psychic.slice(d, mdict, (-500, 1500))
+p29
+I6112
+sVplot.plot( mean(d3.nd_xs[:10,:,:], axis=0) )
+p30
+I4023
+sVm.groups()[2]
+p31
+I6514
+sVplt.plot(d4.ids, d4.xs\u000a)
+p32
+I1435
+sVplot( mean(d2.nd_xs[d2.ys[:,0],:,:], axis=0)[:,0] )
+p33
+I3648
+sVser.parity
+p34
+I6057
+s.

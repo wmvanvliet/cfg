@@ -1,0 +1,68 @@
+(dp1
+Vfeat_node = golem.nodes.AUCFilter()
+p2
+I4464
+sVa.T * b
+p3
+I1616
+sVeegplot.plot_eeg(d[32000:], vspace=100)
+p4
+I4033
+sVr = bdf.BDFReader( open('../Data/Dominique6.bdf') )
+p5
+I2407
+sVvalues['prefiltering'][8] = '';
+p6
+I5005
+sVsubsets[0].nfeatures
+p7
+I5551
+sVeegplot.plot_erp( erp.erp(d2, (0,20), classes=[0,2]), 100, vspace=10 )
+p8
+I4236
+sVd.feat_lab = ['P7', 'P8', 'O1', 'O2']
+p9
+I1314
+sVpca.Wt.Y
+p10
+I1108
+sVdetected_points = numpy.nonzero(detected_points[1:] - detected_points[:-1])[0]
+p11
+I2185
+sVa.repeat(12, axis=0).,Treshape
+p12
+I1335
+sVdev.iSerialNumber
+p13
+I853
+sVresult = classifiers['lda-lw'].apply(mtest[7:14])
+p14
+I6456
+sVd3 = erp.erp(d2, n=(2,4))
+p15
+I4823
+sVeegplot.plot_erp(d2[:-3], 100, baseline_period=(0, 0.2), feat_lab=d.feat_lab, start=0, classes=[0,1], vspace=10)
+p16
+I4063
+sVslic_node = slic.Slic([d3.cl_lab[5]], 128)
+p17
+I1421
+sVvalues = r.bdf.values
+p18
+I5762
+sVreload(ica)
+p19
+I17
+sVser = serial.open('/dev/tty.usbserial-00001004')
+p20
+I6066
+sVnumpy.nonzero(d.ys)
+p21
+I2697
+sVslic_node = slic.Slic([21], samplerate)
+p22
+I759
+sVzip([1], [3,4,5])
+p23
+I4392
+s.

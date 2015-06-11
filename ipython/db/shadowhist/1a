@@ -1,0 +1,113 @@
+(dp1
+Vwindow_node = psychic.nodes.SlidingWindow(40, 40)
+p2
+I1524
+sVX,Y = numpy.meshgrid(a, b)
+p3
+I1642
+sVplot( diff(flatnonero(d.Y))/1000 )
+p4
+I5910
+sVd = blowup_node.apply(subsets[0])
+p5
+I5739
+sVd2.X.repeat?
+p6
+I4711
+sVd = d3
+p7
+I5782
+sVb = bank.Bank(1000.0)
+p8
+I1204
+sVflatnonzero(d.Y)[5]
+p9
+I6289
+sVcombinations[0].shape
+p10
+I5798
+sVgolem.perf.mean_std(golem.perf.accuracy, golem.cv.cross_validate(golem.cv.seq_splits(targets+nontargets[:60],2), svm) )
+p11
+I4483
+sVchain = golem.nodes.Chain([erp.Blowup(100), erp.Mean(axis=2)])
+p12
+I5778
+sVd.Y[0,;}
+p13
+I5644
+sVoff_indices
+p14
+I622
+sVd4
+p15
+I910
+sV1<<19
+p16
+I2567
+sV154/12.8
+p17
+I2016
+sVa.ravel?
+p18
+I3719
+sVwindow_node = psychic.nodes.SlidingWindow(10, 10)
+p19
+I1521
+sVscipy.stats.binom_test(5, 7)
+p20
+I2983
+sVd.ndX.dot(2)
+p21
+I4715
+sVd2 = cl._extract_trials(cl.data)
+p22
+I4996
+sVnumpy.random.randn(3,4)
+p23
+I3357
+sVeegplot.plot_erp(d2, 1000, feat_lab=d.feat_lab, pval=0.05, start=0.5, vspace=15)
+p24
+I6225
+sVys = numpy.zeros([d.ninstances, 2]) != 0
+p25
+I816
+sVflatnonzero(training.Y[2,:])
+p26
+I5196
+sVls ../N400/data
+p27
+I6246
+sVgolem.cv.cross_validate(golem.cv.seq_splits(d3,6), svm)
+p28
+I4450
+sVeegplot.plot_eeg(d,20)
+p29
+I964
+sV['unknown' forin range(10)]
+p30
+I1255
+sVvar(d3.ndX[d3.ys[:,1],:,6])
+p31
+I4687
+sVnp.max(block.Y[block.Y<100])+1
+p32
+I4978
+sVmean_node = erp.Mean(axis=2)
+p33
+I5702
+sVps.shape
+p34
+I4359
+sVnp.max(np.mean( d2.nd_xs[60,:,:,:], axis=0 ))
+p35
+I87
+sVeegplot.plot_eeg(d[:30000])
+p36
+I6119
+sVplot.ylim([0, 800])
+p37
+I1987
+sVplot( mean(d2.nd_xs[d2.ys[:,0],:,:7], axis=0) )
+p38
+I3804
+s.

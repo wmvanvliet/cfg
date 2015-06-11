@@ -1,0 +1,92 @@
+(dp1
+Vplot.plot(d5.nd_xs[100:120,:,6].T, '-k')\u221a
+p2
+I1501
+sVtest[block_labels == block]
+p3
+I5648
+sVeegplot.plot_eeg(d[-3000:-160])
+p4
+I4547
+sV%run compare_devices
+p5
+I3332
+sVzeros((5,2), dtype=bool)
+p6
+I3854
+sVeegplot.plot_erp(d2[:10], 100, baseline_period=(0,1))
+p7
+I4079
+sVb = [True, True, False]
+p8
+I195
+sVa2 = a.repeat(12*128, axis=0).T.reshape([120*128,1])
+p9
+I1360
+sVeegplot.plot_erp(d3, 100, vspace=100)
+p10
+I4664
+sVep == None
+p11
+I867
+sVfft_node = fft.FFTFilter(0.5, 15)
+p12
+I6103
+sVprint lda
+p13
+I4924
+sVlo - numpy.linspace(0,4,10)
+p14
+I1702
+sVm = np.loadtxt('markers2.log', delimiter=',')
+p15
+I5872
+sVtraining.X.shape
+p16
+I5345
+sVbdf.int24_to_le( numpy.array([d.xs[130,:]]) )
+p17
+I2638
+sVusb.util.find_descriptor?
+p18
+I846
+sV(test[3+1] << 4) & 0xff00
+p19
+I508
+sVeegplot.plot_eeg(d[32000:326400])
+p20
+I4040
+sVtraning.ndX.shape
+p21
+I5289
+sVlen(intensity)
+p22
+I3170
+sV2*12.8
+p23
+I2018
+sVd = psychic.load_bdf('../data/marijn-12-IMECBE.bdf')c
+p24
+I3543
+sVeegdevices.Recorder?
+p25
+I6249
+sVnp.linalg.det(cov1)
+p26
+I5518
+sVatleast_2d(arange(3))
+p27
+I3476
+sVimec.Frame?
+p28
+I559
+sVmdict = {5:'congruent', 55:'incongruent'}
+p29
+I6163
+sVd2 = psychic.slice(d, mdict, (-50, 350))
+p30
+I4126
+sVmarkers.tile
+p31
+I139
+s.

@@ -1,0 +1,107 @@
+(dp1
+Vplt.plot(window_sizes, numpy.mean(perfs_array[epoc,:], axis=0), '-s')
+p2
+I2108
+sVidx = numpy.logical_and(d2.ids>d.ids[0], d2.ids<d.ids[-1]).flatten()
+p3
+I2537
+sV%vim compare_devices.py
+p4
+I2852
+sVidx = numpy.array([[0,1]]).repeat(64, axis=1).repeat(177, axis=0).flatten()
+p5
+I2721
+sVd = psychic.load_bdf('../Data/Subject9-EPOC.bdf')
+p6
+I2690
+sV%run offline_p300
+p7
+I4172
+sV[a,b]
+p8
+I203
+sVplt.plot(window_sizes, numpy.mean(acc_array[epoc,:], axis=0), 'g-o', label='EPOC - Acc.')
+p9
+I2303
+sVclassification_window
+p10
+I5036
+sVnumpy.atleast_2d( (X+Y).reshape( len(a)*len(b) ) )
+p11
+I1651
+sVwindow_node = psychic.nodes.SlidingWindow(20, 20)
+p12
+I1471
+sVeegplot.plot_erp(d5[100], 1000)
+p13
+I6679
+sVd.ninstances/128
+p14
+I2719
+sVplt.plot(d.xs[4,:])
+p15
+I893
+sVeegplot.plot_erp(d4, 1000, feat_lab=d2.feat_lab, pval=0.05, vspace=10, start=1.0)
+p16
+I6282
+sVhelp(logging.getLogger)
+p17
+I111
+sV%edit?
+p18
+I3318
+sVnumpy.linspace(0,10,8)
+p19
+I1656
+sVa = numpy.arange(0.0,10.0-0.9,1)
+p20
+I1913
+sVdev.bDeviceSubClass
+p21
+I852
+sVnp.mean(d.X, axis=0).repeat(1,8).shape
+p22
+I3445
+sVcd ..
+p23
+I6703
+sVdiff(pos[:11])
+p24
+I4113
+sVf.write(b)
+p25
+I1769
+sVtime.date
+p26
+I3577
+sVd3.get_class(0)
+p27
+I5801
+sVplot.plot([1.0, 0.5, 0.75, 0.9], np.vstack(differences), '-x')
+p28
+I6699
+sVfrom_idx = numpy.nonzero(d2.ys == 2)[0][0]
+p29
+I2779
+sVtest[26+28*27:26+29*27]
+p30
+I451
+sVeegplot.plot_erp(d4, 1000, (0, 300), feat_lab=d.feat_lab, cl_lab=d2.cl_lab)
+p31
+I4420
+sVsp.stats.binom_test([1,0], 7)
+p32
+I2970
+sVtraining.nd_x
+p33
+I5226
+sVa = array([[1,2,3], [4,5,6]])
+p34
+I3869
+sVd2 = resample_node.train_apply(d)
+p35
+I6374
+sVd2 = psychic.slice?
+p36
+I3614
+s.

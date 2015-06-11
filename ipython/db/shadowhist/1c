@@ -1,0 +1,80 @@
+(dp1
+Vnonzero(d.ys == 42)[0]
+p2
+I3076
+sVplot( vstack((timing_vsync_better, timing_vsync)).T )
+p3
+I5901
+sV2*8*3
+p4
+I1831
+sVfp_rate
+p5
+I2264
+sVbytes = buf.__str__()
+p6
+I787
+sVX = d2.ndX[classification_window,classification_channels,:]
+p7
+I5034
+sVvalues = {'local_recording_id':'Test recording', 'local_subject_id':'Marijn van Vliet', 'n_channels':8, 'start_date':'03.02.11', 'start_time':'11.20.50', 'n_samples_per_record':[128,128,128,128,128,128,128,128]}
+p8
+I1762
+sVcongruent_ind
+p9
+I5465
+sVrp = numpy.atleast_2d(real_points).repeat(2, axis=0).T
+p10
+I2170
+sVplot.plot( mean(d2.nd_xs[:10,:,:], axis=0) )
+p11
+I4080
+sVlen(window_sizes)
+p12
+I2998
+sVw.units = w.units[:6]
+p13
+I2434
+sVd.cl_lab.index('statusdf')
+p14
+I5564
+sVd.I[0,-1]
+p15
+I5916
+sVmsg = ep.read(32)
+p16
+I879
+sVd2
+p17
+I19
+sVd = subsets[0]
+p18
+I5735
+sVvalues = {'local_recording_id':'Test recording', 'local_subject_id':'Marijn van Vliet', 'n_channels':8, 'start_date':'03.02.11', 'start_time':'11.20.50', 'n_samples_per_record':[2,2,2,2,2,2,2,2]}
+p19
+I1825
+sVbytes[:, 0] = numpy.ascontiguousarray(uints & 0xff)[:]
+p20
+I1787
+sVnp.rollaxis(b.,-1).shape
+p21
+I5281
+sVclassifier0 = golem.nodes.Chain([golem.nodes.AUCFilter(), golem.nodes.LDA(cov_f=np.cov)])
+p22
+I4893
+sVeegplot.plot_eeg(d[-3000:-2900])
+p23
+I4535
+sVsigma1
+p24
+I188
+sVfig_width_pt = 246.0  # Get this from LaTeX using \u005cshowthe\u005ccolumnwidth
+p25
+I2311
+sVbar( np.logspace(-2,5,6), 6 )
+p26
+I3935
+sVd2[d2.ys == 2,:]
+p27
+I180
+s.

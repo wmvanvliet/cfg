@@ -1,0 +1,86 @@
+(dp1
+Vd4.nclasses
+p2
+I3527
+sV128.0 % 12.8
+p3
+I1882
+sVnp.atleast_3d(a).reshape(-1,1).shape
+p4
+I6556
+sVd3 = slic_node.apply(d2)
+p5
+I25
+sVys[:5478] = 1
+p6
+I2374
+sVplot.plot( mean(d3.nd_xs[:200,:,:], axis=0) )
+p7
+I4025
+sVintensity[0][0][2]
+p8
+I3164
+sVcolorbar()
+p9
+I6183
+sVisx
+p10
+I1668
+sVimport emulator
+p11
+I4988
+sVtraing
+p12
+I5846
+sVdatetime?
+p13
+I1234
+sVimport golem
+p14
+I297
+sV50, 83, 83, 83, 82, 82, 82, 82, 80, 78, 75, 75, 75, 75, 74, 76, 72, 72]
+p15
+I2058
+sVm = re.match(pattern, "hello:bla\u005cn", re.VERBOSE)
+p16
+I6515
+sVmdict = {1:'nontarget', 2:'nontarget', 3:'target', 4:'nontarget', 5:'nontarget', 6:'nontarget'}
+p17
+I4437
+sVplot.plot(d.xs[128:256,13])
+p18
+I2599
+sVmax(block.Y)
+p19
+I4776
+sVfeat_node = golem.nodes.FeatFilter
+p20
+I4462
+sVsvm
+p21
+I4455
+sVnonzero(ps[:,2] < 0.05)
+p22
+I4368
+sVscipy.stats.binom_test(4, 7)
+p23
+I2982
+sVeegplot.plot_erp(d3[0], 1000, feat_lab=d.feat_lab, baseline_period=(800, 1000), start=1.0)
+p24
+I6336
+sVnumpy.round(numpy.linspace(0,9,20))
+p25
+I1664
+sVPa = A.dot( numpy.linalg.inv(A.T.dot(A)) ).dot(A.T)
+p26
+I1084
+sVnum_repetitions = 10
+p27
+I5079
+sVb = a
+p28
+I1057
+sVplt.legend(['IMEC', 'EPOC1', 'EPOC2'])
+p29
+I2092
+s.

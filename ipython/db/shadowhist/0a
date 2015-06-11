@@ -1,0 +1,92 @@
+(dp1
+Vd2.xs[d2.ys == 2,:]
+p2
+I184
+sVeegplot.plot_eeg(d3[1095:3097], 200, spec=false)
+p3
+I1462
+sVimport vimserver
+p4
+I5455
+sVca
+p5
+I2935
+sVmdict.keys()[1]
+p6
+I5164
+sVgolem.perf.auc(pred)
+p7
+I3965
+sVeegplot.plot_erp(d3, 100, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'], baseline_period=(0, 0.2))
+p8
+I3929
+sVeegplot.plot_eeg(d2, 1000, spec_channel=5, freq_range=[5, 15])
+p9
+I1180
+sVhelp argmax
+p10
+I1185
+sVd.Y[0,flatnonzero(d.Y[0,:])][:100]
+p11
+I6193
+sVxs = np.vstack([d.X, np.zeros((8, d.ninstances), dtype=numpy.int)])
+p12
+I3454
+sVeegplot.plot_erp( mean_node.apply(d2[:500]), 100, feat_lab=d.feat_lab, enforce_equal_n=True, baseline_period=(0,10) )
+p13
+I5771
+sV60/5.0
+p14
+I2002
+sVimport h5py
+p15
+I1271
+sVeegplot.plot_eeg(d[90000:150000])
+p16
+I3463
+sVlen(mouse_class)
+p17
+I3094
+sVbin( (test[4] << 8) & 0xff00)
+p18
+I516
+sVnontargets = np.mean(d4.nd_xs[d4.ys[:,0],:,:], axis=0)
+p19
+I3502
+sVd.ys[flatnonzero(d.ys)][:10]
+p20
+I4753
+sVnumpy.array([[13]]).repeat(10, axis=0)
+p21
+I1623
+sVprint str(e.message())
+p22
+I5546
+sV%run -d main.py
+p23
+I124
+sVnontargets = np.mean(d4.nd_xs[d4.ys[:60,0],:,:], axis=0)
+p24
+I3522
+sVd4.ninstances_per_class
+p25
+I6339
+sVplot.plot(d2.xs[6000:14000,1])
+p26
+I1960
+sVplt.plot(periods[0,:,:])
+p27
+I3282
+sVd2.classes
+p28
+I4226
+sV%run offline_p300 marijn-p300-imec.dat
+p29
+I4322
+sVplot.plot(f[:2000])
+p30
+I1975
+sVunique(train.Y)
+p31
+I6389
+s.

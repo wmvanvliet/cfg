@@ -1,0 +1,76 @@
+(dp1
+Vd2 = psychic.resample_rec(d, 0.25)
+p2
+I3916
+sV(test[3] & 0xff) + ((test[3+1] << 4) & 0xff0000)
+p3
+I501
+sVplot( vstack(timing, timing_slow) )
+p4
+I5881
+sVcorrs.append(1)
+p5
+I117
+sVa = range(10)
+p6
+I5009
+sVimport erp
+p7
+I4342
+sVatleast_2d([1,2,3]).shape
+p8
+I5690
+sVeegplot.plot_eeg(d[20000:30000], vspace=50)
+p9
+I4013
+sVW
+I5355
+sV(test[3+1] << 4)
+p10
+I506
+sVbool([1,0,1])
+p11
+I612
+sVa = [False, True, False]
+p12
+I194
+sVnonzero(d.ys == 41)
+p13
+I3074
+sVd = d[:-170])
+p14
+I4548
+sVd2[0].xs.shape
+p15
+I4586
+sVd3 = d2.get_class(5) + d2.get_class(6) + d2.get_class(7) + d2.get_class(8) + d2.get_class(9) + d2.get_class(10) + d2.get_class(11) + d2.get_class(12) + d2.get_class(13) + d2.get_class(14)
+p16
+I6166
+sVys[35500:] = 2
+p17
+I2379
+sVd3 = erp.erp(d2, (0,20))
+p18
+I4184
+sVX = W.dot(training.ndX.T.reshape(8,-1))
+p19
+I5303
+sVa['bla']
+p20
+I2825
+sVpsychic.plot_timeseries( np.rollaxis(training.ndX, 1).reshape(8,-1).T )
+p21
+I5292
+sVplt.show()
+p22
+I763
+sVeegplot.plot_eeg(d[d.ys[:,0], 1, spectogram=False, vspace=0.5 )
+p23
+I2235
+sVsubsets = [ reduce(operator.add, [d2[block] for block in blocks[f==fi]]) for fi in np.unique(f)]
+p24
+I5701
+sVplt.plot( np.mean(d3.nd_xs, axis=0) )
+p25
+I4663
+s.

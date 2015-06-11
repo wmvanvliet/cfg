@@ -1,0 +1,71 @@
+(dp1
+VX2 = array(X).reshape(74,8,100).T.shape
+p2
+I5314
+sVeegplot.plot_eeg(d, 128, spec_channel=3)
+p3
+I1305
+sVselectserver.SERVER.close()
+p4
+I3055
+sVnumpy.linspace(6, 25, 12)
+p5
+I1358
+sVwindow_node = psychic.nodes.OnlineSlidingWindow(1500, 200)
+p6
+I3123
+sVblock.Y.shape
+p7
+I5687
+sVdifferences = np.vstack(differences)
+p8
+I6656
+sVplot.plot(np.nonzero(d.ys)[0][0])
+p9
+I3598
+sVd2 = psychic.slice(d, mdict, (-1900, -1800))
+p10
+I4088
+sVnp.cov(d3.get_class(0).X).shpe
+p11
+I5099
+sV1/(120.0*128.0)
+p12
+I1318
+sVgolem.loss.
+p13
+I3938
+sVquit)(
+p14
+I2831
+sVblock_lengths = np.diff(block_onsets) + (d.ninstances-block_onsets[-1])
+p15
+I4768
+sVplt.plot(window_sizes, numpy.mean(fps_array[imec,:], axis=0), '-s', label='IMEC - FPR')
+p16
+I2275
+sVvalues['n_samples_per_record'] = [100, 100, 100, 100, 100, 100, 100, 100, 100]
+p17
+I3993
+sVflatnonzero( np.array(d2.ninstances_per_class) )
+p18
+I4191
+sVplot.plot(freqs[500:], numpy.abs(w[500:]) )
+p19
+I1983
+sVdir(time)
+p20
+I1243
+sVerp.erp(training[block_labels == block], classes=[3,4])
+p21
+I5636
+sVplt.plot(d2.ids, d2.xs)
+p22
+I128
+sVeegplot.plot_eeg(d2)
+p23
+I952
+sVb + [0, 100]
+p24
+I929
+s.

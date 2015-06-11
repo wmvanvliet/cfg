@@ -1,0 +1,80 @@
+(dp1
+Va = numpy.atleast_2d( numpy.array([1,2,3]) )
+p2
+I1774
+sVx,y = numpy.meshgrid(a, range(1.8))
+p3
+I1919
+sVflatnonzero(d.Y == 2).shape
+p4
+I4781
+sVd3.Y[0,1]
+p5
+I6346
+sVmdict = {1.0:'bla', 2.0:'bloep'}
+p6
+I5161
+sVeegplot.plot_erp(d2[:60], 1000, 100, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p7
+I3794
+sVcongruent_pairs[congruent_ind==1]
+p8
+I5468
+sVplt.plot(periods[3,:,:], '-b')
+p9
+I3293
+sVeegplot.plot_erp(d2[:-3], 100, baseline_period=(0, 0.2), feat_lab=d.feat_lab)
+p10
+I4054
+sVarange?
+p11
+I3473
+sV%run cudatest.py
+p12
+I6704
+sVplot( mean(d2.nd_xs[:,:,0], axis=0) )\u005c
+p13
+I3712
+sVeegplot.plot_erp(d2[:15]+d2[15:], 100)
+p14
+I4578
+sVeegplot.plot_eeg( d[10000:35000])
+p15
+I4332
+sVplot.plot([0.5, 0.75, 0.9, 1.0], differences, '-x')
+p16
+I6665
+sVtest.dy
+p17
+I4442
+sVeegplot.plot_eeg(d[20000:50000], vspace=50)
+p18
+I3652
+sVa = numpy.asleast_2d([])
+p19
+I6253
+sVsignal[period_idxs.astype(numpy.int)]
+p20
+I1941
+sVfrom pylab import *
+p21
+I2335
+sVimport pycuda.autoinit
+p22
+I6708
+sVplot(d6.ids, d6)
+p23
+I3118
+sVflip_array[:,127]
+p24
+I2896
+sVunique(d.Y)
+p25
+I5069
+sVnp.sum(golem.helpers.hard_max(block.Y), axis=1)
+p26
+I5580
+sVd2.xs.reshape(-1,8).shape
+p27
+I3269
+s.

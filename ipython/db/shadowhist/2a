@@ -1,0 +1,53 @@
+(dp1
+V[for x in ['1', '2'], int(x)]
+p2
+I1251
+sVwindow_node =psychic.nodes.OnlineSlidingWindow(1*samplerate, 0.5*samplerate)
+p3
+I739
+sVbla[1,:]
+p4
+I1431
+sVd2[d2.ys[:,0].astype(bool)]
+p5
+I4018
+sVd = d[:-170]
+p6
+I4549
+sVgolem.cv.seq_splits(d2.ninstances,5)
+p7
+I5586
+sVsegments
+p8
+I2682
+sVda = a[1:] - a[0:-1]
+p9
+I1536
+sVxs = matlab['EEG'].T
+p10
+I3181
+sVplt.xlim([0, 40])
+p11
+I990
+sVplot.plot(d5.nd_xs[100:120,:,6].T, '-k')
+p12
+I1502
+sVint( bytes('1\u005c0\u005c0\u005c0\u005c0\u005c0\u005c0\u005c0') )
+p13
+I1754
+sVframes[1,14]
+p14
+I2572
+sVvalues['num_channels'] = 6
+p15
+I2419
+sVpred.xs[:100,:]
+p16
+I4888
+sVd2.xs[1,0]
+p17
+I2577
+sVlda.log
+p18
+I4879
+s.

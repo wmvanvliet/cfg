@@ -1,0 +1,86 @@
+(dp1
+Veegplot.plot_erp(d2[:200], target_samplerate, enforce_equal_n=True, feat_lab=d.feat_lab, baseline_period=(10,20))
+p2
+I4868
+sVplt.savefig('bla.arw', format='raw')
+p3
+I775
+sV3.8 + -0.2
+p4
+I525
+sVpos = (events[:,0] * 100).astype(int)
+p5
+I4107
+sVr.xs
+p6
+I1835
+sVclasses[off_indices[0]:on_indices[0][1] = True
+p7
+I635
+sVplt.plot(window_sizes, acc_array[0,:] )
+p8
+I3341
+sVa.flatten()
+p9
+I1816
+sVd4 = golem.DataSet(Y= vstack(( hstack((zeros((1, 10)), ones((1,10)))), hstack((ones((1,10)), zeros((1,10)))) )), default=d3)
+p10
+I6172
+sVd = golem.DataSet.load('recording.dat')
+p11
+I349
+sVpdb.runcall(cl._extract_trials, d)
+p12
+I4995
+sVdetected_points
+p13
+I2186
+sVbin( (test[4] << 8) & 0x0f000)
+p14
+I518
+sVplt.legend?
+p15
+I2093
+sVtrial_ind
+p16
+I5477
+sVd2 = d[271000:401000]
+p17
+I3124
+sVd3 = golem.DataSet(X=X.reshape(-1, d2.ninstances), feat_shape=(X.shape[1], X.shape[2]), default=d2)
+p18
+I5048
+sVd2[ np.any(d2.Y[trial_ind,:], axis=0) ]
+p19
+I5479
+sVexperiment1.py
+p20
+I5561
+sVrange(13473,13500)
+p21
+I583
+sVeegplot.plot_erp( erp.erp(d2, (200,250), classes=range(1,7)), 1000 )
+p22
+I4298
+sVd == True
+p23
+I5142
+sVw.n_samples_per_record
+p24
+I1772
+sVeegplot.plot_erp(d2, 1000, 20, feat_lab=feat_lab)
+p25
+I3782
+sVw.physical_max = w.physical_max[:5]
+p26
+I2450
+sVnumpy.array(perf)
+p27
+I2077
+sVys[0,:]
+p28
+I271
+sVcat1.readlines()
+p29
+I6672
+s.

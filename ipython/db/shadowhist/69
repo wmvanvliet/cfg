@@ -1,0 +1,101 @@
+(dp1
+VW = jadeR.jadeR( training.ndX.reshape(8,-1) )
+p2
+I5297
+sVA[:,0] = numpy.sin(A[:,0])
+p3
+I1069
+sVclasses[off_indices[0]:on_indices[0][1]] = True
+p4
+I636
+sVplot( mean(d2.nd_xs[d2.ys[:,1],:,:], axis=0)[:,0], 'r' )
+p5
+I3649
+sVreload offline_p300
+p6
+I5736
+sVplt.ylabel('P-value')
+p7
+I3049
+sVeegplot.plot_erps?
+p8
+I3572
+sVplt.ylabel('False positive rate')
+p9
+I2283
+sVimport scipy, numpy
+p10
+I720
+sVoff_incides.shape
+p11
+I623
+sVprint 'LDA:', golem.perf.mean_std(golem.perf.accuracy, golem.cv.cross_validate(golem.cv.seq_splits(d2,2), classifier0))
+p12
+I4904
+sVa[0,:,:].reshape(4,2)
+p13
+I5422
+sVlen(combinations)
+p14
+I5795
+sVr = bdf.BDFReader( open('../Data/Marijn2.bdf') )
+p15
+I2487
+sVgolem.cv.cross_validat
+p16
+I5482
+sVd = d[:65000]
+p17
+I6100
+sVlegend?
+p18
+I3644
+sVd2 = d
+p19
+I6687
+sV[int(x) for x in ['1', '2']]
+p20
+I1252
+sVsys.exc_info()
+p21
+I5539
+sVeegplot.plot_erp( erp.erp(d3, (0,20)), 100)
+p22
+I4202
+sVflatnonzero(d.Y == 1).shape
+p23
+I4780
+sVd2 = bdf.load_bdf('marijn-12-IMECBE-channels.bdf')
+p24
+I3587
+sVd = {'a'='item1', 'b'='item2'}
+p25
+I1224
+sVgolem.helpers.hard_max(pred.X[:10,:])
+p26
+I4890
+sVint(False)
+p27
+I215
+sVi = 0;
+p28
+I3092
+sVeegplot.plot_eeg(d3, 1000, spectogram=False, vspace=0.1)
+p29
+I3277
+sV1000/128
+p30
+I1530
+sVresult.X[np.argmax(result.X,axis=0),range(7)]
+p31
+I6447
+sVpsychic.plot_timeseries(training.X.T.reshape(-1,training.feat_shape[1])[:100,:])
+p32
+I5360
+sVd = collections.defaultdict(int)
+p33
+I5134
+sVdel __
+p34
+I4323
+s.

@@ -1,0 +1,80 @@
+(dp1
+Vnp.argmax(result.X, axis=2) == 0
+p2
+I6452
+sVdir(csp)
+p3
+I1466
+sVvar_explained.
+p4
+I1154
+sVimport classifierp300
+p5
+I4985
+sVstimulation.dtype
+p6
+I3183
+sVeegplot.plot_erp(d2, 1000, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'], baseline_period=(0, 0.2))
+p7
+I3885
+sVb = numpy.array([2,3,4,5])
+p8
+I544
+sVdatetime.datetime(2011, 02, 18, 15, 45)
+p9
+I2411
+sVnp.linalg.det( X.T.dot(X) )
+p10
+I5506
+sVeegplot.plot_eeg(d[32000:3270])
+p11
+I4037
+sVtest.cl_lab
+p12
+I5185
+sVd2 = psychic.slice(d, mdict, (-500, 1000))
+p13
+I3636
+sVd2 = psychic.slice(d, mdict, (100, 400))
+p14
+I4122
+sVint(d.xs[:2,:])
+p15
+I1837
+sVtest[3]
+p16
+I504
+sVw.n_channels = 7
+p17
+I2421
+sVx = numpy.linspace(0, 2*numpy.pi, 10)
+p18
+I1712
+sVhasattr(eegdevices, 'IMECBE')
+p19
+I6084
+sVfig = plt.figure()
+p20
+I783
+sVd2 = np_node.apply(d)
+p21
+I1440
+sVplot.plot(ys)
+p22
+I2380
+sValice = bank.Customer("Alice")
+p23
+I1206
+sVd2 = psychic.slice(d, mdict, (-1400, -1300))
+p24
+I4093
+sVd2 = d[d.ys[:,0]]
+p25
+I1131
+sVys[:200000] = d.ys[:200000]
+p26
+I2764
+sVys2[5281:15281] = 1
+p27
+I2502
+s.

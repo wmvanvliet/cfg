@@ -1,0 +1,97 @@
+(dp1
+Vcov1 = training.get_class(0).X.T.dot(training.get_class(1).X)
+p2
+I5509
+sVd3.ndX.shape
+p3
+I4672
+sVevents[:,0]
+p4
+I4105
+sV0b011110101011
+p5
+I512
+sVint(d.ys[2])
+p6
+I651
+sVdel _118
+p7
+I4325
+sVw = bdfreader.BDFWriter('test.bdf', dataset=d)
+p8
+I1840
+sV(1/120) * -3
+p9
+I529
+sVeegplot.plot_eeg(d2, 1000, vspace=2, spec_channel=2)
+p10
+I3299
+sVplot.plot(numpy.mean(d5.nd_xs[40:45,:,5], axis=0), '-b', linewidth=4)
+p11
+I1528
+sVw.physical_min.append(0)
+p12
+I2449
+sVwhile(a=1):
+p13
+I2789
+sVg
+I483
+sVintensity[0][0][0].shape
+p14
+I3162
+sVica_node.train(train)
+p15
+I5452
+sVeegplot.plot_erp(d3, 100, baseline_period=(0, 10), feat_lab=d.feat_lab, start=0.1, vspace=8)
+p16
+I4822
+sVplot.plot(d2.xs[0:128,2])
+p17
+I2589
+sVX2 = X.reshape(74,8,100).T
+p18
+I5310
+sVplot.plot( mean(d2.nd_xs[10:20,:,:], axis=0) )
+p19
+I4081
+sVplot(d2.ys[1:10,1])
+p20
+I3689
+sVw = bdf.BDFWriter('../data/marijn-p300-full-1-resampled.bdf', values=values)
+p21
+I4849
+sVuints[:].shape
+p22
+I1789
+sVnumpy.array([[1,0]]).repeat(10, axis=0)
+p23
+I2710
+sVidx
+p24
+I1669
+sVnp.max?
+p25
+I3396
+sVeegplot.plot_erp(d2, 200, enforce_equal_n=False)
+p26
+I4832
+sVblock = d[54415:87448]
+p27
+I4279
+sVany(any(abs(d3.ndX) > 100, axis=0), axis=0)
+p28
+I6591
+sVnp.double
+p29
+I1076
+sVr = bdf.BaseBDFReader('../data/marijn-12-IMECBE.bdf')
+p30
+I3546
+sVeegplot.plot_erp(d3[1], 100 )
+p31
+I4252
+sVfor idx,freq in enumerate(a): classlab[:,idx] = numpy.flatten(a2 == freq)
+p32
+I1386
+s.

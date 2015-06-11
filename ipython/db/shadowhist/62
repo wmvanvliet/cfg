@@ -1,0 +1,80 @@
+(dp1
+Vnp.unique?
+p2
+I5122
+sV128/11.0
+p3
+I2014
+sVtest = cPickle.load( open('test.dat', 'rb') )
+p4
+I379
+sVnp.any?
+p5
+I192
+sV10/4.0
+p6
+I5602
+sVnoise = d2.xs - Pa.dot(d2.xs)
+p7
+I1092
+sVplot.plot(d5.nd_xs[10:20,:,5].T)
+p8
+I1479
+sVnonzero( diff(ps[:,0] < 0.05)
+p9
+I4365
+sVi._is_valid?
+p10
+I4501
+sVd = d2[:65000]
+p11
+I6127
+sVplot.plot(d5.nd_xs[40:50,:,5].T, '-k')
+p12
+I1525
+sVbin(test[3+1] << 4)
+p13
+I507
+sVimport cvxopt.base as cvx
+p14
+I6395
+sV45*128
+p15
+I1867
+sVplt.plot(d.ids[0:1000], d.xs[0:1000,2])
+p16
+I475
+sVnumpy.vstack(intensity)
+p17
+I3166
+sVeegplot.plot_erp(d2[10:100], target_samplerate, enforce_equal_n=True, feat_lab=d.feat_lab)
+p18
+I4855
+sVdetected_points = numpy.concatenate( (detected_points, [d3.ninstances-1]), axis=1 )
+p19
+I2187
+sVframe = r.decode_frame(test[0:27])
+p20
+I497
+sVcl.train()
+p21
+I4991
+sVtest = golem.DataSet.load('S9.dat')
+p22
+I236
+sVcvx.matrix?
+p23
+I6394
+sVplt.plot(np.mean( d2.nd_xs[60,:,:,:], axis=0 ).shape)
+p24
+I85
+sVaucfilt.train(train_set)
+p25
+I4929
+sVdata2 = cPickle.load( open('test2.dat', 'rb') )
+p26
+I370
+sVtraining.X
+p27
+I5418
+s.

@@ -1,0 +1,65 @@
+(dp1
+Vflatnonzero(d.Y > 100)
+p2
+I5067
+sVplot.plot(mean(differences, axis=0), linewidth=4)
+p3
+I6661
+sVxs = np.vstack([d.X, np.zeros((1, d.ninstances), dtype=numpy.int)]) - np.atleast_2d(np.mean(d.X, axis=0)).repeat(9, axis=0)
+p4
+I3456
+sVd4.get_class(0)
+p5
+I5811
+sVa[v]
+p6
+I202
+sVeegplot.plot_eeg(d.xs, 128)
+p7
+I1302
+sVd3.Y[0,0]
+p8
+I6347
+sVnp.argmax(result.X, axis=0)
+p9
+I6457
+sVnp.rollaxis(np.tile(a.T, [3,1,1]), 2)[:,:,1]
+p10
+I5243
+sVfrom collections import deque
+p11
+I6559
+sVdiff(pos[:11]0
+p12
+I4112
+sVys.append(d.ys == 4)
+p13
+I3217
+sV%edit -x compare_devices.py
+p14
+I3319
+sVa = numpy.atleast_2d([])
+p15
+I6254
+sVplt
+p16
+I3505
+sVys[:,0] = (d.ys == 1)[:,0]
+p17
+I823
+sVblock.Y
+p18
+I4975
+sVgolem.perf.accuracy(perf[1])
+p19
+I3976
+sVplot.plot(differences)
+p20
+I6657
+sVcongruent_pairs[congruent_ind==0]
+p21
+I5467
+sVpdb.set_trace?
+p22
+I3624
+s.

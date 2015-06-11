@@ -1,0 +1,89 @@
+(dp1
+V7*0.5
+p2
+I3008
+sVa[0]*b
+p3
+I925
+sVm = re.match(r'^(.*?)(\u005cd*)(\u005c.(.*))?$', 'hello-01.bdf')
+p4
+I6005
+sV15352/128.0
+p5
+I1290
+sVslic_node = slic.Slic([20, 15], samplerate)
+p6
+I740
+sVtitle('Classifier performance')
+p7
+I6494
+sVzip(block_onsets, block_lengths)
+p8
+I4772
+sVd = bdf.load_bdf('../data/arne-present_words-2-imecbe.bdf')
+p9
+I6188
+sVclassifier0.const
+p10
+I5106
+sV30/7.0
+p11
+I1992
+sVplt.plot(classlab)
+p12
+I1392
+sVb.imaginary_funds
+p13
+I1218
+sVeegplot.plot_eeg?
+p14
+I1303
+sVd5 = window_node.apply(d3)
+p15
+I3122
+sVplot.plot(d2.xs[10000:12000,0])
+p16
+I3584
+sVplt.plot(window_sizes, numpy.mean(fps_array[imec,:], axis=0), 'c-^', label='IMEC - FPR')
+p17
+I2305
+sVpdb.runcall(eegplot.plot_erp(d3, samplerate, baseline_period=(0, 0.1*samplerate), feat_lab=d.feat_lab )\u000a)
+p18
+I4386
+sVa[1,1,:]
+p19
+I5414
+sVbp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0/(s/2.0), 15/(s/2.0)]) )
+p20
+I6333
+sVint(a[-1])
+p21
+I5147
+sVlogfile
+p22
+I6197
+sVplt.plot(d2.ids, d2.xs[:,0])
+p23
+I676
+sVr = bdfreader.BaseBDFReader( open('test.bdf') )
+p24
+I1753
+sVimport jadeR
+p25
+I5296
+sV%run anim.py /Users/rodin/kuleuven/N400/data/marijn-present_words-2-imecbe.bdf
+p26
+I6252
+sV:w
+p27
+I4303
+sVquit*()
+p28
+I719
+sVdata = cPickle.open('test.dat')
+p29
+I353
+sVplt.plot(periods[5,:,:], '-k')
+p30
+I3311
+s.

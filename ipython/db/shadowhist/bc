@@ -1,0 +1,92 @@
+(dp1
+Vplt.plot(d3.nd_xs[0,:,:])
+p2
+I4662
+sVeegplot.plot_erp(d2[1:49], 100)
+p3
+I4562
+sVeegplot.plot_erp(d3[:-1], 1000, feat_lab=d.feat_lab, pval=0.05, vspace=10)
+p4
+I6221
+sVplot(d6.ids, d6.ys[:,2])
+p5
+I3120
+sVscipy.stats.binom_test(1,8)
+p6
+I3022
+sVshape(X)
+p7
+I5312
+sVgolem.class_loss(classified_blocks)
+p8
+I6472
+sVplot.plot(numpy.mean(d5.nd_xs[30:40,:,5], axis=0), '-b', linewidth=4)
+p9
+I1520
+sVplt.plot(window_sizes, acc_array[imec,:] )
+p10
+I3336
+sVversion()
+p11
+I38
+sVa = np.array([[1,2,3],[4,5,6]])
+p12
+I3555
+sVplt.plot(ids, d3.xs)
+p13
+I230
+sVd3 = bp_node.apply(d2)
+p14
+I2351
+sVplt.plot(window_sizes, 100*numpy.mean(acc_array[imec,:], axis=0), 'b-s', label='IMEC - Acc.')
+p15
+I2325
+sVreload psychic
+p16
+I1751
+sVto_idx = numpy.nonzero(d.ys == 1)[0][-1]
+p17
+I2661
+sVys[:670] = 2
+p18
+I2466
+sVplt.plot(window_sizes, numpy.mean(acc_array[imec,:], axis=0), '-s', label='IMEC - Acc.')
+p19
+I2272
+sVd2 = psychic.slice(d, mdict, (-1500, -1400))
+p20
+I4092
+sVbla
+p21
+I146
+sVcd ../Python
+p22
+I2843
+sVsvm_node = golem.nodes.SVM()
+p23
+I6399
+sVdev?
+p24
+I835
+sVfd = numpy.nonzero(d.ys.astype(numpy.int)[1:] - d.ys.astype(numpy.int)[:-1])
+p25
+I2704
+sVfigure;
+p26
+I3808
+sVeegplot.plot_eeg(d4, 1000, spec_channel=1, vspace=5)
+p27
+I2358
+sVm = np.fromfile('markers.log')
+p28
+I5855
+sVnp.any([a,b], axis=1)
+p29
+I205
+sVnumpy.vstack(intensity[0][0])
+p30
+I3174
+sVX4 = np.rollaxis(X3.T, 1, -2)
+p31
+I5429
+s.

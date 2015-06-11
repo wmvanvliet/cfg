@@ -1,0 +1,94 @@
+(dp1
+Vintensity[1]
+p2
+I3157
+sVd2 = fft_node.apply(d2)
+p3
+I3921
+sVpca.fracs
+p4
+I1101
+sVd2 = training + test
+p5
+I5528
+sVplot.plot(freqs[:50]*1000, numpy.abs(w[:50]) )
+p6
+I1986
+sVdata
+p7
+I360
+sVlegend(['within category', 'between category'], loc='upper left')
+p8
+I6281
+sVcutoff = numpy.where(var_explained <= 0.001)[0]
+p9
+I1160
+sVnumpy.nonzero( d.ys == 1 )[0][0]
+p10
+I2339
+sV]
+I2820
+sVmax(d.ys)
+p11
+I653
+sVd.ys = ys
+p12
+I157
+sVd = psychic.load_bdf('/Volumes/NO NAME/Subject15.bdf')
+p13
+I2822
+sVnp.all([3,3,3] == 3)
+p14
+I5025
+sV128 %12.8
+p15
+I1880
+sVgolem.perf.class_loss(classified_blocks)
+p16
+I6473
+sV1 < a & a < 6
+p17
+I5156
+sVnumpy.append(a, a+da, axis=1)
+p18
+I1550
+sVplot.plot(d5.nd_xs[100:110,:,4].T, '-b')
+p19
+I1486
+sVeegplot.plot_erp( erp.Mean(axis=2).apply(d3), 100, feat_lab=d.feat_lab, enforce_equal_n=False, baseline_period=(0,10) )
+p20
+I5780
+sVd.Y
+p21
+I3404
+sVnp.mean([1,2,3,4])
+p22
+I115
+sV[1, a]
+p23
+I603
+sVa[:,1,0]
+p24
+I5405
+sVidx = numpy.ceil( numpy.linspace(0, len(a)-1, len(a)*7.5/10.0) )
+p25
+I1673
+sVcross_validate(subsets, classifier, True).next()
+p26
+I5554
+sVnumpy.pi
+p27
+I1027
+sVeegplot.plot_eeg(d2, 1000, vspace=10, spec_channel=0)
+p28
+I3300
+sVeegplot.plot_erp(d2, 1000, 50, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p29
+I3816
+sVd3.ninstances
+p30
+I2063
+sVw = bdf.BDFWriter('../Data/Subject6-EPOC.bdf', values=values)
+p31
+I2741
+s.

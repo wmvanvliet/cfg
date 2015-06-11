@@ -1,0 +1,80 @@
+(dp1
+Veegplot.plot_erp_spectograms(trial_erp, 100)
+p2
+I6182
+sVeegplot.plot_erp(d2[12:], 100)
+p3
+I4576
+sVreal_points.repeat(2, axis=1)
+p4
+I2140
+sVplot(dropped[:,0], dropped[:,2])
+p5
+I6028
+sVa = range(0.0,10.0,1.5)
+p6
+I1909
+sVr.read_header()
+p7
+I1749
+sVd3.X.shape
+p8
+I4671
+sV%run offline_p300.py
+p9
+I3966
+sVa.reshape(2,8)
+p10
+I5415
+sVbla.ndX[:,:,0].T.shape
+p11
+I6267
+sVraw[0:27]
+p12
+I496
+sVplot.plot(d5.nd_xs[74:84,:,5].T, '-k')
+p13
+I1494
+sVb = numpy.atleast_2d( numpy.arange(1,3, dtype=numpy.float64) )
+p14
+I1621
+sVeegplot.plot_erp(d2, 100, baseline_period=(0, 50), classes=[0,1,2], feat_lab=d.feat_lab)
+p15
+I4411
+sVtest[4] << 4
+p16
+I400
+sVquit()
+p17
+I15
+sVimport numpy as np
+p18
+I5
+sV1 << 7
+p19
+I2880
+sVzip(1, [3,4,5])
+p20
+I4391
+sVplot.savefig('../Presentations/Poster/freq.pdf', format='pdf')
+p21
+I1988
+sVpsychic.utils.get_samplerate(d2)
+p22
+I1011
+sVimport gc
+p23
+I4273
+sVeegplot.plot_eeg(d3, vspace=10)
+p24
+I3767
+sVtargets.shape
+p25
+I3205
+sVimport selectserver2
+p26
+I3351
+sV128*15*24
+p27
+I2584
+s.

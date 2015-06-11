@@ -1,0 +1,100 @@
+(dp1
+Vxs = numpy.ascontiguousarray(d2.xs[::factor,:]).astype(d.xs.dtype)
+p2
+I1447
+sVeegplot.plot_erp(d2, 1000, 10, (0, 10))
+p3
+I3771
+sVplt.title('N=7')
+p4
+I3050
+sVd.append(1)
+p5
+I6562
+sVeegplot.plot_erp(d3, 1000, feat_lab=d.feat_lab, pval=0.05, vspace=10, )
+p6
+I6235
+sVd2 = psychic.slice(d, {1:'target', 2:'nontarget'}, (-50, 64))
+p7
+I3746
+sVd.ids[:10]
+p8
+I2656
+sVs.listen(5)
+p9
+I3061
+sVb = numpy.atleast_2d( numpy.arange(1,11) )
+p10
+I1615
+sVeegplot.plot_erp(d2[200:400], 100, baseline_period=(0, 0.2), feat_lab=d.feat_lab, start=0, classes=[0,1])
+p11
+I4075
+sVd2 = golem.DatdaSet(ys=ys, cl_lab=['Status'], default=d)
+p12
+I2482
+sVd = deque()
+p13
+I6561
+sVsignal = numpy.atleast_2d(signal).repeat(10, axis=0).T
+p14
+I1945
+sVda
+p15
+I1537
+sVimport eeg_plot
+p16
+I3125
+sVN
+I4737
+sVplt.plot(tp_rate, fp_rate, '-x')
+p17
+I2260
+sVd = d[:16000]
+p18
+I2510
+sVeegplot.plot_erp(d2, 1000, vspace=3, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p19
+I3826
+sV1/ (d.ids[1] - d.ids[0])
+p20
+I1683
+sVb = bank.Bank()
+p21
+I1203
+sVnumpy.arange(math.floor(1.5) )
+p22
+I1935
+sVpsychic.plot_timeseries( np.rollaxis(training.ndX,-1).reshape(8,-1).T )
+p23
+I5263
+sVeegplot.plot_erp(d2[:200], 100, baseline_period=(0,0.5), vspace=5)
+p24
+I4151
+sVplot.plot(numpy.mean(d5.nd_xs[130:140,:,5], axis=0), '-r', linewidth=1)
+p25
+I1515
+sVdev = usb.core.find?
+p26
+I838
+sVmdict = {1:'nontarget', 2:'target', 3:'nontarget', 4:'nontarget', 5:'nontarget', 6:'nontarget'}
+p27
+I4434
+sVnp.sum(golem.helpers.hard_max(block.Y), axis=0)
+p28
+I5581
+sVnp.mean(d.X, axis=0).repeat(8, axis=0).shape
+p29
+I3442
+sVmean(timing_slow)
+p30
+I5880
+sVdev.get_active_configuration
+p31
+I860
+sVplot.plot( d.xs[128,:] )
+p32
+I2640
+sVr = bdf.BDFReader('../data/marijn-12-IMECBE-channels-resampled.bdf')
+p33
+I6106
+s.

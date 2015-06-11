@@ -12,48 +12,52 @@ alias lf	ls --color=auto -FA
 alias ll	ls --color=auto -lAh
 alias ls	ls --color=auto -G
 alias lh	ls --color=auto -lh
-
+alias apg	apg -q -m 10 -x 10 -M NC -n1
 
 # A righteous umask
 umask 22
 
-set path = ($HOME/.local/bin /sbin /bin /usr/sbin /usr/bin /usr/games /usr/local/texlive/2013/bin/amd64-freebsd /usr/local/sbin /usr/local/bin /usr/local/kde4/bin $HOME/bin)
-
 setenv	CLICOLOR true
+setenv  LSCOLORS Exfxcxdxbxegedabagacad
+setenv	LC_ALL en_US.UTF-8
+setenv	LANG en_US.UTF-8
 setenv	EDITOR	vim
 setenv	PAGER	more
 setenv	BLOCKSIZE	K
-setenv	BROWSER firefox
-setenv	PYTHONPATH "$HOME/bciserver:$HOME/psychic:$HOME/golem:$HOME/toolboxes/python:$HOME/mne-python:$HOME/meet"
-setenv  MOZ_PLUGIN_PATH "/usr/local/lib/browser_plugins"
-
-alias cpv "rsync -avr --progress -e ssh"
-alias cpa "rsync -avr --append --progress -e ssh"
-
-alias ipy "ipython qtconsole --pylab & ; gvim"
+setenv	BROWSER opera
+setenv  ETS_TOOLKIT qt4
 
 if ($?prompt) then
-	set prompt = '%{\033[33m%}%T %~>%{\033[0m%} '
-
 	# An interactive shell -- set some stuff up
-	switch ($TERM)
-    	case "xterm*":
-       		breaksw
-    	default:
-       		breaksw
-	endsw
-	set autolist = ambiguous
-	set complete = enhance
-	set correct = cmd
+	set prompt = "\n%{\033[33m%}%T %/>%{\033[0m%} "
 	set filec
-	#set autocorrect
-	set filec
-	set history = 100
-	set savehist = 100
-	set mail = (/var/mail/$USER)
+	set history = 2000
+	set savehist = (2000 merge)
+	set histfile = ~/.history
 	if ( $?tcsh ) then
 		bindkey "^W" backward-delete-word
 		bindkey -k up history-search-backward
 		bindkey -k down history-search-forward
 	endif
+	set autolist
+	set complete = igncase
+	set matchbeep = nomatch
+	set noclobber
+	set rmstar
+	set implicitcd
 endif
+
+bindkey "\e[1~" beginning-of-line  # Home
+bindkey "\e[7~" beginning-of-line  # Home rxvt
+bindkey "\e[2~" overwrite-mode     # Ins
+bindkey "\e[3~" delete-char        # Delete
+bindkey "\e[4~" end-of-line        # End
+bindkey "\e[8~" end-of-line        # End rxvt
+
+alias cpv 'rsync -vae ssh --progress'
+alias cpa 'rsync -vae ssh --progress --append'
+
+alias cpv2 'rsync -vae "ssh -p5000" --progress'
+alias cpa2 'rsync -vae "ssh -p5000" --progress'
+
+source .cshrc.local

@@ -1,0 +1,59 @@
+(dp1
+Veegplot.plot_eeg(d2, spectogram=Ture)
+p2
+I3466
+sVbp_node = phychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(3, [0.5/(s/2.0), 15/(s/2.0)]) )
+p3
+I6123
+sVeegplot.plot_erp(d2, 1000, vspace=1, feat_lab=['Fz', 'Cz', 'Pz', 'C3', 'C4', 'P3', 'P4', 'AF3'])
+p4
+I3824
+sVnumpy.concatenate(real_points, 1)
+p5
+I2178
+sVplot.plot(d.ids[from_idx:to_idx], d.ys[from_idx:to_idx])
+p6
+I2775
+sVm = re.match(r"([^,]+,)", "bla,")
+p7
+I6519
+sVplot( mean(d2.nd_xs, axis=0)[:,0] )
+p8
+I3647
+sVys.shape
+p9
+I269
+sVnonzero( diff(ps[:,3] < 0.05( )
+p10
+I4370
+sVeegplot.plot_erp(d3, 1000, feat_lab=d.feat_lab, pval=0.05, vspace=10, baseline_period=(500,1000) )
+p11
+I6236
+sVnumpy.concatenate(([1], [2,3,4]))
+p12
+I610
+sVresample_node
+p13
+I5064
+sVnp.rollaxis(b.T,-1).shape
+p14
+I5279
+sVplot(d2.Y.T)
+p15
+I6111
+sVplt.plot(random_epoc[:,0])
+p16
+I2931
+sVeegplot.plot_erp(d2[:-10], 1000, feat_lab=d.feat_lab, pval=0.05, vspace=15, start=0)
+p17
+I6293
+sVdir(eegdevices)
+p18
+I6080
+sVintensity = matlab['stimulation']['Intensity']
+p19
+I3154
+sVeegplot.plot_erp(d4, 1000, (0, 300))
+p20
+I4418
+s.

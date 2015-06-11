@@ -1,0 +1,83 @@
+(dp1
+Vm.group()
+p2
+I5993
+sVys2.shape
+p3
+I153
+sVblock.cl_lab
+p4
+I5568
+sVblock_lengths = numpy.hstack( (numpy.diff(block_onsets), d.ninstances-block_onsets[-1]) )
+p5
+I6539
+sVhi = numpy.floor( numpy.linspace(0,4,10) )
+p6
+I1692
+sVperiod_idxs = x+y
+p7
+I1923
+sVnumpy.atleast_2d( numpy.arange(10) ).repeat( (1,2) )
+p8
+I1042
+sVmatches(0)
+p9
+I707
+sV9472*2
+p10
+I2576
+sVplot(drift[:,0], drift[:,2])
+p11
+I6039
+sVnumpy.nonzero(d.ys[:,0])[0].astype(numpy.int)[1:,0] - numpy.nonzero(d.ys[:,0])[0].astype(numpy.int)[:-1,0]
+p12
+I2365
+sVfor label in d.Y.flatten():\u000a    print label
+p13
+I4801
+sVd2 = fft_node.train_apply(d,d)
+p14
+I6105
+sVany(abs(d3.ndX) > 100, axis=2)
+p15
+I6585
+sVdir(f)
+p16
+I1276
+sV60/9.0
+p17
+I108
+sVimport eegdevices
+p18
+I6079
+sV7840-5280
+p19
+I2507
+sVnumpy.atleast_2d(numpy.arange(2))
+p20
+I1296
+sVtr = pca.apply(training)
+p21
+I5534
+sVlegend('off')
+p22
+I6278
+sVscipy.stats.binom_test(0,7)
+p23
+I3015
+sVnumpy.arange(0.2,2.0,0.1)
+p24
+I2173
+sVys = numpy.array(d.ys, dtype=numpy.int)
+p25
+I1403
+sVvalues = {'local_recording_id':'Test recording', 'local_subject_id':'Marijn van Vliet', 'num_channels':8, 'start_date':'03.02.11', 'start_time':'11.20.50'}
+p26
+I1743
+sVplt.plot(d.ids, d.xs[:,3])
+p27
+I732
+sVlogging.FileHandler?
+p28
+I347
+s.

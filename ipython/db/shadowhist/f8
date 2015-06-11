@@ -1,0 +1,64 @@
+(dp1
+Va = numpy.arange(10)*19
+p2
+I1348
+sVnonzero(ps[:,3] < 0.05)
+p3
+I4369
+sVplt.plot(d4.ids, d4.xs
+p4
+I1418
+sV{1:1 for x in range(5)}
+p5
+I4957
+sVreject = np.any(np.any(np.abs(d3.ndX) > 100, axis=0), axis=0)
+p6
+I6599
+sVnp.argmax( np.max(a,axis=1) - np.min(a,axis=1) )
+p7
+I3070
+sVtrials2
+p8
+I4980
+sVeegplot.plot_eeg(trial, draw_markers=0)
+p9
+I6137
+sVd2 = d[271000:301000]
+p10
+I3111
+sVy
+I998
+sVhstack(ys).shape
+p11
+I3220
+sVd2 = psychic.slice(d3, mdict, (0, 128))
+p12
+I3657
+sVnumpy.arange(0, 128, round(128/10.0))
+p13
+I1609
+sVnumpy.nonzero( d.ys == 2 )[0][-1]
+p14
+I2344
+sVplot.plot(d5.nd_xs[:,:,4].T)
+p15
+I1482
+sVplot( vstack((diff(m[:,0]), timing/1000.0)).T )
+p16
+I5928
+sVplt.plot(acc_array).T
+p17
+I2854
+sVd3 = d2.get_class(0)[:100] + d2.get_class(1)[:100]
+p18
+I5777
+sVreload ICA
+p19
+I5341
+sVmin(d2.ids)
+p20
+I744
+sV[1:1 for x in range(5)]
+p21
+I4958
+s.

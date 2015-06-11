@@ -1,0 +1,89 @@
+(dp1
+Vys[:,0] = = self.data.ys == 1
+p2
+I817
+sVplot.plot(numpy.mean(d5.nd_xs[110:120,:,5], axis=0), '-b', 'linewidth', '4')
+p3
+I1510
+sVplt.legend(['IMEC', 'EPOC'], loc='lower right')
+p4
+I2107
+sVfrom matplotlib.pyplot import *
+p5
+I3073
+sVscipy.stats.ttest?
+p6
+I4348
+sVselectserver.setup('session1')
+p7
+I2792
+sVgolem.perf.auc?
+p8
+I5845
+sVnumpy.mean(d.xs)
+p9
+I957
+sVnp.sum(np.sum(d2.ndX, axis=0), axis=0)
+p10
+I4718
+sVnumpy.ascontiguousarray(uints & 0xff)[:]
+p11
+I1788
+sV8*256
+p12
+I1829
+sVplt.plot(A)
+p13
+I1081
+sVflatnonzero(Y)
+p14
+I6202
+sVplt.plot(window_sizes, acc_array[imec,:].T )
+p15
+I3337
+sVd3 = d2.get_class(5)[0] + d2.get_class(6)[0] + d2.get_class(7)[0] + d2.get_class(8)[0] + d2.get_class(9)[0] + d2.get_class(10)[0] + d2.get_class(11)[0] + d2.get_class(12)[0] + d2.get_class(13)[0] + d2.get_class(14)[0]
+p16
+I6168
+sVnumpy.where(var_explained <= 0.1)
+p17
+I1145
+sVclassifier0.S_is[1].shape
+p18
+I5112
+sVa2.shape
+p19
+I1362
+sVd3 = golem.DataSet(X=X.reshape(-1, d2.ninstances), feat_shape=(len(classification_channels), len(classifcation_window)), default=d2)
+p20
+I5050
+sVeegplot.plot_erp(d2, 100, vspace=500)
+p21
+I4009
+sVxs[1:100,:]
+p22
+I3563
+sVreload reject_trials
+p23
+I6270
+sVimport imec
+p24
+I372
+sV9/23.0 * 100
+p25
+I3361
+sVprint '%b' % data[3]
+p26
+I361
+sVfig.
+p27
+I764
+sVplot.plot(range(1000), d3.xs[7000:8000,1])
+p28
+I1969
+sVnp.tile(markers[0,1], markers[0,2]*d.samplerate)
+p29
+I144
+sVnumpy.sin(A[:,0])
+p30
+I1073
+s.

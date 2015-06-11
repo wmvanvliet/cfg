@@ -1,0 +1,92 @@
+(dp1
+Vtest = subsets[-1:]
+p2
+I5764
+sVc.shape
+p3
+I320
+sVargmax(a)
+p4
+I3915
+sVperiods = signal[period_idxs.astype(numpy.int).T]
+p5
+I1950
+sVfor i in range(50):\u000a    mdict[i+50] = 1
+p6
+I3631
+sVys = np.hstack(labels)
+p7
+I311
+sVd.save('marijn-p300-imec.dat')
+p8
+I4321
+sVblock.feat_shape
+p9
+I5685
+sVeegplot.plot_erp( chaim.apply(d2), 100, feat_lab=d.feat_lab, enforce_equal_n=False, baseline_period=(0,10) )
+p10
+I5775
+sVplot.plot(performance[:,0], performance[:,1])
+p11
+I6419
+sVpsychic.plot_timeseries(d2.nd_xs[2:,:,:])
+p12
+I4591
+sVd.xs[20000:20100,:]
+p13
+I3578
+sVgolem.perf.mean_std(golem.perf.accuracy, golem.cv.cross_validate(golem.cv.seq_splits(d3,5), svm) )
+p14
+I4461
+sVnp.vstack( acc_array[imec,8], acc_array[epoc,8] )
+p15
+I2945
+sVnumpy.arange?
+p16
+I943
+sVw.values
+p17
+I1841
+sVnp.atleast_3d(a).shape
+p18
+I6554
+sVselectserver.SERVER.join(3)
+p19
+I2802
+sVw.units = w.units[:5]
+p20
+I2446
+sVplt.plot(arange(6, 25, 1/(120*128)))
+p21
+I1315
+sVf = open('bla.dat', 'w')
+p22
+I1768
+sVimec_results[:,1]
+p23
+I3019
+sVd.ids[1] - d.ids[0]
+p24
+I1681
+sVeegplot.plot_spectograms(trial_erp2)
+p25
+I6176
+sVeegplot.plot_eeg(d2[-10000:])
+p26
+I4558
+sV23000/15/12
+p27
+I3492
+sVdel ___
+p28
+I4324
+sVnumpy.nonzero( diff )
+p29
+I1138
+sVnumpy.zeros(3,1)
+p30
+I1281
+sVlegend(loc='best')
+p31
+I6297
+s.

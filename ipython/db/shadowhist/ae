@@ -1,0 +1,59 @@
+(dp1
+Vd.items()
+p2
+I5140
+sV1028 / 1000.0
+p3
+I578
+sVd = bdf.load_bdf('test23.bdf')
+p4
+I5932
+sV10/4.0 == 2.5
+p5
+I5603
+sVd = golem.DataSet(xs=xs, ys=ys, ids=np.atleast_2d(arange(xs.shape[0])/1000.0))
+p6
+I3208
+sVclasslab = numpy.zeros([128*120,10])
+p7
+I1391
+sVm.groups(5)
+p8
+I6510
+sVnp.argmax(result[0,:])
+p9
+I6467
+sV1 % 40
+p10
+I5076
+sVeegplot.plot_erp(d2)
+p11
+I4511
+sVplot.plot(timing)
+p12
+I5867
+sVvalues = {'local_recording_id':'Test recording', 'local_subject_id':'Marijn van Vliet', 'n_channels':6, 'start_date':'03.02.11', 'start_time':'11.20.50', 'n_samples_per_record':[2,2,2,2,2,2]}
+p13
+I1834
+sVm.end()
+p14
+I6015
+sVprint '%08d' % w.physical_min[2]
+p15
+I2430
+sVmarkers
+p16
+I172
+sVa = array([[[1,2,3,4],[5,6,7,8]],[[9,10,11,12],[13,14,15,16]])
+p17
+I5385
+sVtrial = d[240846:241396]
+p18
+I6147
+sVplt.specgram(d.xs[:,0], Fs=128, NFFT=128)
+p19
+I982
+sVeegplot.plot_eeg(d[63000:67000])
+p20
+I4144
+s.

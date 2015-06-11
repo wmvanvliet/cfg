@@ -1,0 +1,85 @@
+(dp1
+Veegplot.plot_eeg(d[-3000:-600])
+p2
+I4538
+sVw = bdf.BDFWriter('marijn-12-IMECBE-channels-resampled.bdf', values=values)
+p3
+I3732
+sVfpritnf
+p4
+I50
+sVplt.plot(window_sizes, accuracy, '-s', label='Accuracy')
+p5
+I2270
+sVm = cvx.matrix([[1,2,3,4]])
+p6
+I6397
+sVX3 = X2.reshape(8, 74, 100)
+p7
+I5367
+sV0.5**6 * 7
+p8
+I3012
+sVw.close(0
+p9
+I3592
+sV79+77
+p10
+I2332
+sVw.transducer_type = w.transducer_type[:6]
+p11
+I2433
+sVdiff(ps[:,3] < 0.05 )
+p12
+I4377
+sVframes[0,15]
+p13
+I2571
+sVnp.mean(d2.nd_xs[35,:,:,0], axis=1)
+p14
+I76
+sVys = numpy.nonzero(d.ys == 0)[0]
+p15
+I2496
+sVset(d2.ninstances_per_class)
+p16
+I5027
+sVscipy.signal.resample?
+p17
+I1733
+sVplot.plot(d5.nd_xs[:,:,0].T)
+p18
+I1477
+sVm
+I248
+sVsignal[:,5]
+p19
+I1946
+sVd2.ninstances_per_class
+p20
+I3862
+sVcomplete_classifier
+p21
+I5825
+sV%reset
+p22
+I1020
+sVaxhline(6/7.0)
+p23
+I6430
+sVd.ninstances
+p24
+I2048
+sVnp.logspace(1,50,10)
+p25
+I4632
+sVa[1,0,:]
+p26
+I5397
+sVlen(intensity[0])
+p27
+I3169
+sVlen(range(13473,13500))
+p28
+I584
+s.

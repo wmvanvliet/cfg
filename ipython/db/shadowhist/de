@@ -1,0 +1,89 @@
+(dp1
+Vscipy.stats.wilcoxon(data[:,0], data[:,1])
+p2
+I2990
+sVreload erp
+p3
+I4422
+sVtarget_idx = range(d2.get_class('target').ninstances)
+p4
+I5074
+sVs.dave("ssvep.dat
+p5
+I158
+sVtarget.shape
+p6
+I3836
+sVscipy.stats.binom_test(2,20)
+p7
+I3025
+sVplt.plot(window_sizes.T, acc_array[imec,0] )
+p8
+I3340
+sVrect
+p9
+I2136
+sVplt.plot(d.ids, d.ys[:,0])
+p10
+I591
+sVeegplot.plot_eeg(d[8000:58000],1000)
+p11
+I3437
+sVplot.plot(d5.nd_xs[54:64,:,5].T, '-k')
+p12
+I1492
+sVa = numpy.array([1,1,1,0,0,1,1])
+p13
+I797
+sVd3 = golem.DataSet(X=X.reshape(-1, d2.ninstances), feat_shape=(6,80), default=d2)
+p14
+I5049
+sVsvm_node.train(train[:100])
+p15
+I6400
+sVd2.I.shape
+p16
+I5044
+sVX = X.reshape(-1, d2.ninstances)
+p17
+I5046
+sVrange(1, training.nclasses)
+p18
+I5631
+sVd2 = window_node.apply(d)
+p19
+I884
+sVd = bdf.load_bdf('imecbe-oddball-58.bdf')
+p20
+I6033
+sVd = psychic.load_bdf('../Data/Marijn2.bdf')
+p21
+I2485
+sVlen(d2.feat_lab)
+p22
+I2473
+sVmax(block.Y[0, block.Y<100])
+p23
+I4777
+sVd2.ys[0].repeat(2)
+p24
+I3254
+sVplot.plot(d.xs[:100,0])
+p25
+I2581
+sVtargets = flatnonzero(d.ys>100)
+p26
+I4756
+sV%run anim.py
+p27
+I6305
+sVpre = golem.nodes.Chain([self.bp_node = psychic.nodes.OnlineFilter( lambda s : scipy.signal.iirfilter(3, [bandpass[0]/(s/2.0), bandpass[1]/(s/2.0)]) )
+p28
+I5850
+sVhstack((np.atleast_2d(mouse_class), ys))
+p29
+I3098
+sVys = numpy.array(d3.ys, dtype=numpy.int)
+p30
+I1402
+s.

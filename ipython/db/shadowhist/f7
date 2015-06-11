@@ -1,0 +1,77 @@
+(dp1
+Vselectserver.SERVER
+p2
+I2794
+sV23000/12
+p3
+I3491
+sVhi - numpy.linspace(0,4,10)
+p4
+I1701
+sVxs = np.vstack([d.X, np.zeros(8, d.ninstances), dtype=numpy.int]) - np.atleast_2d(np.mean(d.X, axis=0)).repeat(9, axis=0)
+p5
+I3450
+sVflatnonzero(d.ys)[195:205]
+p6
+I4140
+sVd.Y[flatnonzero(d.Y)][0,:100]
+p7
+I6192
+sVd2 = golem.DataSet(ids = numpy.atleast_2d(numpy.arange(d.ninstances)/128.0), default=d)
+p8
+I2732
+sVa = d.xs[1:10,0]
+p9
+I1808
+sVtrain =  d3[d3.ys[:30,0].astype(bool)] + d3[d3.ys[:30,1].astype(bool)]
+p10
+I4472
+sVpred.xs[:10,:]
+p11
+I4886
+sVplot.xlim(0,100)
+p12
+I2143
+sVpdf.set_trace?
+p13
+I3623
+sVtime
+p14
+I3575
+sVeegplot.plot_eeg
+p15
+I4031
+sVrandom_imec[3,:]
+p16
+I2910
+sVzip(a,b)
+p17
+I4748
+sVmin(d.ids)
+p18
+I881
+sVdir(classifier0.nodes[0])
+p19
+I4898
+sVwindow_node = psychic.nodes.SlidingWindow?
+p20
+I905
+sVd.xs[0:100,:] - d2.xs[0:100,:]
+p21
+I3582
+sVcPickle.dump?
+p22
+I477
+sVlda.means.shape
+p23
+I4874
+sVtest[33*27:35*27]
+p24
+I470
+sVnumpy.concatenate( (real_points, [1] ) )
+p25
+I2182
+sVd4.nd_xs.shape
+p26
+I3520
+s.

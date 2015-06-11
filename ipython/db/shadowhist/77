@@ -1,0 +1,71 @@
+(dp1
+Vnp.mean(d2.nd_xs[35,:,:,0], axis=1).shape
+p2
+I77
+sV0**-0.5
+p3
+I3375
+sV10/4.0 == 2.4999999999999
+p4
+I5611
+sVdir(math)
+p5
+I2038
+sVd2 = pdb.runcall(psychic.slice, d, mdict, (-2000, 2000))
+p6
+I3630
+sVlogging.basicConfig(level=logging.DEBUG, stream=sys.stdout)
+p7
+I62
+sVvalues['n_records'] = 0
+p8
+I6385
+sVmatlab = scipy.io.loadmat('Data/Emil.mat')
+p9
+I3315
+sV2 % 40
+p10
+I5077
+sVplot.plot( mean(d2.nd_xs[0,:,:], axis=0) )
+p11
+I4082
+sVm = re.match(r'(^.*)?(\u005cd*)(\u005c.(.*))?$', 'hello-01.bdf')
+p12
+I6003
+sVdiff = d.ys[1:,0] - d.ys[:-1,0]
+p13
+I1139
+sVbp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(4, [4/(s/2.0), 45/(s/2.0)]) )
+p14
+I2349
+sVX3 = array(X2).reshape(8, 74, 100)
+p15
+I5368
+sVfloatnonzero(d.ys > 100)
+p16
+I4952
+sVtest =  d.ys == 1
+p17
+I819
+sVeegplot.plot_windowed_eeg(d2, 1000, vspace=10)
+p18
+I3271
+sVtrial = d3[0]
+p19
+I6356
+sVplot(f)
+p20
+I1972
+sVbuf.__str__
+p21
+I785
+sVd2 = psychic.slice(d, {1:'target', 2:'nontarget'}, (0, 500))
+p22
+I3741
+sV1.25/12.8
+p23
+I1892
+sVwindow_node.train(d4)
+p24
+I1472
+s.

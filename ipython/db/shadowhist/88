@@ -1,0 +1,83 @@
+(dp1
+Va = numpy.array([[1]])
+p2
+I807
+sVeegplot.plot_eeg(d[-3000:-150])
+p3
+I4542
+sVargmax
+p4
+I4174
+sVhelp(cPickle)
+p5
+I479
+sVys = numpy.array(d.ys)
+p6
+I2762
+sVargmax([1,2,1])
+p7
+I6568
+sVbin( (test[4] << 4) & 0x00ffff)
+p8
+I404
+sVdel block2
+p9
+I4300
+sVdov1
+p10
+I5521
+sVpca.numcols
+p11
+I1099
+sVeegplot.plot_erp( erp.erp(d3[:-3], (0,20)), 1000 )
+p12
+I4265
+sV(10/128.0) * 12.8
+p13
+I1903
+sVeegplot.plot_erp( erp.erp(d2, (0,20), classes=[1,2,3,4,5,6]), 100, vspace=20 )
+p14
+I4240
+sVclassifier0.S_is.shape
+p15
+I5110
+sVscipy.io.loadmat('../../NoBackup/data/SSVEP-scan-Arne-120s-6Hz-25Hz-10-steps-sine-epoc.mat')
+p16
+I1266
+sVeegplot.plot_erp(d4, 1000, (0, 200))
+p17
+I4417
+sVys2[24990:25010]
+p18
+I156
+sVd.ys[:,1]
+p19
+I1133
+sVflatnonzero(d.Y > 100).shape
+p20
+I5068
+sV192/12.8
+p21
+I2012
+sV16036-6030
+p22
+I574
+sVd = bdf.load_bdf('../Data/marijn-p300-full-1-resampled.bdf')
+p23
+I4999
+sV0 % 0
+p24
+I392
+sVd.cl_lab.index('status')
+p25
+I5563
+sVpca.ndims
+p26
+I5531
+sVd = psychic.resample_rec(d, 0.1)
+p27
+I4157
+sVm.groups()[1]
+p28
+I6513
+s.

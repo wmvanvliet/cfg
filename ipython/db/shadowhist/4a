@@ -1,0 +1,80 @@
+(dp1
+Va = array([1,2,3,4,2])
+p2
+I4171
+sVeegplot.plot_eeg(d2, 1000, spectogram=False)
+p3
+I1956
+sVa = [1,1,1,0,0,1,1]
+p4
+I796
+sV%run n400_classifier.py
+p5
+I4509
+sVplt.plot(ca)
+p6
+I2937
+sVeegplot.plot_erp(d2[:-4], 100, baseline_period=(0, 0.2), feat_lab=d.feat_lab, start=0, classes=[0,1])
+p7
+I4062
+sVbp_node = psychic.nodes.Filter(  lambda s : scipy.signal.iirfilter(6, [0.3/(s/2.0), 30/(s/2.0)]) )
+p8
+I3763
+sVeegplot.plot_windowed_eeg(d2[1:2}, 1000)
+p9
+I3261
+sVls ../data
+p10
+I4773
+sVa = np.array([1,2,3,4,5])
+p11
+I3129
+sV%run -d experiment1.py
+p12
+I3628
+sVep = usb_find_descriptor(dev.get_interface_altsetting(), find_all=True)
+p13
+I871
+sV800/float(750)
+p14
+I3729
+sVdiff(m.shape[:,0])
+p15
+I5863
+sVb + numpy.tile([[0], [100]], 1,6)
+p16
+I931
+sVnumpy.concatenate([1], [2,3,4], 1)
+p17
+I607
+sVeegplot.plot_eeg(d2, 1, spectogram=False, vspace=0.5 )
+p18
+I2249
+sVnp.mean(timing_slow)
+p19
+I5884
+sVgolem.perf.acc( lda.train_apply(train, test) )
+p20
+I6094
+sVfigure9)
+p21
+I6035
+sVjjjjjjY
+p22
+I5189
+sV[x,i for x,i in enumerate(string)]
+p23
+I5953
+sVa.strip().startswith('##')
+p24
+I2816
+sVintensity = numpy.vstack(intensity[0][0])
+p25
+I3176
+sVplot.ylim(num_test_blocks/float(num_options), num_test_blocks)
+p26
+I6480
+sVplot_eeg(d, 1000)
+p27
+I1164
+s.

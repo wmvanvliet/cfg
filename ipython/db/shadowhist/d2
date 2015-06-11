@@ -1,0 +1,59 @@
+(dp1
+Vsum([1,2,3,4])
+p2
+I4722
+sVY = np.hstack(( np.zeros((1, num_repetitions)), np.ones((1, num_repetitions)) ))
+p3
+I5081
+sVa[1]
+p4
+I3484
+sVtraining.ninstances_per_class
+p5
+I5188
+sVd = psychic.load_bdf('../Data/Subject4-IMEC.bdf')
+p6
+I2770
+sVfft_node = fft.FFT
+p7
+I3784
+sVtest[33*27:34*27]
+p8
+I469
+sVplt.plot(avg2[:,6], '-b', linewidth=4)
+p9
+I3306
+sVplot.plot( np.mean(d2.nd_xs[:100,:,:], axis=0) )
+p10
+I4096
+sVstep
+p11
+I2811
+sVplt.plot(d3.xs[:,0])
+p12
+I900
+sVplt.ylabel('Window size (s)')
+p13
+I2087
+sVpsychic.plot_timeseries(training.X.reshape(8,-1).T)
+p14
+I5350
+sVeegplot.plot_eeg(d, baseline=False)
+p15
+I975
+sVa = array([[[1],[2],[3],[4]],[[5],[6],[7],[8]]])
+p16
+I5272
+sVhi = numpy.array( numpy.ceil( numpy.linspace(0,4,10) ), dtype=numpy.int )
+p17
+I1697
+sVw = bdf.BDFWriter('../Data/Subject6-EPOC-BEST.bdf', values=values)
+p18
+I2740
+sVX.shape
+p19
+I4950
+sVplt.title('Detector performance')
+p20
+I2284
+s.
