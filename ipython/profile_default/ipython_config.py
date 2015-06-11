@@ -26,7 +26,7 @@ c = get_config()
 
 # Pre-load matplotlib and numpy for interactive use, selecting a particular
 # matplotlib backend and loop integration.
-c.TerminalIPythonApp.pylab = 'qt4'
+c.TerminalIPythonApp.pylab = 'qt'
 
 # Suppress warning messages about legacy config files
 # c.TerminalIPythonApp.ignore_old_config = False
@@ -148,7 +148,9 @@ c.TerminalIPythonApp.quick = False
 # c.InteractiveShellApp.code_to_run = ''
 
 # lines of code to run at IPython startup.
-c.InteractiveShellApp.exec_lines = ['%autoreload 1', '%aimport psychic']
+c.InteractiveShellApp.exec_lines = ['%autoreload 1',
+                                    '%aimport psychic',
+                                    '%aimport mne']
 
 # A list of dotted module names of IPython extensions to load.
 c.InteractiveShellApp.extensions = ['autoreload']

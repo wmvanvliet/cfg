@@ -3,7 +3,8 @@ backend.qt4: PySide
 
 figure.facecolor: white
 
-axes.facecolor: white
+#axes.facecolor: white
+axes.facecolor: dddddd
 axes.edgecolor: none
 #axes.edgecolor: 444444
 axes.grid: True
@@ -11,9 +12,10 @@ axes.axisbelow: True
 axes.titlesize: x-large
 axes.labelsize: large
 axes.labelcolor: black
-#axes.color_cycle: 348abd, 7a68a6, a60628, 467821, cf4457, 188487, e24a33
+axes.color_cycle: black, a60628, 348abd, 467821, 7a68a6, cf4457, 188487, e24a33
 
-grid.color: dddddd
+#grid.color: dddddd
+grid.color: white
 grid.linestyle: -
 grid.linewidth: 1
 
