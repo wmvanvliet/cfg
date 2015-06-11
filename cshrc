@@ -7,23 +7,24 @@
 
 alias h		history 100 
 alias j		jobs -l
-alias la	ls -a
-alias lf	ls -FA
-alias ll	ls -lAh
-alias ls	ls -G
+alias la	ls --color=auto -a
+alias lf	ls --color=auto -FA
+alias ll	ls --color=auto -lAh
+alias ls	ls --color=auto -G
+alias lh	ls --color=auto -lh
 
 
 # A righteous umask
 umask 22
 
-set path = (/sbin /bin /usr/sbin /usr/bin /usr/games /usr/local/texlive/2013/bin/amd64-freebsd /usr/local/sbin /usr/local/bin /usr/local/kde4/bin $HOME/bin)
+set path = ($HOME/.local/bin /sbin /bin /usr/sbin /usr/bin /usr/games /usr/local/texlive/2013/bin/amd64-freebsd /usr/local/sbin /usr/local/bin /usr/local/kde4/bin $HOME/bin)
 
 setenv	CLICOLOR true
 setenv	EDITOR	vim
 setenv	PAGER	more
 setenv	BLOCKSIZE	K
-setenv	BROWSER opera
-setenv	PYTHONPATH "$HOME/bciserver:$HOME/psychic:$HOME/golem:$HOME/toolboxes/python"
+setenv	BROWSER firefox
+setenv	PYTHONPATH "$HOME/bciserver:$HOME/psychic:$HOME/golem:$HOME/toolboxes/python:$HOME/mne-python:$HOME/meet"
 setenv  MOZ_PLUGIN_PATH "/usr/local/lib/browser_plugins"
 
 alias cpv "rsync -avr --progress -e ssh"
