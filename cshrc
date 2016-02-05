@@ -7,11 +7,11 @@
 
 alias h		history 100 
 alias j		jobs -l
-alias la	ls --color=auto -a
-alias lf	ls --color=auto -FA
-alias ll	ls --color=auto -lAh
-alias ls	ls --color=auto -G
-alias lh	ls --color=auto -lh
+alias la	ls -a
+alias lf	ls -FA
+alias ll	ls -lAh
+alias ls	ls -G
+alias lh	ls -lh
 alias apg	apg -q -m 10 -x 10 -M NC -n1
 
 # A righteous umask
@@ -60,4 +60,4 @@ alias cpa 'rsync -vae ssh --progress --append'
 alias cpv2 'rsync -vae "ssh -p5000" --progress'
 alias cpa2 'rsync -vae "ssh -p5000" --progress'
 
-source .cshrc.local
+source $HOME/.cshrc.local

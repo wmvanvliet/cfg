@@ -161,7 +161,7 @@ c = get_config()
 # The font family to use for the console. On OSX this defaults to Monaco, on
 # Windows the default is Consolas with fallback of Courier, and on other
 # platforms the default is Monospace.
-# c.IPythonWidget.font_family = u''
+c.IPythonWidget.font_family = u'Inconsolata'
 
 # The pygments lexer class to use.
 # c.IPythonWidget.lexer_class = <IPython.utils.traitlets.Undefined object at 0x1018b8910>
@@ -195,7 +195,7 @@ c = get_config()
 
 # The font size. If unconfigured, Qt will be entrusted with the size of the
 # font.
-# c.IPythonWidget.font_size = 0
+c.IPythonWidget.font_size = 12
 
 # The editor command to use when a specific line number is requested. The string
 # should contain two format specifiers: {line} and {filename}. If this parameter
