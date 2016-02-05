@@ -30,5 +30,8 @@ ln -s ~/cfg/xbindkeysrc ~/.xbindkeysrc
 mkdir -p ~/bin
 cp ~/cfg/bin/* ~/bin
 
+rm -f ~/.i3
+ln -s ~/cfg/i3 ~/.i3
+
 sudo cp ~/cfg/etc/make.conf /etc/make.conf
 sudo cp ~/cfg/etc/rc.conf /etc/rc.conf
