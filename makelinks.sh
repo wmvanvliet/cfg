@@ -27,7 +27,7 @@ ln -s ~/cfg/conkyrc ~/.conkyrc
 rm -f ~/.xbindkeysrc
 ln -s ~/cfg/xbindkeysrc ~/.xbindkeysrc
 
-mkdir ~/bin
+mkdir -p ~/bin
 cp ~/cfg/bin/* ~/bin
 
 sudo cp ~/cfg/etc/hosts /etc/hosts
