@@ -1,21 +1,23 @@
 own_window yes
-own_window_type override
-#own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
-#own_window_class Conky
+#own_window_type desktop
+own_window_type dock
+own_window_hint above
+own_window_class Conky
 own_window_transparent no
 own_window_colour 101010
+#alignment top_left
+#minimum_size 2200 15
+#maximum_size 2200 15
+#gap_y 0
+#gap_x 200
 
 double_buffer yes
 use_xft yes
 update_interval 1.0
 draw_shades no
 
-alignment bottom_right
-#alignment bottom_left
-gap_y = 100
-minimum_size 1910 25
 
-font Consolas:size=10
+font Sans:size=9
 
 color1 e0e0e0
 color2 00aa00
@@ -26,14 +28,14 @@ use_spacer right
 pad_percents 2
 
 TEXT
-${color1} CPUs: ${cpugraph cpu0 15,25 ff0000 ffffff} \
-${cpugraph cpu1 15,25 ff0000 ffffff} \
-${cpugraph cpu2 15,25 ff0000 ffffff} \
-${cpugraph cpu3 15,25 ff0000 ffffff} \
-${cpugraph cpu4 15,25 ff0000 ffffff} \
-${cpugraph cpu5 15,25 ff0000 ffffff} \
-${cpugraph cpu6 15,25 ff0000 ffffff} \
-${cpugraph cpu7 15,25 ff0000 ffffff} \
+${color1} CPUs: ${cpugraph cpu0 15,25 ff0000 ffffff -t} \
+${cpugraph cpu1 15,25 ff0000 ffffff -t} \
+${cpugraph cpu2 15,25 ff0000 ffffff -t} \
+${cpugraph cpu3 15,25 ff0000 ffffff -t} \
+${cpugraph cpu4 15,25 ff0000 ffffff -t} \
+${cpugraph cpu5 15,25 ff0000 ffffff -t} \
+${cpugraph cpu6 15,25 ff0000 ffffff -t} \
+${cpugraph cpu7 15,25 ff0000 ffffff -t} \
 MEM: ${membar 15,25} ${swapbar 15,25} \
 ${goto 500} \
 NET: ${downspeed eth0} ${upspeed eth0} \
