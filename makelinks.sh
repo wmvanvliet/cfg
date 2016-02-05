@@ -30,6 +30,5 @@ ln -s ~/cfg/xbindkeysrc ~/.xbindkeysrc
 mkdir -p ~/bin
 cp ~/cfg/bin/* ~/bin
 
-sudo cp ~/cfg/etc/hosts /etc/hosts
 sudo cp ~/cfg/etc/make.conf /etc/make.conf
 sudo cp ~/cfg/etc/rc.conf /etc/rc.conf
