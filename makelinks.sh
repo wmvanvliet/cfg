@@ -1,5 +1,6 @@
 rm -f ~/.cshrc
 ln -s ~/cfg/cshrc ~/.cshrc
+touch ~/.cshrc.local
 
 rm -f ~/.vim
 ln -s ~/cfg/vim ~/.vim
@@ -32,3 +33,10 @@ cp ~/cfg/bin/* ~/bin
 
 rm -f ~/.i3
 ln -s ~/cfg/i3 ~/.i3
+
+rm -f ~/.zshrc
+ln -s ~/cfg/zshrc ~/.zshrc
+
+rm -rf ~/.zsh
+ln -s ~/cfg/zsh ~/.zsh
+touch ~/.zsh.local

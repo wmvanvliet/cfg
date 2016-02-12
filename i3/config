@@ -173,3 +173,8 @@ bindsym XF86AudioNext exec dbus-send --print-reply --dest=org.mpris.MediaPlayer2
 
 # Conky
 exec --no-startup-id conky -c ~/.conkyrc
+exec setxkbmap -model pc105 -layout us -variant altgr-intl
+exec xmodmap -e "remove Lock = Caps_Lock"
+exec xmodmap -e "keysym Caps_Lock = Control_L"
+exec xmodmap -e "add Control = Control_L"
+

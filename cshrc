@@ -29,7 +29,7 @@ setenv  ETS_TOOLKIT qt4
 
 if ($?prompt) then
 	# An interactive shell -- set some stuff up
-	set prompt = "\n%{\033[33m%}%T %/>%{\033[0m%} "
+	set prompt = "\n%{\033[33m%}%T %m:%/>%{\033[0m%} "
 	set filec
 	set history = 2000
 	set savehist = (2000 merge)
